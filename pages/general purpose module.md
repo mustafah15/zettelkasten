@@ -1,0 +1,5 @@
+- which you implement a module that can be used to address a broad range of problems, not just the ones that important today
+- [[benefits of general purpose modules]]
+	- the results in simpler and deeper interfaces than the [[special purpose module]]
+	- the general purpose approach can save you time in the future, if you reuse the classes for other purpose,
+	- however even the module is only used for its original purpose only the general purpose is still better because of it simplicity.

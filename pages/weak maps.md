@@ -1,0 +1,3 @@
+- a weak maps is a key value store pretty much like php arrays but weak map keys can be an object, so it allows you to associate an object with some piece of data.
+- we have `splObjectStorage` which have the same functionality in previous php version but the difference between `splObjectStorage` and `weakMap` is that `splObjectStorage` has no garbage collection mechanism even you unset a value it's always there, however this problem is solved with the `weakMap`.
+-

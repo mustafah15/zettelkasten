@@ -1,0 +1,35 @@
+- Exception handling is one of the worst sources of complexity in software systems because code that deals with special conditions is inherently harder to write than code that deals with normal cases. and developer often define exceptions without considering how they will be handled.
+- why exceptions add complexity
+	- the author uses term exception to refer to any un common condition that alter the normal flow of control in a program. many programming languages include a formal exception mechanism that allows exceptions to be thrown by lower level code and caught by enclosing code. however exceptions can happen without using a formal exception reporting mechanism, such as when a method returns a special value indicating that it didn't complete its normal behaviour. All of these forms of exceptions contribute to complexity.
+	- **Exceptions Reasons** - A piece of code may encounter exceptions in several different ways:
+		- A caller may provide a argument or config information.
+		- An invoked method may not be able to complete a requested operation.
+		- network packets may be list or delayed, servers may not respond in a timely fashion.
+		- the code may detect bugs internal inconsistencies or situations it is not prepared to handle.
+	- when an exception occurs, the programmer can deal with it in two ways each of which can be complicated.
+		- the first approach is to move forward and complete the work in progress in spite of the exception.
+			- if a network packet lost it can be resent if data is corrupted, perhaps it can be recovered from a redundant copy as perhaps the packet wasn't actually lost but was simply delayed.
+		- the second approach is to abort the operation in progress and report the exception upwards
+			- however aborting can be complicated because the exception may have occurred at a point where system state is inconsistent the exception handling code must restore consistency, such as by unwinding any changes made before the exception occurred.
+	- Exception handling code creates opportunities for more exceptions and to prevent an unending cascade of exceptions the developer must eventually find a way to handle exceptions without introducing more exceptions.
+	- Most programmers are taught that it's important to detect any report errors they often interpret this to mean "the more errors detected, the better." which might lead to an over defensive style where anything that looks even a bit suspicious is that increase the complexity of the system.
+	- It's tempting to use exceptions to avoid dealing with difficult situations rather than figuring out a clean way to handle it, just throw an exception and punt the problem to the caller.
+		- some might argue that this approach empowers callers, since it allows each figuring out what to do for the particular situation, there's a good chance that the caller won't know what to do either.
+		- generating an exception in a situation like this just passes the problem to someone else and adds to the system complexity
+	- Exceptions thrown by a class are part of its interface; classes with lots of exceptions have a complex interface they are shallower than classes with fewer exceptions. [[shallow modules]]
+	- An Exception is a particularly complex element of an interface. why? because it can propagate up through several stack levels before being caught so it affects not just the method's caller but potentially also higher-level callers thus the complexity of an exception comes from the exception handling code.
+	- the best way to reduce complexity damage caused by exception handling is to reduce the number of places where exceptions have to be handled
+- FOUR TECHNIQUES FOR REDUCING THE NUMBER OF EXCEPTION HANDLERS
+	- define errors out of existence
+		- the best way to eliminate exception handling complexity is to define your APIs so that there are no exceptions to handle: define errors out of existence. this may seem sinful, but it is very effective in practice. consider TCL `uset` command instead of throwing error when unset asked to delete an unknown variable, it should have simply returned without doing anything.
+		- with the first definition, unset can't do its job if the variable doesn't exist so generating an exception makes sense. with the second definition, it is perfectly natural for un set to be invoked with the name of a variable that doesn't exist. in this case it's work is already done, so it can simply return there is no longer an error case to report.
+	- mask exceptions
+		- [[exception masking]]
+		- the second technique for reducing the number of places where exceptions must be handled is [[exception masking]] with this approach an exceptional condition is detected and handled at a low level in the system so that higher levels of software need not be aware of the condition. Exception masking is particularly common in [[distributed system]].  for instance in a network transport protocol such as [[TCP]] packets can be dropped for various reasons such as corruption and congestion. [[TCP]] makes packet loss by resending lost packet with its implementation, so all data eventually gets through and clients are unaware of the dropped packets.
+		- Exception masking doesn't work in all situations but it is a powerful tool in the situations where it works. it results in deeper classes since it reduces the class's interface and adds functionality in form of code that masks the exception.
+		- also exception masking is an example of [[pull complexity downwards]]
+	- exception aggregation
+		- the third technique for reducing complexity related to exceptions is exception aggregation. the idea behind exception aggregation is to handle many exception with a single piece of code; rather than writing distinct handlers for many individual exceptions handle them all in one place with a single handler.
+		- consider how to handle missing parameters in web server a web server implements a collection of urls. when the server receives an incoming url, it dispatches to a url specific service method to process that url and generate a response. the url contain various parameters that are used to generate the response. Each method will call a lower level method to extract parameters that it needs from the url. if the url does not contain the desired parameter, `getParameter` throws an exception.
+	- just crash?
+	-

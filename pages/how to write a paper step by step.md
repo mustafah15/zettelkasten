@@ -1,0 +1,4 @@
+-
+- make fleeting notes always have something at hand to use to capture every idea that pops into your mind. don't worry too much about how you write it down or what you write it on. these are fleeting notes should be landing in one place which you define as your inbox, and process them later. you also can use voice notes if it works for you.
+- make literature notes. whenever you read something make notes about the content write down what you don;t want to forget or think might use in your own thinking or writing keep it very short but extermly selective don;t copy or qaute too much
+- make permanent notes. now turn to your slip box go through the notes you made in step one and two and think  about how they relate to other notes or ideas you have

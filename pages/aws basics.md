@@ -1,0 +1,2 @@
+- https://cloudcasts.io/course/onboarding-aws/what-well-cover-in-onboarding-aws
+-

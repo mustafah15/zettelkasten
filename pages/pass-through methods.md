@@ -1,0 +1,12 @@
+- #[[software design red flags]]
+- When adjacent layers have similar abstractions, the problem often manifests itself in the form of pass-through methods.
+- definition of a pass-through methods is one that does little except invoke another method whose signature is similar or identical to that of the calling methods.
+- If a pass through method is do nothing except pass it's arguments to another method, usually with the same API as the pass-through method. this indicates that there is not a clean division of responsibility between the classes.
+- why pass-through methods are bad
+	- they make classes shallower, they increase the interface complexity of the class. but they don't increase the total functionality of the system.
+	- pass-through methods also create dependencies between classes: if the signature of one layer changed other has to follow the update.
+- The **solution** is to refactor the classes so that each class has a distinct and coherent set of responsibilities.
+	- one approach is to expose the lower level class directly to the caller of the class.
+	- another approach is to redistribute the functionality between he classes.
+-
+-

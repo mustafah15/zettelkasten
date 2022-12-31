@@ -1,0 +1,4 @@
+- first highlight your phisical book can put some bookmarks on everything that you feel important.
+- once you finish the book revist your highlight on the book and try to write what you highlighted into your own words.
+- organize notes by theme and store them
+-

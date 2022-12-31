@@ -1,0 +1,884 @@
+[{:block/name "a",
+  :block/created-at 1650495349874,
+  :block/updated-at 1650495349874}
+ {:block/name "abstraction",
+  :block/created-at 1650495337620,
+  :block/updated-at 1650495337620}
+ {:block/name "abstractions",
+  :block/created-at 1650495340381,
+  :block/updated-at 1650495340381}
+ {:block/name "acid",
+  :block/created-at 1650495337562,
+  :block/updated-at 1650495337562}
+ {:block/name "ack",
+  :block/created-at 1650495337602,
+  :block/updated-at 1650495337602}
+ {:block/name "adapter pattern",
+  :block/created-at 1650495337645,
+  :block/updated-at 1650495337645}
+ {:block/name "advanced system design interview",
+  :block/created-at 1650495337664,
+  :block/updated-at 1650495337664}
+ {:block/name "agile development",
+  :block/created-at 1650495340402,
+  :block/updated-at 1650495340402}
+ {:block/name "amdahl's law",
+  :block/created-at 1650495337685,
+  :block/updated-at 1650495337685}
+ {:block/name "application server cache",
+  :block/created-at 1650495338095,
+  :block/updated-at 1650495338095}
+ {:block/name "ask for directions",
+  :block/created-at 1655122649866,
+  :block/updated-at 1655123630768}
+ {:block/name "async communication",
+  :block/created-at 1650495338554,
+  :block/updated-at 1650495338554}
+ {:block/name "asynchronous transactions",
+  :block/created-at 1650495338559,
+  :block/updated-at 1650495338559}
+ {:block/name "aug 10th, 2022",
+  :block/created-at 1660140263159,
+  :block/updated-at 1660140263159}
+ {:block/name "aug 11th, 2022",
+  :block/created-at 1660176213280,
+  :block/updated-at 1660176213280}
+ {:block/name "aug 13th, 2022",
+  :block/created-at 1660366654582,
+  :block/updated-at 1660366654582}
+ {:block/name "aug 14th, 2022",
+  :block/created-at 1660463057875,
+  :block/updated-at 1660463057875}
+ {:block/name "aug 15th, 2022",
+  :block/created-at 1660535110730,
+  :block/updated-at 1660535110730}
+ {:block/name "aug 17th, 2022",
+  :block/created-at 1660718140747,
+  :block/updated-at 1660718140747}
+ {:block/name "aug 18th, 2022",
+  :block/created-at 1660855037917,
+  :block/updated-at 1660855037917}
+ {:block/name "aug 19th, 2022",
+  :block/created-at 1660915496742,
+  :block/updated-at 1660915496742}
+ {:block/name "aug 22nd, 2022",
+  :block/created-at 1661155063985,
+  :block/updated-at 1661155063985}
+ {:block/name "aug 23rd, 2022",
+  :block/created-at 1661209882604,
+  :block/updated-at 1661209882604}
+ {:block/name "aug 24th, 2022",
+  :block/created-at 1661358717128,
+  :block/updated-at 1661358717128}
+ {:block/name "aug 27th, 2022",
+  :block/created-at 1661566026936,
+  :block/updated-at 1661566026936}
+ {:block/name "aug 28th, 2022",
+  :block/created-at 1661652815824,
+  :block/updated-at 1661652815824}
+ {:block/name "aug 29th, 2022",
+  :block/created-at 1661742719271,
+  :block/updated-at 1661742719271}
+ {:block/name "aug 31st, 2022",
+  :block/created-at 1661954508893,
+  :block/updated-at 1661954508893}
+ {:block/name "aug 3rd, 2022",
+  :block/created-at 1659538942741,
+  :block/updated-at 1659538942741}
+ {:block/name "aug 4th, 2022",
+  :block/created-at 1659564038718,
+  :block/updated-at 1659564038718}
+ {:block/name "aug 5th, 2022",
+  :block/created-at 1659675785790,
+  :block/updated-at 1659675785790}
+ {:block/name "aug 7th, 2022",
+  :block/created-at 1659857654323,
+  :block/updated-at 1659857654323}
+ {:block/name "aug 8th, 2022",
+  :block/created-at 1659930747487,
+  :block/updated-at 1659930747487}
+ {:block/name "aug 9th, 2022",
+  :block/created-at 1660023550649,
+  :block/updated-at 1660023550649}
+ {:block/name "availability",
+  :block/created-at 1650495338288,
+  :block/updated-at 1650495338288}
+ {:block/name "availability and reliability",
+  :block/created-at 1650495337716,
+  :block/updated-at 1650495337716}
+ {:block/name "aws basics",
+  :block/created-at 1650927052646,
+  :block/updated-at 1650927055582}
+ {:block/name "b",
+  :block/created-at 1650495349874,
+  :block/updated-at 1650495349874}
+ {:block/name "behavioural interview questions",
+  :block/created-at 1650495337767,
+  :block/updated-at 1650495337767}
+ {:block/name "behavioural patterns",
+  :block/created-at 1650495337880,
+  :block/updated-at 1650495337880}
+ {:block/name "benefits of general purpose modules",
+  :block/created-at 1650551881330,
+  :block/updated-at 1650551881330}
+ {:block/name "book notes",
+  :block/created-at 1650499325586,
+  :block/updated-at 1650499325586}
+ {:block/name "bridge pattern",
+  :block/created-at 1650495337992,
+  :block/updated-at 1650495337992}
+ {:block/name "builder design pattern",
+  :block/created-at 1650495338020,
+  :block/updated-at 1650495338020}
+ {:block/name "bulkhead",
+  :block/created-at 1650495338565,
+  :block/updated-at 1650495338565}
+ {:block/name "byzantine fault",
+  :block/created-at 1650495338566,
+  :block/updated-at 1650495338566}
+ {:block/name "c",
+  :block/created-at 1650495349874,
+  :block/updated-at 1650495349874}
+ {:block/name "cache eviction polices",
+  :block/created-at 1650495338099,
+  :block/updated-at 1650495338099}
+ {:block/name "cache invalidation",
+  :block/created-at 1650495338097,
+  :block/updated-at 1650495338097}
+ {:block/name "caching",
+  :block/created-at 1650495338101,
+  :block/updated-at 1650495338101}
+ {:block/name "cap theorem",
+  :block/created-at 1650495338055,
+  :block/updated-at 1650495338055}
+ {:block/name "card",
+  :block/created-at 1650495349874,
+  :block/updated-at 1650495349874}
+ {:block/name "causes of complexity",
+  :block/created-at 1650495340421,
+  :block/updated-at 1650495340421}
+ {:block/name "chain of responsibility",
+  :block/created-at 1650495337857,
+  :block/updated-at 1650495337857}
+ {:block/name "change amplification",
+  :block/created-at 1650495340437,
+  :block/updated-at 1650495340437}
+ {:block/name "circuit breaker",
+  :block/created-at 1650495338565,
+  :block/updated-at 1650495338565}
+ {:block/name "classitis",
+  :block/created-at 1650495340451,
+  :block/updated-at 1650495340451}
+ {:block/name "cognitive load",
+  :block/created-at 1650495340380,
+  :block/updated-at 1650495340380}
+ {:block/name "command",
+  :block/created-at 1650495337859,
+  :block/updated-at 1650495337859}
+ {:block/name "commen expresions",
+  :block/created-at 1655121457194,
+  :block/updated-at 1655123029288}
+ {:block/name "commit log",
+  :block/created-at 1650495338200,
+  :block/updated-at 1650495338200}
+ {:block/name "communication and coordination",
+  :block/created-at 1650495338229,
+  :block/updated-at 1650495338229}
+ {:block/name "comparison",
+  :block/created-at 1656400011967,
+  :block/updated-at 1656400011967}
+ {:block/name "complexity in software design",
+  :block/created-at 1650495340472,
+  :block/updated-at 1654440708891}
+ {:block/name "complexity is incremental",
+  :block/created-at 1650495340484,
+  :block/updated-at 1650495340484}
+ {:block/name "composite pattern",
+  :block/created-at 1650495338269,
+  :block/updated-at 1650495338269}
+ {:block/name "conflict free replicated data types",
+  :block/created-at 1650495338561,
+  :block/updated-at 1650495338561}
+ {:block/name "consistency",
+  :block/created-at 1650495338325,
+  :block/updated-at 1650495338325}
+ {:block/name "consistency in databases",
+  :block/created-at 1650495337560,
+  :block/updated-at 1650495337560}
+ {:block/name "consistency or availability",
+  :block/created-at 1650495338289,
+  :block/updated-at 1650495338289}
+ {:block/name "containment",
+  :block/created-at 1650495339678,
+  :block/updated-at 1650495339678}
+ {:block/name "contention in distributed systems",
+  :block/created-at 1650495339764,
+  :block/updated-at 1650495339764}
+ {:block/name "contents",
+  :block/created-at 1650495349874,
+  :block/updated-at 1650495349874}
+ {:block/name "cqrs",
+  :block/created-at 1650495338562,
+  :block/updated-at 1650495338562}
+ {:block/name "creational patterns",
+  :block/created-at 1650495338363,
+  :block/updated-at 1650495338363}
+ {:block/name "database engineering",
+  :block/created-at 1650495340001,
+  :block/updated-at 1650495340001}
+ {:block/name "datadog",
+  :block/created-at 1652990121558,
+  :block/updated-at 1652990121558}
+ {:block/name "decorator pattern",
+  :block/created-at 1650495338419,
+  :block/updated-at 1650495338419}
+ {:block/name "deep modules",
+  :block/created-at 1650495340601,
+  :block/updated-at 1650495340601}
+ {:block/name "delegation",
+  :block/created-at 1650495339677,
+  :block/updated-at 1650495339677}
+ {:block/name "dependencies",
+  :block/created-at 1650495340419,
+  :block/updated-at 1650495340419}
+ {:block/name "dependency inversion principle",
+  :block/created-at 1650495338437,
+  :block/updated-at 1650495338437}
+ {:block/name "design patterns",
+  :block/created-at 1650495338452,
+  :block/updated-at 1650495338452}
+ {:block/name "designing reactive distributed systems",
+  :block/created-at 1650495338569,
+  :block/updated-at 1650495338569}
+ {:block/name "deutsche",
+  :block/created-at 1655120879953,
+  :block/updated-at 1655120879953}
+ {:block/name "devops",
+  :block/created-at 1650926849293,
+  :block/updated-at 1652990121560}
+ {:block/name "different layer different abstraction",
+  :block/created-at 1654440694354,
+  :block/updated-at 1654441193594}
+ {:block/name "dispatcher",
+  :block/created-at 1654495872892,
+  :block/updated-at 1654496880440}
+ {:block/name "distributed system",
+  :block/created-at 1650495338530,
+  :block/updated-at 1650495338530}
+ {:block/name "docker",
+  :block/created-at 1652990101907,
+  :block/updated-at 1652990101907}
+ {:block/name "doing",
+  :block/created-at 1650495349874,
+  :block/updated-at 1650495349874}
+ {:block/name "domain driven design",
+  :block/created-at 1650495338549,
+  :block/updated-at 1650495338549}
+ {:block/name "done",
+  :block/created-at 1650495349874,
+  :block/updated-at 1650495349874}
+ {:block/name "dynamic programming",
+  :block/created-at 1650495339995,
+  :block/updated-at 1650495339995}
+ {:block/name "encapsulation",
+  :block/created-at 1650495338879,
+  :block/updated-at 1650495338879}
+ {:block/name "event sourcing",
+  :block/created-at 1650495338563,
+  :block/updated-at 1650495338563}
+ {:block/name "event-driven vs message-driven",
+  :block/created-at 1650495339633,
+  :block/updated-at 1650495339633}
+ {:block/name "eventual consistency",
+  :block/created-at 1650495338323,
+  :block/updated-at 1650495338323}
+ {:block/name "facade pattern",
+  :block/created-at 1650495338902,
+  :block/updated-at 1650495338902}
+ {:block/name "factory design pattern",
+  :block/created-at 1650495338358,
+  :block/updated-at 1650495338358}
+ {:block/name "failure detection",
+  :block/created-at 1650495338557,
+  :block/updated-at 1650495338557}
+ {:block/name "favorites",
+  :block/created-at 1650495349874,
+  :block/updated-at 1650495349874}
+ {:block/name "flyweight pattern",
+  :block/created-at 1650495338993,
+  :block/updated-at 1650495338993}
+ {:block/name "general purpose approach",
+  :block/created-at 1650552776981,
+  :block/updated-at 1650552776981}
+ {:block/name "general purpose module",
+  :block/created-at 1650495340635,
+  :block/updated-at 1650551881331}
+ {:block/name "general purpose modules vs special purpose modules",
+  :block/created-at 1650495340637,
+  :block/updated-at 1654435490717}
+ {:block/name "german learning",
+  :block/created-at 1655120454587,
+  :block/updated-at 1655123911951}
+ {:block/name "golden metrics for monitoring",
+  :block/created-at 1650495338567,
+  :block/updated-at 1650495338567}
+ {:block/name "grammer",
+  :block/created-at 1656400012573,
+  :block/updated-at 1656600417313}
+ {:block/name "gunther’s universal law",
+  :block/created-at 1650495339012,
+  :block/updated-at 1650495339012}
+ {:block/name "horizontal scaling",
+  :block/created-at 1650495339761,
+  :block/updated-at 1650495339761}
+ {:block/name "how to design a distributed messaging system",
+  :block/created-at 1650495337663,
+  :block/updated-at 1650495337663}
+ {:block/name "ie vs ei",
+  :block/created-at 1655121112621,
+  :block/updated-at 1655121329567}
+ {:block/name "in restaurant",
+  :block/created-at 1656400013380,
+  :block/updated-at 1656400013380}
+ {:block/name "in supermarket",
+  :block/created-at 1656400014633,
+  :block/updated-at 1656400014633}
+ {:block/name "in the city",
+  :block/created-at 1656400016053,
+  :block/updated-at 1656400016053}
+ {:block/name "in-progress",
+  :block/created-at 1650495349874,
+  :block/updated-at 1650495349874}
+ {:block/name "information hiding",
+  :block/created-at 1650495340703,
+  :block/updated-at 1650500100992}
+ {:block/name "information hiding and leakage",
+  :block/created-at 1650495340711,
+  :block/updated-at 1650495340711}
+ {:block/name "information leakage",
+  :block/created-at 1650495340705,
+  :block/updated-at 1650495340705}
+ {:block/name "inheritance",
+  :block/created-at 1650495339084,
+  :block/updated-at 1650495339084}
+ {:block/name "interface segregation principle",
+  :block/created-at 1650495339091,
+  :block/updated-at 1650495339091}
+ {:block/name "interview applications",
+  :block/created-at 1650495340002,
+  :block/updated-at 1650495340002}
+ {:block/name "inthecity",
+  :block/created-at 1656400016046,
+  :block/updated-at 1656400016046}
+ {:block/name "introduce yourself",
+  :block/created-at 1655120865379,
+  :block/updated-at 1655121003528}
+ {:block/name "isolation",
+  :block/created-at 1650495339678,
+  :block/updated-at 1650495339678}
+ {:block/name "istio & service mech",
+  :block/created-at 1650926973539,
+  :block/updated-at 1650926977089}
+ {:block/name "iterator",
+  :block/created-at 1650495337863,
+  :block/updated-at 1650495337863}
+ {:block/name "ja ",
+  :block/created-at 1655123911950,
+  :block/updated-at 1655123911950}
+ {:block/name "ja / nein questions",
+  :block/created-at 1655123911949,
+  :block/updated-at 1655123911949}
+ {:block/name "javascript interviews questions",
+  :block/created-at 1650495340929,
+  :block/updated-at 1650495340929}
+ {:block/name "jul 10th, 2022",
+  :block/created-at 1657411127794,
+  :block/updated-at 1657411127794}
+ {:block/name "jul 11th, 2022",
+  :block/created-at 1657491250586,
+  :block/updated-at 1657491250586}
+ {:block/name "jul 12th, 2022",
+  :block/created-at 1657609137715,
+  :block/updated-at 1657609137715}
+ {:block/name "jul 13th, 2022",
+  :block/created-at 1657722442523,
+  :block/updated-at 1657722442523}
+ {:block/name "jul 14th, 2022",
+  :block/created-at 1657754939546,
+  :block/updated-at 1657754939546}
+ {:block/name "jul 15th, 2022",
+  :block/created-at 1657905743175,
+  :block/updated-at 1657905743175}
+ {:block/name "jul 16th, 2022",
+  :block/created-at 1657931843533,
+  :block/updated-at 1657931843533}
+ {:block/name "jul 17th, 2022",
+  :block/created-at 1658043431758,
+  :block/updated-at 1658043431758}
+ {:block/name "jul 1st, 2022",
+  :block/created-at 1656626409312,
+  :block/updated-at 1656626409312}
+ {:block/name "jul 20th, 2022",
+  :block/created-at 1658303204624,
+  :block/updated-at 1658303204624}
+ {:block/name "jul 2nd, 2022",
+  :block/created-at 1656719666937,
+  :block/updated-at 1656719666937}
+ {:block/name "jul 3rd, 2022",
+  :block/created-at 1656805175610,
+  :block/updated-at 1656805175610}
+ {:block/name "jul 4th, 2022",
+  :block/created-at 1656886826695,
+  :block/updated-at 1656886826695}
+ {:block/name "jul 5th, 2022",
+  :block/created-at 1656977426314,
+  :block/updated-at 1656977426314}
+ {:block/name "jul 6th, 2022",
+  :block/created-at 1657059678974,
+  :block/updated-at 1657059678974}
+ {:block/name "jul 8th, 2022",
+  :block/created-at 1657233629933,
+  :block/updated-at 1657233629933}
+ {:block/name "jul 9th, 2022",
+  :block/created-at 1657326450144,
+  :block/updated-at 1657326450144}
+ {:block/name "jun 10th, 2022",
+  :block/created-at 1654812083427,
+  :block/updated-at 1654812083427}
+ {:block/name "jun 11th, 2022",
+  :block/created-at 1654898424539,
+  :block/updated-at 1654898424539}
+ {:block/name "jun 12th, 2022",
+  :block/created-at 1654984822530,
+  :block/updated-at 1654984822530}
+ {:block/name "jun 13th, 2022",
+  :block/created-at 1655071257676,
+  :block/updated-at 1655071257676}
+ {:block/name "jun 28th, 2022",
+  :block/created-at 1656400011387,
+  :block/updated-at 1656400011387}
+ {:block/name "jun 30th, 2022",
+  :block/created-at 1656600243367,
+  :block/updated-at 1656600243367}
+ {:block/name "jun 3rd, 2022",
+  :block/created-at 1654276387722,
+  :block/updated-at 1654276387722}
+ {:block/name "jun 4th, 2022",
+  :block/created-at 1654293624817,
+  :block/updated-at 1654293624817}
+ {:block/name "jun 5th, 2022",
+  :block/created-at 1654380028604,
+  :block/updated-at 1654380028604}
+ {:block/name "jun 6th, 2022",
+  :block/created-at 1654466440259,
+  :block/updated-at 1654466440259}
+ {:block/name "jun 7th, 2022",
+  :block/created-at 1654553395183,
+  :block/updated-at 1654553395183}
+ {:block/name "jun 8th, 2022",
+  :block/created-at 1654642502148,
+  :block/updated-at 1654642502148}
+ {:block/name "jun 9th, 2022",
+  :block/created-at 1654728099582,
+  :block/updated-at 1654728099582}
+ {:block/name "kafka",
+  :block/created-at 1650495339037,
+  :block/updated-at 1650495339037}
+ {:block/name "kafka common terms",
+  :block/created-at 1650495339038,
+  :block/updated-at 1650495339038}
+ {:block/name "kafka consumer group",
+  :block/created-at 1650495339041,
+  :block/updated-at 1650495339041}
+ {:block/name "kafka high-water mark",
+  :block/created-at 1650495339040,
+  :block/updated-at 1650495339040}
+ {:block/name "kafka in-sync replicas",
+  :block/created-at 1650495339039,
+  :block/updated-at 1650495339039}
+ {:block/name "kafka topic partitions",
+  :block/created-at 1650495339039,
+  :block/updated-at 1650495339039}
+ {:block/name "kafka use cases",
+  :block/created-at 1650495339038,
+  :block/updated-at 1650495339038}
+ {:block/name "kafka workflow as a pub-sub",
+  :block/created-at 1650495339041,
+  :block/updated-at 1650495339041}
+ {:block/name "kafka workflow as a queue",
+  :block/created-at 1650495339042,
+  :block/updated-at 1650495339042}
+ {:block/name "languages",
+  :block/created-at 1656400016493,
+  :block/updated-at 1656400016493}
+ {:block/name "later",
+  :block/created-at 1650495349874,
+  :block/updated-at 1650495349874}
+ {:block/name "laws of scalability",
+  :block/created-at 1650495338052,
+  :block/updated-at 1650495338052}
+ {:block/name "linear scalability",
+  :block/created-at 1650495340961,
+  :block/updated-at 1650495340961}
+ {:block/name "liskove substation principle",
+  :block/created-at 1650495339327,
+  :block/updated-at 1650495339327}
+ {:block/name "load balancing",
+  :block/created-at 1650495338552,
+  :block/updated-at 1650495338552}
+ {:block/name "logging in kubernetes with efk stack",
+  :block/created-at 1650926904519,
+  :block/updated-at 1650926911322}
+ {:block/name "may 14th, 2022",
+  :block/created-at 1652551535606,
+  :block/updated-at 1652551535606}
+ {:block/name "may 19th, 2022",
+  :block/created-at 1652916781096,
+  :block/updated-at 1652990184611}
+ {:block/name "may 21st, 2022",
+  :block/created-at 1653118974157,
+  :block/updated-at 1653118974157}
+ {:block/name "mediator",
+  :block/created-at 1650495337864,
+  :block/updated-at 1650495337864}
+ {:block/name "message communication",
+  :block/created-at 1650495338555,
+  :block/updated-at 1650495338555}
+ {:block/name "messaging patterns",
+  :block/created-at 1650495338556,
+  :block/updated-at 1650495338556}
+ {:block/name "microservices vs distributed monolith",
+  :block/created-at 1650495338550,
+  :block/updated-at 1650495338550}
+ {:block/name "mien, your, his, her",
+  :block/created-at 1656400012570,
+  :block/updated-at 1656400012570}
+ {:block/name "modular design",
+  :block/created-at 1650495340379,
+  :block/updated-at 1650495340379}
+ {:block/name "modules should be deep",
+  :block/created-at 1650495341031,
+  :block/updated-at 1650495341031}
+ {:block/name "more vocab",
+  :block/created-at 1656400016839,
+  :block/updated-at 1656400016839}
+ {:block/name "multicast communication",
+  :block/created-at 1650495338555,
+  :block/updated-at 1650495338555}
+ {:block/name "mustafa hussain",
+  :block/created-at 1650495339397,
+  :block/updated-at 1650495339397}
+ {:block/name "my flat",
+  :block/created-at 1656400016946,
+  :block/updated-at 1656400016946}
+ {:block/name "myflat",
+  :block/created-at 1656400016943,
+  :block/updated-at 1656400016943}
+ {:block/name "new features in php 8",
+  :block/created-at 1650495339407,
+  :block/updated-at 1650495339407}
+ {:block/name "new page_ docker",
+  :block/created-at 1652990094635,
+  :block/updated-at 1652990094635}
+ {:block/name "nov 28th, 2022",
+  :block/created-at 1669653484206,
+  :block/updated-at 1669653492836}
+ {:block/name "now",
+  :block/created-at 1650495349874,
+  :block/updated-at 1650495349874}
+ {:block/name "numbers",
+  :block/created-at 1656400017134,
+  :block/updated-at 1656400017134}
+ {:block/name "object oriented design",
+  :block/created-at 1650495339431,
+  :block/updated-at 1650495339431}
+ {:block/name "obscurity",
+  :block/created-at 1650495340380,
+  :block/updated-at 1650495340380}
+ {:block/name "observer",
+  :block/created-at 1650495337874,
+  :block/updated-at 1650495337874}
+ {:block/name "open-closed principle",
+  :block/created-at 1650495339486,
+  :block/updated-at 1650495339486}
+ {:block/name "overexposure",
+  :block/created-at 1650495340710,
+  :block/updated-at 1650495340710}
+ {:block/name "partition tolerance",
+  :block/created-at 1650495338053,
+  :block/updated-at 1650495338053}
+ {:block/name "pass-through methods",
+  :block/created-at 1654441193593,
+  :block/updated-at 1654498256725}
+ {:block/name "patterns for problem solving",
+  :block/created-at 1650495339996,
+  :block/updated-at 1650495339996}
+ {:block/name "philosophy of software desing",
+  :block/created-at 1650495341125,
+  :block/updated-at 1654440694355}
+ {:block/name "php",
+  :block/created-at 1650495339495,
+  :block/updated-at 1650495339495}
+ {:block/name "point to point messaging",
+  :block/created-at 1650495338556,
+  :block/updated-at 1650495338556}
+ {:block/name "polymorphism",
+  :block/created-at 1650495339429,
+  :block/updated-at 1650495339429}
+ {:block/name "problem solving interview",
+  :block/created-at 1650495339994,
+  :block/updated-at 1650495339994}
+ {:block/name "profession",
+  :block/created-at 1655123648699,
+  :block/updated-at 1655123873382}
+ {:block/name "professions",
+  :block/created-at 1656400017629,
+  :block/updated-at 1656400017629}
+ {:block/name "prototype design pattern",
+  :block/created-at 1650495338360,
+  :block/updated-at 1650495338360}
+ {:block/name "proxy pattern",
+  :block/created-at 1650495339561,
+  :block/updated-at 1650495339561}
+ {:block/name "publish subscribe messaging",
+  :block/created-at 1650495338557,
+  :block/updated-at 1650495338557}
+ {:block/name "publish-subscribe",
+  :block/created-at 1650495339580,
+  :block/updated-at 1650495339580}
+ {:block/name
+  "questions to help you find the right balance between general purpose approach and special purpose approach",
+  :block/created-at 1654434630345,
+  :block/updated-at 1654434742255}
+ {:block/name "queuing",
+  :block/created-at 1650495339595,
+  :block/updated-at 1650495339595}
+ {:block/name "reactive distributed systems",
+  :block/created-at 1650495338544,
+  :block/updated-at 1650495338544}
+ {:block/name "reactive microservices",
+  :block/created-at 1650495338549,
+  :block/updated-at 1650495338549}
+ {:block/name "reactive principles",
+  :block/created-at 1650495339630,
+  :block/updated-at 1650495339630}
+ {:block/name "redundancy and replication",
+  :block/created-at 1650495338560,
+  :block/updated-at 1650495338560}
+ {:block/name "remote procedure calls",
+  :block/created-at 1650495338553,
+  :block/updated-at 1650495338553}
+ {:block/name "replication",
+  :block/created-at 1650495339678,
+  :block/updated-at 1650495339678}
+ {:block/name "resiliency",
+  :block/created-at 1650495338564,
+  :block/updated-at 1650495338564}
+ {:block/name "rest",
+  :block/created-at 1650495338554,
+  :block/updated-at 1650495338554}
+ {:block/name "restaurant",
+  :block/created-at 1656400013373,
+  :block/updated-at 1656400013373}
+ {:block/name "saga pattern",
+  :block/created-at 1650495338560,
+  :block/updated-at 1650495338560}
+ {:block/name "sagas",
+  :block/created-at 1650495339716,
+  :block/updated-at 1650495339716}
+ {:block/name "scalability",
+  :block/created-at 1650495338531,
+  :block/updated-at 1650495338531}
+ {:block/name "scalability vs performance",
+  :block/created-at 1650495339762,
+  :block/updated-at 1650495339762}
+ {:block/name "sep 19th, 2022",
+  :block/created-at 1663575655408,
+  :block/updated-at 1663575655408}
+ {:block/name "sep 1st, 2022",
+  :block/created-at 1661998063805,
+  :block/updated-at 1661998063805}
+ {:block/name "sep 2nd, 2022",
+  :block/created-at 1662119731933,
+  :block/updated-at 1662119731933}
+ {:block/name "sep 6th, 2022",
+  :block/created-at 1662443961777,
+  :block/updated-at 1662443961777}
+ {:block/name "sep 9th, 2022",
+  :block/created-at 1662709264272,
+  :block/updated-at 1662709264272}
+ {:block/name "separable verbs",
+  :block/created-at 1656600417313,
+  :block/updated-at 1656600628844}
+ {:block/name "separation of concerns ",
+  :block/created-at 1650495339801,
+  :block/updated-at 1650495339801}
+ {:block/name "shallow modules",
+  :block/created-at 1650495340601,
+  :block/updated-at 1650495340601}
+ {:block/name "single responsibility principle",
+  :block/created-at 1650495339699,
+  :block/updated-at 1650495339699}
+ {:block/name "singleton design pattern",
+  :block/created-at 1650495338361,
+  :block/updated-at 1650495338361}
+ {:block/name "software architecture",
+  :block/created-at 1650500049475,
+  :block/updated-at 1650500049475}
+ {:block/name "software design",
+  :block/created-at 1650499299098,
+  :block/updated-at 1650499299098}
+ {:block/name "software design red flags",
+  :block/created-at 1650495340818,
+  :block/updated-at 1650495340818}
+ {:block/name "solid",
+  :block/created-at 1650495338449,
+  :block/updated-at 1650495338449}
+ {:block/name "special purpose approach",
+  :block/created-at 1650552796854,
+  :block/updated-at 1650552796854}
+ {:block/name "special purpose module",
+  :block/created-at 1650495340636,
+  :block/updated-at 1650495340636}
+ {:block/name "specification pattern",
+  :block/created-at 1650495339485,
+  :block/updated-at 1650495339485}
+ {:block/name "state",
+  :block/created-at 1650495337868,
+  :block/updated-at 1650495337868}
+ {:block/name "strategic programming",
+  :block/created-at 1650495341227,
+  :block/updated-at 1650495341227}
+ {:block/name "strategic vs tactical programming",
+  :block/created-at 1650495340635,
+  :block/updated-at 1650495340635}
+ {:block/name "strategy",
+  :block/created-at 1650495337871,
+  :block/updated-at 1650495337871}
+ {:block/name "strong consistency",
+  :block/created-at 1650495338288,
+  :block/updated-at 1650495338288}
+ {:block/name "structural patterns",
+  :block/created-at 1650495338451,
+  :block/updated-at 1650495338451}
+ {:block/name "supermarket",
+  :block/created-at 1656400014623,
+  :block/updated-at 1656400014623}
+ {:block/name "symptoms of complexity",
+  :block/created-at 1650495340522,
+  :block/updated-at 1650495340522}
+ {:block/name "sync communication ",
+  :block/created-at 1650495338553,
+  :block/updated-at 1650495338553}
+ {:block/name "system design interview",
+  :block/created-at 1650495339997,
+  :block/updated-at 1650495339997}
+ {:block/name "tactical programming",
+  :block/created-at 1650495341238,
+  :block/updated-at 1650495341238}
+ {:block/name "tactical programming ",
+  :block/created-at 1650495341278,
+  :block/updated-at 1650495341278}
+ {:block/name "tactical tornado",
+  :block/created-at 1650495341295,
+  :block/updated-at 1650495341295}
+ {:block/name "taking it too far",
+  :block/created-at 1650495340710,
+  :block/updated-at 1650495340710}
+ {:block/name "template method",
+  :block/created-at 1650495337870,
+  :block/updated-at 1650495337870}
+ {:block/name "temporal decomposition",
+  :block/created-at 1650495340707,
+  :block/updated-at 1650495340707}
+ {:block/name "the effect of coherency delay",
+  :block/created-at 1650495340574,
+  :block/updated-at 1650495340574}
+ {:block/name "the family",
+  :block/created-at 1656400018051,
+  :block/updated-at 1656400018051}
+ {:block/name "the interview project",
+  :block/created-at 1650495340003,
+  :block/updated-at 1650495340003}
+ {:block/name "the key characteristics of distributed systems",
+  :block/created-at 1650495338534,
+  :block/updated-at 1650495338534}
+ {:block/name "the module implementation",
+  :block/created-at 1650495340120,
+  :block/updated-at 1650495340120}
+ {:block/name "the module interface",
+  :block/created-at 1650495340131,
+  :block/updated-at 1650495340131}
+ {:block/name "the reactive manifesto",
+  :block/created-at 1650495339629,
+  :block/updated-at 1650495339629}
+ {:block/name "time & clocks",
+  :block/created-at 1650495338558,
+  :block/updated-at 1650495338558}
+ {:block/name "todo",
+  :block/created-at 1650495349874,
+  :block/updated-at 1650495349874}
+ {:block/name "tools in technical interview",
+  :block/created-at 1650495340000,
+  :block/updated-at 1650495340000}
+ {:block/name "transactions",
+  :block/created-at 1650495338558,
+  :block/updated-at 1650495338558}
+ {:block/name "transportation",
+  :block/created-at 1656400018464,
+  :block/updated-at 1656400018464}
+ {:block/name "types of distributed systems architectures",
+  :block/created-at 1650495338532,
+  :block/updated-at 1650495338532}
+ {:block/name "typescript",
+  :block/created-at 1650495340001,
+  :block/updated-at 1650495340001}
+ {:block/name "typescript enum",
+  :block/created-at 1650495340206,
+  :block/updated-at 1650495340206}
+ {:block/name "typescript generic",
+  :block/created-at 1650495340224,
+  :block/updated-at 1650495340224}
+ {:block/name "typescript types vs interfaces",
+  :block/created-at 1650495340235,
+  :block/updated-at 1650495340235}
+ {:block/name "unknown unknowns",
+  :block/created-at 1650495340131,
+  :block/updated-at 1650495340131}
+ {:block/name "vertical scaling",
+  :block/created-at 1650495339761,
+  :block/updated-at 1650495339761}
+ {:block/name "visitor",
+  :block/created-at 1650495337873,
+  :block/updated-at 1650495337873}
+ {:block/name "wait",
+  :block/created-at 1650495349874,
+  :block/updated-at 1650495349874}
+ {:block/name "waiting",
+  :block/created-at 1650495349874,
+  :block/updated-at 1650495349874}
+ {:block/name "waterfall model",
+  :block/created-at 1650495341115,
+  :block/updated-at 1650495341115}
+ {:block/name "weekdays",
+  :block/created-at 1656400018725,
+  :block/updated-at 1656434711709}
+ {:block/name "what is a messaging system_",
+  :block/created-at 1650495339034,
+  :block/updated-at 1650495339034}
+ {:block/name "what is kafka_",
+  :block/created-at 1650495339037,
+  :block/updated-at 1650495339037}
+ {:block/name "why reactive",
+  :block/created-at 1650495339628,
+  :block/updated-at 1650495339628}
+ {:block/name
+  "why starting with general purpose design is not the best idea",
+  :block/created-at 1650495340637,
+  :block/updated-at 1654434016773}
+ {:block/name "zero tolerance",
+  :block/created-at 1650495340483,
+  :block/updated-at 1650495340483}
+ {:block/name "zookeeper",
+  :block/created-at 1650495339042, 
+  :block/updated-at 1650495339042}]

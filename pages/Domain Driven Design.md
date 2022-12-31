@@ -1,0 +1,154 @@
+---
+title: Domain Driven Design
+---
+
+- Domain Driven design originates form a book called Domain Driven Design by Eric Evans.
+- One of the key goal of the book is to try **to create a software implementation that is based on an evolving model that is understood by the domain experts.** so largely about creating a communication channel between the domain experts and the software developers.
+- As far as goals go for domain driven design one of the key goals within it is to take a large system, or a large domain and to break it down to smaller pieces. the problem that we have the larger domain you have the more harder you can deal with it and harder to model a a large singe coherent model.
+- break things down into small pieces. this gives us a way to determine the boundaries, essentially  between those smaller pieces within the larger domain,
+- Reactive micro-services for example have a similar goal they need to be separated along clear boundaries, each microservice has to have a clearly defined api and a specific set of responsibilities. if we don't know what the responsibilities of the microservice  it's going to be very hard ti build it and have a proper design for it.
+- thats where the DDD will help us it give us a set of guidelines and a set of techniques  that we can use to try to help us to break larger domain into a smaller ones.
+- What Is a Domain?
+	- A domain in the context of  the software, it refers to the business or idea that we are modeling.
+	- Experts in the domain are people who understand the business, not necessarily the software.
+	- the Key goal of DDD is to build a model that the domain experts understand, and the model is not the software.
+		- the model represents our understanding of the domain.
+		- the software is an implementation of the model.
+- Decomposing the Domain
+	- take the large domain and separate them into subdomains, our subdomains are created by grouping related ideas and action and rules into separated sub domain.
+	- because of that each sub domain essentially ends up having its own ubiquitous language and model. **the language and model for a sub domain is what we call a bounded context,** subdomain or Bounded contexts are good starting points for building reactive microservices.
+	- from one Bounded context to the next the meaning of a word may change dramatically.
+		- in restaurant, when talking to a server, an order, has a very specific meaning.
+		- when we speaking to the person who manage inventory for the restaurant order means something completely different.
+- How to Determine Bounded Context
+	- here you are some guidelines because there are no universal answer
+		- consider human culture and interaction
+		- Different areas of the domain that are handled by different groups of people, suggests a natural division.
+		- look for changes in ubiquitous language
+		- if the use of language or the meaning of that language changes, that may suggest a new context.
+		- look for varying or unnecessary information
+		- employee id is very important in an employee, meaningless in a customer.
+		- strongly separated bounded context will result in smooth workflows.
+			- an awkward workflow may signal a misunderstanding of the domain .
+			- if a bounded context has too many dependencies it may be overcomplicated
+- Event First Domain Driven Design
+	- Traditionally DDD focused on the objects within the domain
+		- Cook, Reservation, Customer...
+	- Event First Domain Driven Design Places the focus on the activities or events that occur in the domain
+		- customer makes a reservation, server places an order, food is served to the customer.
+		- using event first DDD we start by defining the activities, then group those activities to find logical system boundaries
+- Domain Activities
+	- subject verb object NOTATION help us to find the events happened in our domain
+	- example: customer make order
+- MAINTAINING PURITY OF BOUNDARIES
+	- Maintaining the purity of those bounded context needs a technique or a set of techniques that allows us to do that.
+- Anti-Corruption Layers
+	- Each Bounded context may have domain concepts that are unique, Concepts are not always compatible from one context to the next.
+		- Anti-corruption layers are introduced to translate these concepts
+		- Anti-corruption layers will prevent Bounded context from leaking into each other.
+		- Anti-Corruption layers help the bounded context to stand alone.
+	- How Anti Corruption Layers are implemented
+	- a common way to build it is abstract interface that represent pure domain representation of the data and then we have implementation of this interface which dose that translation and that sort of infrastructure component that dose that translation.
+- Anti-Corruption Layers for Legacy systems
+	- the domain for the legacy system maybe messy or unclear, but the Anti-Corruption layer keeps your Bounded Context pure.
+	- It prevents your domain from dealing with the mess of the legacy system.
+- Context Maps
+	- ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3585fd5a-977a-41e0-9ee4-2be53b2a45d4/Screen_Shot_2020-05-02_at_12.09.13_AM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3585fd5a-977a-41e0-9ee4-2be53b2a45d4/Screen_Shot_2020-05-02_at_12.09.13_AM.png)
+		- Context Maps are a way of visualizing Bounded Contexts and the relationships between them.
+		- Bounded Contexts are drawn as simple shapes
+		- lines connects the Bounded Contexts to indicate relationships
+		- Lines may be labelled to indicate the nature of the relationships
+- DOMAIN ACTIVITIES
+	- Commands
+		- Commands are a type of activity that occurs in the domain.
+		- Represents a request to preform an action.
+		- the action has not yet happened and it can be rejected.
+		- Usually delivers to aa specific destination causes a change to the state of the domain.
+		- Eg. Add an item to an order, pay a bill.
+	- Events
+		- Events are another type of activities in the domain.
+		- They represent an action that happened in the past.
+		- because of the action already completed, they can not be rejected.
+		- often broadcast to many destinations.
+		- record a change to the state of the domain, often the result of aa command.
+		- Eg. item was added to an order, a bill was paid, aa meal was prepared.
+	- Quereis
+		- they represent a request for information about the domain.
+		- because they are a query, a response is always expected.
+		- usually delivered to a specific destination
+		- queries should not alter the state of the domain
+		- Eg. get all the details of an order, check if a bill haas been paid.
+	- ![the relation between Command, Event and Query](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3fd9bc2c-d875-4c2f-988a-3a1b0fd921f6/Screen_Shot_2020-05-02_at_1.16.06_AM.png)
+	- the relation between Command, Event and Query
+		- Commands, Events and Queries are the messages in a Reactive System.
+		- They form the API for a Bounded Context or Microservice.
+- DOMAIN OBJECTS
+	- Value Objects
+		- A value object is defined by it's attributes
+		- Two value objects are equivalent if their attributes are the same.
+		- Value Objects are immutable
+		- in addition  to state,  value object can contain business logic.
+		- Messages in Reactive Systems are implemented as value objects.
+	- Entites
+		- An Entity is defined by a unique identity
+		- An Entity May change its attributes but not its identity.
+		- If the Identity changes, it is a new entity regardless of it's attributes.
+		- Entities are the single source of truth for a particular id.
+		- Entities can also Contain business logic
+	- Aggregates
+	- ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/86a60473-f987-4312-b5e4-cf7038746bbb/Screen_Shot_2020-05-02_at_3.53.36_PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/86a60473-f987-4312-b5e4-cf7038746bbb/Screen_Shot_2020-05-02_at_3.53.36_PM.png)
+	- Aggregate is a specific type of Entity
+		- An Aggregate is a collection of domain objects bound to a root entity.
+		- The root entity is called the Aggregate root.
+		- Objects in an aggregate can be treated as a single unit.
+		- Access to objects in the aggregate must go through the aggregate root.
+		- Transaction should not span multiple Aggregate Roots.
+		- Aggregates are good candidates for distribution in a Reactive System.
+- Determining the Aggregate Roots
+	- ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ab39ea7d-9ac3-410e-9553-89477f28acf1/Screen_Shot_2020-05-02_at_3.56.56_PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ab39ea7d-9ac3-410e-9553-89477f28acf1/Screen_Shot_2020-05-02_at_3.56.56_PM.png)
+		- Choosing an aggregate root is not always straightforward.
+		- the aggregate root can be different from one context to another.
+		- some contexts may require multiple aggregate roots.
+		- some questions to consider:
+			- is the entity involved in most operations in that bounded context?
+			- if you delete the entity, does it require you to delete other entities?
+			- will a single transaction span multiple entities?
+- DOMAIN ABSTRACTION
+	- Services
+		- Business logic that does not fit with an entity or value object.
+		- the logic can be encapsulated by a service.
+		- Service should be stateless
+		- Often used to abstract away an anti-corruption layer.
+	- Factories
+		- Logic to construct new domain object may not be trivial.
+		- may require access to external resources (database, REST, Files, etc)
+		- Factories abstract away the logic of creation.
+		- Usually implemented as a domain interface, with one or more concrete implementations.
+	- Repositories
+		- Similar to Factories, Repositories abstract away the retrieving of existing objects.
+		- Factories are used to get new objects, Repositories are used to get or modify existing objects.
+		- Often operate as abstraction layers over databases, but they can work with files, REST APIs etc.
+- HEXAGONAL ARCHITECTURE
+	- ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/74e3c253-6104-4771-a455-36df39430aa2/Screen_Shot_2020-05-02_at_9.53.48_PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/74e3c253-6104-4771-a455-36df39430aa2/Screen_Shot_2020-05-02_at_9.53.48_PM.png)
+	- Also known as ports and adapters, it's alternative to the layered or N-tier architecture
+		- Domain is isolated to the center of the model, becomes the architectural focus.
+		- ports are exposed as an API for the domain
+		- infrastructure contains adapters that map to the ports.
+		- Hexagonal architecture can be viewed as an onion.
+		- domain is in the center, API provides interface to the domain, these are your ports.
+		- infrastructure adapts incoming and outgoing traffic into the ports.
+		- outer layer depend on inner layers.
+		- inner layer have no knowledge of the outer layers.
+		- Hexagonal Architecture ensures proper separation of infrastructure from Domain.
+		- Prevents concerns around databases, user interfaces etc, from bleeding into the domain.
+		- can be enforced with package, or even project structure in the application allows your domain portable.
+- Implementing DDD
+	- example on the folder structure for the hexagon architecture
+	- ![Screenshot 2021-09-02 at 21.55.30.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bc1aa875-90d7-4a07-9bfe-5d8a30bf2d7f/Screenshot_2021-09-02_at_21.55.30.png){:height 32, :width 318}
+	- the request is handled by a controller who use a mapper to map the request to a domain object and then pass it to the service which do the required job for the request and return the response to the controller to replay the request
+	- the service it self use the domain object and use other infra structure objects to be able to do it's job.
+- One of the key goal of the book is to try **to create a software implementation that is based on an evolving model that is understood by the domain experts.** so largely about creating a communication channel between the domain experts and the software developers.
+- As far as goals go for domain driven design one of the key goals within it is to take a large system, or a large domain and to break it down to smaller pieces. the problem that we have the larger domain you have the more harder you can deal with it and harder to model a a large singe coherent model.
+- break things down into small pieces. this gives us a way to determine the boundaries, essentially  between those smaller pieces within the larger domain,
+- Reactive micro-services for example have a similar goal they need to be separated along clear boundaries, each microservice has to have a clearly defined api and a specific set of responsibilities. if we don't know what the responsibilities of the microservice  it's going to be very hard ti build it and have a proper design for it.
+- thats where the DDD will help us it give us a set of guidelines and a set of techniques  that we can use to try to help us to break larger domain into a smaller ones.

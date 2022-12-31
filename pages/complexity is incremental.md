@@ -1,0 +1,12 @@
+---
+title: complexity is incremental
+---
+
+- complexity is incremental 
+  id:: 2fc92080-114d-4acc-8947-d5e07e6d667e
+	- complexity isn't caused by a single catastrophic error it accumulates in lots of small chunks a single dependency or obscurity by itself is unlikely to affect significantly the maintainability of a software system . complexity comes because hundreds or thousands of small dependencies and obscurities build up over time. eventually there are so many of these small issues that every possible change to the system is affected by several of them. 
+	  id:: 7ddcc108-d87d-428e-9f2f-7d29d3e7815a
+	- the incremental nature of complexity makes it hard to control it's easy to convince yourself that a little bit of complexity introduced by your current change is not big deal however if every developer takes this approach for every change complexity accumulates rapidly. 
+	  id:: 734d30c7-cf5a-4256-9d86-d4f2979f193c
+	- once complexity has accumulated  it is hard to eliminated since fixing a single dependency or obscurity will not by it self make a big difference in  order to slow the growth of complexity you must adopt a [[zero tolerance]] philosophy
+-

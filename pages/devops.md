@@ -1,0 +1,7 @@
+- devops topics
+	- [[Logging in Kubernetes with EFK Stack]]
+	- [[Istio & service mech]]
+	- [[aws basics]]
+	- [[docker]]
+	- [[datadog]]
+	-

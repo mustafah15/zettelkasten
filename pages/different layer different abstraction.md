@@ -1,0 +1,22 @@
+- software systems are composed in layers, where higher layers use the facilities provided by lower layers. in a well designed system, each layer provides a different abstraction from the layers above and bellow; if you follow a single operation as it moves up and down through layer by invoking methods, the abstraction change with each method call.
+	- for example: in a file system the uppermost layer implements a file abstraction. a file consists of a variable-length array of bytes, which can be updated by reading and writing variable length byte ranges. the next lower layer in the file system implements a cache in memory of fixed size disk blocks; callers assume that frequently used blocks wills tay in memory where they can be accessed quickly, the lowest layer consists of device drivers which move blocks between secondary storage device and memory
+- if a system contains adjacent layers with similar abstractions, this is a red flag that suggests a problem with the class decomposition. This part discusses situations  where this happens this problems that result, and how to refactor to eliminate the problems.
+- [[pass-through methods]]
+- **when is interface duplication is ok?**
+  collapsed:: true
+	- having methods with the same signature is not always bad. the important thing is that each new method should contribute significant functionality. pass through methods are bad because they contribute no new functionality.
+	- examples on the useful for a method to call another method with the same signature is a [[dispatcher]]
+	- it's fine for several methods to have the same signature as long as each of them provides useful and distinct functionality.
+- [[Decorator pattern]] is one that encourages API duplication across layers. A decorator object takes an existing object and extends its functionality it provides an api similar or identical to underlaying object.
+  collapsed:: true
+	- before creating a decorator class consider an alternatives such as the following:
+		- could you add the new functionality directly to the underlying class, rather than creating a decorator class?
+		- this would make sense in those cases:
+			- the new functionality is relatively general purpose.
+			- or if it's logically related to underlaying class.
+			- the most use of the underlaying class will also use the new functionality.
+		- if the new functionality is specialised of a particular use case would it make sense to merge it with the use case rather than creating a separate class?
+		- could you merge the new functionality with an existing decorator rather than creating a new decorator? which should result in a single deeper decorator class rather than multiple shallow ones.
+		- finally ask yourself wether the new functionality really needs to wrap the existing functionality or you can implement it as a stand alone class that is independent of the base class?
+- [[pass-through variables]]
+-

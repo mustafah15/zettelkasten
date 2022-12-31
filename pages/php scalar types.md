@@ -1,0 +1,4 @@
+- boolean
+- int
+- float
+- string

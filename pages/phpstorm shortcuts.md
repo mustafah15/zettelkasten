@@ -1,0 +1,4 @@
+- Recent files: Command + E.
+- Navigate files:  Command + up.
+- Refactor this: control + t.
+-

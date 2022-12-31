@@ -1,0 +1,2 @@
+- installing new project
+- intro to nestjs project structure and some concept

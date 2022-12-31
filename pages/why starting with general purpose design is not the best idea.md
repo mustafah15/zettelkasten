@@ -1,0 +1,2 @@
+- it's hard to predict the future needs of a software system so a general purpose solution might include facilities that are never actually needed. Furthermore if you implement something that is too general purpose, it might not do a good job of solving the particular problem you have today, as result it's better to focus on today's needs, building just what you know you need and specialising it for the ay you plan to use it today
+-
