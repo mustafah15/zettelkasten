@@ -25,14 +25,8 @@
 		- with the first definition, unset can't do its job if the variable doesn't exist so generating an exception makes sense. with the second definition, it is perfectly natural for un set to be invoked with the name of a variable that doesn't exist. in this case it's work is already done, so it can simply return there is no longer an error case to report.
 	- mask exceptions
 		- [[exception masking]]
-		- the second technique for reducing the number of places where exceptions must be handled is [[exception masking]] with this approach an exceptional condition is detected and handled at a low level in the system so that higher levels of software need not be aware of the condition. Exception masking is particularly common in [[distributed system]].  for instance in a network transport protocol such as [[TCP]] packets can be dropped for various reasons such as corruption and congestion. [[TCP]] makes packet loss by resending lost packet with its implementation, so all data eventually gets through and clients are unaware of the dropped packets.
-		- Exception masking doesn't work in all situations but it is a powerful tool in the situations where it works. it results in deeper classes since it reduces the class's interface and adds functionality in form of code that masks the exception.
-		- also exception masking is an example of [[pull complexity downwards]]
 	- exception aggregation
-		- the third technique for reducing complexity related to exceptions is exception aggregation. the idea behind exception aggregation is to handle many exception with a single piece of code; rather than writing distinct handlers for many individual exceptions handle them all in one place with a single handler.
-		- consider how to handle missing parameters in web server a web server implements a collection of urls. when the server receives an incoming url, it dispatches to a url specific service method to process that url and generate a response. the url contain various parameters that are used to generate the response. Each method will call a lower level method to extract parameters that it needs from the url. if the url does not contain the desired parameter, `getParameter` throws an exception.
-		- A better approach is to aggregate the exceptions. instead of catching the exceptions in the individual services, let them propagate up to the top-level dispatch method of the web server A single handler in this method can catch all of the exceptions and generate an appropriate error response for missing parameters.
-		- the aggregation approach can be taken even further in the web example. there are many other errors besides missing parameters that can occur while processing a web page.
-		- The aggregation has good properties from the stand point of encapsulation and information hiding. the top-level exception handler encapsulates knowledge about how to generate error responses, but it knows nothing about specific errors; it just uses the error message provided in the exception. the `getParameter` knows nothing about the syntax of an http error response.
+		- [[exception aggregation]]
+		-
 	- just crash?
 	-
