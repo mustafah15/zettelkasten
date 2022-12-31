@@ -31,5 +31,8 @@
 	- exception aggregation
 		- the third technique for reducing complexity related to exceptions is exception aggregation. the idea behind exception aggregation is to handle many exception with a single piece of code; rather than writing distinct handlers for many individual exceptions handle them all in one place with a single handler.
 		- consider how to handle missing parameters in web server a web server implements a collection of urls. when the server receives an incoming url, it dispatches to a url specific service method to process that url and generate a response. the url contain various parameters that are used to generate the response. Each method will call a lower level method to extract parameters that it needs from the url. if the url does not contain the desired parameter, `getParameter` throws an exception.
+		- A better approach is to aggregate the exceptions. instead of catching the exceptions in the individual services, let them propagate up to the top-level dispatch method of the web server A single handler in this method can catch all of the exceptions and generate an appropriate error response for missing parameters.
+		- the aggregation approach can be taken even further in the web example. there are many other errors besides missing parameters that can occur while processing a web page.
+		- The aggregation has good properties from the stand point of encapsulation and information hiding. the top-level exception handler encapsulates knowledge about how to generate error responses, but it knows nothing about specific errors; it just uses the error message provided in the exception. the `getParameter` knows nothing about the syntax of an http error response.
 	- just crash?
 	-
