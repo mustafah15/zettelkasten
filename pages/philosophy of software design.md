@@ -20,7 +20,7 @@ title: philosophy of software design
 	- [[pull complexity downwards]]
 	- [[better together or better apart]]
 	- [[define errors out of existence]]
-	- [[designe it twice]]
+	- [[design it twice]]
 	- [[software design red flags]]
 -
 -

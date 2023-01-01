@@ -1,0 +1,2 @@
+- designing  software is hard so it's unlikely that your first thoughts about how to structure a module or system will produce the best design. you will end up with a much better result if you consider multiple options for each major design decision.
+-
