@@ -48,7 +48,7 @@
  ;; If `:sidebar` is not set, sidebar will be hidden
  ;; Example:
  ;; 1. Setup page "Changelog" as home page and "Contents" in sidebar
-  :default-home {:page "The Interview Project"}
+ ;; :default-home {:page "Changelog", :sidebar "Contents"}
  ;; 2. Setup page "Jun 3rd, 2021" as home page without sidebar
  ;; :default-home {:page "Jun 3rd, 2021"}
  ;; 3. Setup page "home" as home page with multiple pages in sidebar
@@ -173,9 +173,8 @@
 
  :ref/linked-references-collapsed-threshold 50
  :zotero/settings-v2 {"default" {:attachments-block-text "[[Attachments]]"}}
- :favorites ["Designing Reactive Distributed Systems" "Contents" "philosophy of software design" "The Interview Project"]
+ :favorites ["philosophy of software design" "The Interview Project"]
  :publishing/all-pages-public? true
- :journal/page-title-format "dd-MM-yyyy"
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
