@@ -1,5 +1,5 @@
+- [[Object Oriented Design]]
 - [[Design Patterns]]
-  collapsed:: true
 	- [[SOLID]]
 		- [[Single Responsibility Principle]]
 		- [[Open-Closed Principle]]
@@ -67,7 +67,7 @@
 	- [[define errors out of existence]]
 	- [[design it twice]]
 	- [[software design red flags]]
-	-
+- [[Behavioural Interview Questions]]
 - [[Tools & Programming Languages]]
 	- [[PHP]]
 	- [[Typescript]]
