@@ -21,4 +21,3 @@ title: Behavioural Interview Questions
 - **what is event driven architecture?**
 - **how typescript type system works?**
 -
--

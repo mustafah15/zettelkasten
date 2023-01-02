@@ -9,18 +9,21 @@ title: Domain Driven Design
 - Reactive micro-services for example have a similar goal they need to be separated along clear boundaries, each microservice has to have a clearly defined api and a specific set of responsibilities. if we don't know what the responsibilities of the microservice  it's going to be very hard ti build it and have a proper design for it.
 - thats where the DDD will help us it give us a set of guidelines and a set of techniques  that we can use to try to help us to break larger domain into a smaller ones.
 - What Is a Domain?
+  collapsed:: true
 	- A domain in the context of  the software, it refers to the business or idea that we are modeling.
 	- Experts in the domain are people who understand the business, not necessarily the software.
 	- the Key goal of DDD is to build a model that the domain experts understand, and the model is not the software.
 		- the model represents our understanding of the domain.
 		- the software is an implementation of the model.
 - Decomposing the Domain
+  collapsed:: true
 	- take the large domain and separate them into subdomains, our subdomains are created by grouping related ideas and action and rules into separated sub domain.
 	- because of that each sub domain essentially ends up having its own ubiquitous language and model. **the language and model for a sub domain is what we call a bounded context,** subdomain or Bounded contexts are good starting points for building reactive microservices.
 	- from one Bounded context to the next the meaning of a word may change dramatically.
 		- in restaurant, when talking to a server, an order, has a very specific meaning.
 		- when we speaking to the person who manage inventory for the restaurant order means something completely different.
 - How to Determine Bounded Context
+  collapsed:: true
 	- here you are some guidelines because there are no universal answer
 		- consider human culture and interaction
 		- Different areas of the domain that are handled by different groups of people, suggests a natural division.
@@ -32,15 +35,18 @@ title: Domain Driven Design
 			- an awkward workflow may signal a misunderstanding of the domain .
 			- if a bounded context has too many dependencies it may be overcomplicated
 - Event First Domain Driven Design
+  collapsed:: true
 	- Traditionally DDD focused on the objects within the domain
 		- Cook, Reservation, Customer...
 	- Event First Domain Driven Design Places the focus on the activities or events that occur in the domain
 		- customer makes a reservation, server places an order, food is served to the customer.
 		- using event first DDD we start by defining the activities, then group those activities to find logical system boundaries
 - Domain Activities
+  collapsed:: true
 	- subject verb object NOTATION help us to find the events happened in our domain
 	- example: customer make order
 - MAINTAINING PURITY OF BOUNDARIES
+  collapsed:: true
 	- Maintaining the purity of those bounded context needs a technique or a set of techniques that allows us to do that.
 - Anti-Corruption Layers
 	- Each Bounded context may have domain concepts that are unique, Concepts are not always compatible from one context to the next.
