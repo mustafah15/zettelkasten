@@ -21,6 +21,7 @@ title: philosophy of software design
 	- [[better together or better apart]]
 	- [[define errors out of existence]]
 	- [[design it twice]]
+	- [[why write comments]]
 	- [[software design red flags]]
 -
 -
