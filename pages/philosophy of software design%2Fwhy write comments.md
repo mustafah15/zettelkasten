@@ -8,5 +8,6 @@
 - there are three justifications that developers usually use why they don't write comments
 	- [[philosophy of software design/why write comments/ the myth of good code is self-documenting]]
 	- [[philosophy of software design/why write comments/i don't have time to write comments]]
-	- [[comments get out of date and become misleading]]
-	- [[the comments are worthless]]
+	- [[philosophy of software design/why write comments/comments get out of date]]
+	- [[philosophy of software design/why write comments/comments might be worthless]]
+- [[philosophy of software design/why write comments/benefits of well written comments]]
