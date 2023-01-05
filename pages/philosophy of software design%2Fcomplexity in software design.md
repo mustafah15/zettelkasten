@@ -1,5 +1,5 @@
 ---
-title: complexity in software design
+title: philosophy of software design/complexity in software design
 ---
 
 -
