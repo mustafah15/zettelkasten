@@ -6,7 +6,7 @@
 	- it's not hard to write good comments
 	- writing comments can be actually fun
 - there are three justifications that developers usually use why they don't write comments
-	- [[the myth of good code is self-documenting]]
-	- [[i don't have time to write comments]]
+	- [[philosophy of software design/why write comments/ the myth of good code is self-documenting]]
+	- [[philosophy of software design/why write comments/i don't have time to write comments]]
 	- [[comments get out of date and become misleading]]
 	- [[the comments are worthless]]

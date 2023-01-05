@@ -65,7 +65,7 @@
 	- [[pull complexity downwards]]
 	- [[better together or better apart]]
 	- [[define errors out of existence]]
-	- [[design it twice]]
+	- [[philosophy of software design/design it twice]]
 	- [[software design red flags]]
 - [[Behavioural Interview Questions]]
 - [[Tools & Programming Languages]]
