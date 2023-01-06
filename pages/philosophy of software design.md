@@ -23,6 +23,11 @@ title: philosophy of software design
 	- [[philosophy of software design/design it twice]]
 	- [[philosophy of software design/why write comments]]
 	- [[philosophy of software design/how to write better comments]]
+	- [[philosophy of software design/choosing names]]
+	- [[philosophy of software design/write comments first]]
+	- [[philosophy of software design/modifying existing code]]
+	-
+	-
 	- [[software design red flags]]
 -
 -
