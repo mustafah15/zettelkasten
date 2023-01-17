@@ -7,5 +7,7 @@
 	- comments should provide a simpler higher-level view even if this information can be deduced by reading the code, we don't want to force users of a module to do that because reading the code is time-consuming and forces them to consider a lot of information that isn't needed to use the module.
 	- Developer should be able to understand the abstraction provided by a module without reading any code other than its externally visible declarations. and to achieve this by supplementing the declarations with comments
 - [[philosophy of software design/how to write better comments/pick conventions]]
--
+- [[philosophy of software design/how to write better comments/don't repeat the code]]
+- comments augment the code by providing information at a different level of detail some comments provide information at a lower more detailed level than the code; these comments add precision by clarifying the exact meaning of the code. other comments provide information at a higher more abstract level than the code these comments offer intuition, such as the reasoning behind the code, or a simpler and more abstract way of thinking about the code. **Comments at the same level as the code are likely to repeat the code.**
+- [[philosophy of software design/how to write better comments/low level comments]]
 -
