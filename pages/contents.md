@@ -65,6 +65,12 @@
 	- [[philosophy of software design/pull complexity downwards]]
 	- [[philosophy of software design/better together or better apart]]
 	- [[philosophy of software design/define errors out of existence]]
+	- [[philosophy of software design/why write comments]]
+	- [[philosophy of software design/how to write better comments]]
+		- [[philosophy of software design/how to write better comments/pick conventions]]
+		- [[philosophy of software design/how to write better comments/don't repeat the code]]
+		- [[philosophy of software design/how to write better comments/low level comments]]
+		-
 	- [[philosophy of software design/design it twice]]
 	- [[software design red flags]]
 - [[Behavioural Interview Questions]]
