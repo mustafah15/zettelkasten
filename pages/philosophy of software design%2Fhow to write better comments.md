@@ -11,3 +11,6 @@
 - comments augment the code by providing information at a different level of detail some comments provide information at a lower more detailed level than the code; these comments add precision by clarifying the exact meaning of the code. other comments provide information at a higher more abstract level than the code these comments offer intuition, such as the reasoning behind the code, or a simpler and more abstract way of thinking about the code. **Comments at the same level as the code are likely to repeat the code.**
 - [[philosophy of software design/how to write better comments/low level comments]]
 - [[philosophy of software design/how to write better comments/higher-level comments]]
+- [[philosophy of software design/how to write better comments/interface comments]]
+- [[philosophy of software design/how to write better comments/implementation comments]]
+-
