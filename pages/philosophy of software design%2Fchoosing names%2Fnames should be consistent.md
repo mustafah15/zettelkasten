@@ -1,0 +1,1 @@
+- the second important property of good names is consistency, in any program, there are certain variables that are used over and over again. for example, a file

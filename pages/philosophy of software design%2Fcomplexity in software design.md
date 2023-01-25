@@ -33,6 +33,7 @@ title: philosophy of software design/complexity in software design
 	  id:: bf1b7b48-1de6-4e90-9e5a-7beec1bd21a4
 	- [[symptoms of complexity]]
 	  id:: ad2e5012-0423-4f5e-b6d6-eb36d594f450
+	  collapsed:: true
 		- ((932e6aec-8905-40ef-9ffc-c1e46d1ea4c9))
 		  id:: 76584dca-860f-46ee-842f-d2d47be7db9e
 			- ((b453841a-faeb-4f9d-850b-88b39358b0a7))
@@ -57,6 +58,7 @@ title: philosophy of software design/complexity in software design
 				  id:: 74b33e91-9b34-4b7c-9451-2b1875691d60
 	- [[causes of complexity]]
 	  id:: 8c8d13f3-0c36-4e04-9daa-5396a5dbe01a
+	  collapsed:: true
 		- ((6f938c1a-90c8-4e27-afcb-53058415bcee))
 		  id:: 5f351c67-b103-4858-a7f9-3b6a6b12999f
 			- ((8ca02e7c-c028-4db6-8a80-3d357ece46d8))

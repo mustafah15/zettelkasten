@@ -13,4 +13,3 @@
 - [[philosophy of software design/how to write better comments/higher-level comments]]
 - [[philosophy of software design/how to write better comments/interface comments]]
 - [[philosophy of software design/how to write better comments/implementation comments]]
--
