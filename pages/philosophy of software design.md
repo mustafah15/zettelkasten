@@ -26,6 +26,7 @@ title: philosophy of software design
 	- [[philosophy of software design/choosing names]]
 	- [[philosophy of software design/write comments first]]
 	- [[philosophy of software design/modifying existing code]]
+	- [[philosophy of software design/consistency]]
 	-
 	- [[software design red flags]]
 -
