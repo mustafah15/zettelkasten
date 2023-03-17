@@ -17,6 +17,7 @@ title: philosophy of software design
 	- [[philosophy of software design/information hiding and leakage]]
 	- [[philosophy of software design/general purpose modules VS special purpose modules]]
 	- [[philosophy of software design/different layer different abstraction]]
+	  id:: 63bfb90c-a4b1-4e6d-aec2-edff9d4d2b00
 	- [[philosophy of software design/pull complexity downwards]]
 	- [[philosophy of software design/better together or better apart]]
 	- [[philosophy of software design/define errors out of existence]]
@@ -30,6 +31,9 @@ title: philosophy of software design
 	- [[philosophy of software design/code should be obvious]]
 	-
 	- [[software design red flags]]
+	-
+	- comments notes [[why you should write more code comments]]
+	-
 -
 -
 -

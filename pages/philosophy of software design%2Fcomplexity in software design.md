@@ -87,6 +87,7 @@ title: philosophy of software design/complexity in software design
 					  id:: 809b12be-064c-40c7-86e8-6303aebe34f2
 	- [[complexity is incremental]]
 	  id:: a09e8ad6-c5ed-4215-9b37-5624d5138e91
+	  collapsed:: true
 		- ((2fc92080-114d-4acc-8947-d5e07e6d667e))
 		  id:: b852d85b-03e5-44a7-87ec-c819f1050490
 			- ((7ddcc108-d87d-428e-9f2f-7d29d3e7815a))

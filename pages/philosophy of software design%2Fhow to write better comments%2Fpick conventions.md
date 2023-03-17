@@ -12,3 +12,4 @@
 	- Cross module comment
 		- a comment describing that cross modules boundaries
 	- the most important comments are those in the first two categories, everything should have interface comments occasionally the declaration for a variable or method is so obvious that there is nothing useful to add in a comment, implementation comments are often unnecessary, cross-module comments are the rarest of all and they are problematic to write when they are needed they are quite important
+-

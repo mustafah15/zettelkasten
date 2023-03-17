@@ -1,0 +1,9 @@
+- [[DI Container]]
+- `Psr\Container\ContainerInterface` Is where you can start which is the basic methods to setup your container.
+	- you have to implemennt two methods
+	- `has(string: $id):bool`
+		- this one return true if the id of the entry exists in the container
+	- `get(string $id)`
+		- should return the instance of the entry you registered
+- container
+-
