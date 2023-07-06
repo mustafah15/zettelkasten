@@ -1,0 +1,2 @@
+- ## [[lessons learned from philosophy of software design]]
+-

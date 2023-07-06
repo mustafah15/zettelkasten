@@ -1,0 +1,2 @@
+- [[philosophy of software design]]
+- write more code comments / the value of good code comments.
