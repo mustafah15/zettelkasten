@@ -73,7 +73,6 @@
 		- [[philosophy of software design/how to write better comments/pick conventions]]
 		- [[philosophy of software design/how to write better comments/don't repeat the code]]
 		- [[philosophy of software design/how to write better comments/low level comments]]
-		-
 	- [[philosophy of software design/design it twice]]
 	- [[software design red flags]]
 - [[Behavioural Interview Questions]]

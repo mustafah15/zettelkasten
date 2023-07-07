@@ -1,0 +1,8 @@
+- [[ACID]]
+- [[database transaction]]
+- [[database partitioning]]
+- [[database sharding]]
+- [[database replication]]
+- [[database indexing]]
+- [[database concurrency control]]
+-
