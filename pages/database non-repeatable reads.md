@@ -1,0 +1,2 @@
+- A non-repeatable read occurs when during the course of a transaction, a row is retrieved twice and the values within the row differ between reads caused by a successful committed change.
+-

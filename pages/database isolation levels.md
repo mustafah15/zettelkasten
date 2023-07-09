@@ -1,0 +1,16 @@
+- **read uncommitted**: no isolation, any change form the outside is visible to the transaction committed or not.
+	- pros: fast
+	- cons: you can easily get [[database dirty read]]
+- **read committed**: each query in a transaction only sees committed changes by other transactions.
+	- pros: you will not get a [[database dirty read]]
+	- const: you still can get other [[database read phenomenas]]
+- **repeatable read**: the transaction will make sure that when a query reads a row that row will remain unchanged the transaction while it's running.
+	- pros: certainly you will avoid [[database dirty read]] and [[database non-repeatable reads]]
+	- cons: might be slow also you still get [[database phantom reads]]
+- **snapshot**: every query in a transaction only sees changes that have been committed up to the start of the transaction it's like a snapshot version of the database at the moment of the transactions start.
+	- pros: you will avoid every [[database read phenomenas]]
+	- cons: still might be slow and expensive if you use this for all your transactions
+- **serializable**: transactions are run as if they serialized one after the other
+	- no concurrency anymore.
+- ![](https://retool.com/blog/content/images/2020/03/Image-2020-01-21-at-5.48.02-PM.png)
+-
