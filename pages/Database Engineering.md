@@ -5,4 +5,3 @@
 - [[database replication]]
 - [[database indexing]]
 - [[database concurrency control]]
--

@@ -59,6 +59,7 @@
 	- [[Reactive Distributed Systems]]
 	- [[golden metrics for monitoring]]
 - notes from [[philosophy of software design]]
+  collapsed:: true
 	- [[philosophy of software design/complexity in software design]]
 	- [[philosophy of software design/strategic vs tactical programming]]
 	- [[philosophy of software design/modules should be deep]]
@@ -77,7 +78,7 @@
 	- [[software design red flags]]
 - [[Behavioural Interview Questions]]
 - [[Tools & Programming Languages]]
-  collapsed:: true
 	- [[PHP]]
 	- [[Typescript]]
+- [[Database Engineering]]
 -
