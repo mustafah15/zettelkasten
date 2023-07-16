@@ -14,4 +14,6 @@ title: ACID
 		- If the multiple transactions are running concurrently, they should not be affected by each other; the result should be the same as the result obtained if the transactions were running sequentially.
 		- [[database isolation]]
 	- **Durability**
-		- Changes that have been committed to the database should remain even in the case of the software and hardware failure. for instance if x account contains 10$ this information should not disappear upon hardware or software failure.
+		- Changes that have been committed to the database should remain even in the case of software and hardware failure. for instance, if x account contains 10$ this information should not disappear upon hardware or software failure.
+		- [[database durability]]
+		-
