@@ -1,0 +1,5 @@
+- how tables and indexes are stored on disk
+-
+- row-based vs column-based databases
+- primary key vs secondary key
+-

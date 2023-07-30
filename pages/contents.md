@@ -81,4 +81,5 @@
 	- [[PHP]]
 	- [[Typescript]]
 - [[Database Engineering]]
+- [[technical writing]]
 -

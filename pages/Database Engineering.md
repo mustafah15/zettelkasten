@@ -1,4 +1,5 @@
 - [[ACID]]
+- [[database innternals]]
 - [[database transaction]]
 - [[database partitioning]]
 - [[database sharding]]
