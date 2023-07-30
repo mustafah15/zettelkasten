@@ -1,5 +1,5 @@
-- internal knowledge
-	- the average employee spends close to 20% of every workweek looking for information or looking for help to complete their tasks.
+- internal knowledge base
+	- do you know that the average employee spends close to 20% of every workweek looking for information or looking for help to complete their tasks.
 	- internal knowledge is the documentation of a company's processes, which employees can use as a reference to get their work done.
 	- 3 rules to have a successful internal knowledge
 		- it must be:
@@ -20,15 +20,4 @@
 	- write
 	- edit
 	- test
-- in technical writing instruction comes in 3 different forms
-	- FAQs
-		- a series of questions that customers commonly ask about a product or service. each question is accompanied by an answer that is short and to the point.
-		- it's an easy technical writing model so it's a great one to practice as a new technical writer.
-		- it has a simple two-part writing structure that you repeat as many times as needed, Question, Answer.
-		- different from step-by-step instruction FAQs are less goal-oriented they are not meant to focus the reader on completing a certain task and lead them to execute from start to finish, however, their purpose is to give readers quick answers to their most common questions
-		- skills for good FAQs
-			- research customer behavior, what they are asking about what are the biggest pain points.
-			- know your audience and write questions in their voice.
-			- write short and to-the-point answers.
-	- step-by-step instruction
-	- troubleshooting
+- [[forms of technical writing]]

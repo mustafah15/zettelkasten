@@ -1,0 +1,4 @@
+- technical writing instruction comes in 3 different forms
+	- [[FAQs]]
+	- [[step-by-step instruction]]
+	- [[troubleshooting instruction]]

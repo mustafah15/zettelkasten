@@ -1,0 +1,6 @@
+- help users self-diagnose and solve problems that happen while using a product. a good troubleshooter will ask the user questions and lead them to the right solution, based on their answers.
+- troubleshooting instructions are great for internal teams when testing new features, great troubleshooting instructions will cover as many scenarios as possible
+- steps for writing a good troubleshooting instructions
+	- aquire a deep understanding of the product or the service you are writing about
+	- think like a detective who is trying to collect hints to solve a mystery
+	- writing in a supportive and patient tone.
