@@ -1,0 +1,4 @@
+- start your research for the customer behavior, what they are asking about what are the biggest pain points.
+- categorize your research
+	- look for common themes and start categorizing them accordingly.
+	- consider creating a separate FAQ article for each category to make it easier for customers to find information.

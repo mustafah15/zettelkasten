@@ -1,0 +1,9 @@
+- here is what is the structure of an FAQ article should look like
+- title, Use the format [subject] FAQs.
+	- example return police FAQs
+- intro
+	- briefly describe what the FAQs are about so they know they've found what there were looking for.
+- question with answer
+	- pay attention to the words your customer use to describe your product or service. write your FAQs using the same words as they use instead of your company internal terminology
+- related article
+	- this part is optional but recommended if you have one or more article that are related to the same topic. list them at the bottom of your FAQs article to make them easily accessible for your readers.

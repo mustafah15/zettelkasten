@@ -2,7 +2,10 @@
 - it's an easy technical writing model so it's a great one to practice as a new technical writer.
 - it has a simple two-part writing structure that you repeat as many times as needed, Question, Answer.
 - different from step-by-step instruction FAQs are less goal-oriented they are not meant to focus the reader on completing a certain task and lead them to execute from start to finish, however, their purpose is to give readers quick answers to their most common questions
+- know your audience and write questions in their voice.
+- write short and to-the-point answers.
 - steps for writing a good FAQs
-	- research customer behavior, what they are asking about what are the biggest pain points.
-	- know your audience and write questions in their voice.
-	- write short and to-the-point answers.
+	- [[FAQ Research]]
+	- [[FAQs Structure]]
+	-
+-
