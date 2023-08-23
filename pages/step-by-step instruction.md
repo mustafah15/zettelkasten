@@ -9,3 +9,34 @@
 	- user-manuals
 	- help articles
 	- blog posts
+- here are the steps that you should follow when you write step-by-step instructions
+	- define your audience
+		- think about the type of person who is most likely to read your how to article and adapt your writing style to their needs.
+		- ask yourself these questions about the people that you are writing for
+			- why do they need to do this thing?
+			- where are they doing the thing?
+			- what kind of environment are they in while doing the thing?
+			- how are they consuming the instructions?
+			- what is the average age of the audience?
+			- where are they located?
+			- what is their education level?
+			- what is their level of english?
+			- will they be evaluated on how well they do the thing?
+		- the answer to these questions will help you to choose the right questions, tone, location to publish and how many visuals that you wanna use.
+	- break down instructions into tasks.
+		- think about the instruction you wanna write and determine if it's a procedure with many tasks, stand alone task, or a stand alone task with many steps
+	- create an outline
+		- outline your tasks by roughly jotting down the steps of each one, this will give you any idea how many steps are, you might think all you have to write about is a task but really you've got a procedure.
+		- it just to get all the steps down on paper in front of you to see.
+	- write one task at a time
+		- here is the structure to write a task
+			- for the **title** use active voice, start with a verb and focus on the reader's goal example "view your bank statement"
+			- introduction part
+				- include some or all of info about the task itself.
+			- before you begin section
+				- include what the user need to do or have before they start the steps
+			- step-by-step
+				- steps should be numbered
+				- one action per step
+				- front load sentences: frontloading puts the most important information and words that people look for at the beginning of the sentence
+	-
