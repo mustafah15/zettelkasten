@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "79cb12fd33ebe1e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "5806429f979c0979",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0386254d9a9f92a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "laws of scalability.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "99afc40e5915f248",
+    "type": "split",
+    "children": [
+      {
+        "id": "20659c5a70dfa1dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00358b6c1458fa23",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8bd791eb41736417",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#fleeting",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "397a9f208aab4ac2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "c8977f1bcbee25c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f945d46978440958",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db5cb766bbd7ce77",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "laws of scalability.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ec07d9db6590b940",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "laws of scalability.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c0168405a794ef9c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4b90cfe66e5411f4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "laws of scalability.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0386254d9a9f92a6",
+  "lastOpenFiles": [
+    "CAP Theorem.md",
+    "laws of scalability.md",
+    "partition tolerance.md",
+    "key characteristics of distributed systems.md",
+    "availability and reliability.md",
+    "distributed systems.md",
+    "map of content.md",
+    "scalability.md",
+    "contention in distributed systems.md",
+    "the effect of coherency delay.md",
+    "amdahl's law.md",
+    "linear scalability.md",
+    "gunther's universal law.md",
+    "assets/Pasted image 20230903095851.png",
+    "scalability vs performance.md",
+    "vertical scaling.md",
+    "horizontal scaling.md",
+    "consistency.md",
+    "types of distributed systems.md",
+    "domain driven design.md",
+    "DDD - hexagonal architecture.md",
+    "DDD - domain abstraction.md",
+    "assets/arch.png",
+    "assets/arch1.png",
+    "DDD - domain objects.md",
+    "DDD - domain activities.md",
+    "assets/aggroot.png",
+    "assets/aggregate.png",
+    "assets/relation-betweencommand-query-event 1.png",
+    "assets/relation-betweencommand-query-event.png",
+    "abstraction.md",
+    "assets/Screenshot 2023-09-02 at 19.40.03.png",
+    "polymorphism.md",
+    "object oriented design.md",
+    "assets",
+    "templates"
+  ]
+}
