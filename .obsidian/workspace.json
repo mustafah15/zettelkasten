@@ -11,15 +11,24 @@
             "id": "0386254d9a9f92a6",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "ce18c5575fbb0c4c",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "laws of scalability.md",
+                "file": "TypeScript - Types.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "laws of scalability.md",
+                "file": "TypeScript - Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "laws of scalability.md",
+                "file": "TypeScript - Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,11 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "laws of scalability.md"
+                "file": "TypeScript - Types.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,10 +156,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0386254d9a9f92a6",
+  "active": "ce18c5575fbb0c4c",
   "lastOpenFiles": [
-    "CAP Theorem.md",
+    "TypeScript.md",
+    "TypeScript - Types.md",
     "laws of scalability.md",
+    "CAP Theorem.md",
     "partition tolerance.md",
     "key characteristics of distributed systems.md",
     "availability and reliability.md",
@@ -180,8 +192,6 @@
     "assets/relation-betweencommand-query-event.png",
     "abstraction.md",
     "assets/Screenshot 2023-09-02 at 19.40.03.png",
-    "polymorphism.md",
-    "object oriented design.md",
     "assets",
     "templates"
   ]
