@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript - Types.md",
+                "file": "TypeScript.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript - Types.md",
+                "file": "TypeScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript - Types.md",
+                "file": "TypeScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript - Types.md"
+                "file": "TypeScript.md"
               }
             }
           }
@@ -158,8 +158,9 @@
   },
   "active": "ce18c5575fbb0c4c",
   "lastOpenFiles": [
+    "TypeScript - Type Annotations and Type Inference.md",
     "TypeScript.md",
-    "TypeScript - Types.md",
+    "TypeScript - Types and Type System.md",
     "laws of scalability.md",
     "CAP Theorem.md",
     "partition tolerance.md",
@@ -190,7 +191,6 @@
     "assets/aggregate.png",
     "assets/relation-betweencommand-query-event 1.png",
     "assets/relation-betweencommand-query-event.png",
-    "abstraction.md",
     "assets/Screenshot 2023-09-02 at 19.40.03.png",
     "assets",
     "templates"

@@ -23,5 +23,14 @@
       "key": "2"
     }
   ],
-  "workspace:goto-tab-2": []
+  "workspace:goto-tab-2": [],
+  "graph:open-local": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "G"
+    }
+  ]
 }
