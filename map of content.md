@@ -11,4 +11,5 @@ type: #permanent
 	- [[DDD - domain abstraction]]
 	- [[DDD - hexagonal architecture]]
 - [[distributed systems]]
+	- [[observability]]
 	- 

@@ -11,8 +11,12 @@
             "id": "0386254d9a9f92a6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "observability.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -21,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript.md",
+                "file": "TypeScript - Type Annotations and Type Inference.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript.md",
+                "file": "observability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript.md",
+                "file": "observability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript.md"
+                "file": "observability.md"
               }
             }
           }
@@ -156,10 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce18c5575fbb0c4c",
+  "active": "0386254d9a9f92a6",
   "lastOpenFiles": [
+    "application performance management.md",
+    "observability.md",
+    "monitoring.md",
     "TypeScript - Type Annotations and Type Inference.md",
     "TypeScript.md",
+    "map of content.md",
     "TypeScript - Types and Type System.md",
     "laws of scalability.md",
     "CAP Theorem.md",
@@ -167,7 +174,6 @@
     "key characteristics of distributed systems.md",
     "availability and reliability.md",
     "distributed systems.md",
-    "map of content.md",
     "scalability.md",
     "contention in distributed systems.md",
     "the effect of coherency delay.md",
@@ -182,11 +188,8 @@
     "types of distributed systems.md",
     "domain driven design.md",
     "DDD - hexagonal architecture.md",
-    "DDD - domain abstraction.md",
     "assets/arch.png",
     "assets/arch1.png",
-    "DDD - domain objects.md",
-    "DDD - domain activities.md",
     "assets/aggroot.png",
     "assets/aggregate.png",
     "assets/relation-betweencommand-query-event 1.png",
