@@ -1,8 +1,9 @@
-
-tags: #tools 
-type: #literature 
-
---- 
+---
+tags:
+  - tools
+type:
+  - literature
+---
 
 
 #### What is typescript?

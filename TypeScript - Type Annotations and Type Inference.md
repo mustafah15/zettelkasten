@@ -1,9 +1,12 @@
-
-tags: #tools 
-type: #fleeting 
-related: [[TypeScript]]
-
 ---
+type:
+  - fleeting
+tags:
+  - tools
+related: "[[TypeScript]]"
+---
+
+
 
 Type Annotation: a code that we add to tell the TypeScript compiler what type of value a variable will refer to.
 

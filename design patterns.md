@@ -1,4 +1,12 @@
-tags: #software-design #oop 
+---
+tags:
+  - software-design
+  - oop
+type:
+  - permanent
+---
+
+
 
 - Design patterns are common architectural approaches, introduced to software by [[GOF design patterns]] book in 1994.
 - Design patterns are solutions to recurring problems; guidelines on how to tackle certain problems
