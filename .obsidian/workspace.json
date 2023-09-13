@@ -45,8 +45,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP.md",
+                "file": "design patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHP.md",
+                "file": "design patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHP.md"
+                "file": "design patterns.md"
               }
             }
           },
@@ -184,10 +183,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b00432b65f3dd06",
+  "active": "0386254d9a9f92a6",
   "lastOpenFiles": [
-    "design patterns.md",
     "PHP.md",
+    "what is new in PHP 8.0.md",
+    "what is new in PHP 8.1.md",
+    "what is new in PHP 8.2.md",
+    "design patterns.md",
     "templates/new note.md",
     "TypeScript.md",
     "TypeScript - Type Annotations and Type Inference.md",
@@ -209,9 +211,6 @@
     "key characteristics of distributed systems.md",
     "availability and reliability.md",
     "distributed systems.md",
-    "scalability.md",
-    "contention in distributed systems.md",
-    "the effect of coherency delay.md",
     "assets/Pasted image 20230903095851.png",
     "assets/arch.png",
     "assets/arch1.png",
