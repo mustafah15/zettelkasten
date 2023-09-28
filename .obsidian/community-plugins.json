@@ -1,1 +1,7 @@
-[]
+[
+  "templater-obsidian",
+  "obsidian-outliner",
+  "tag-wrangler",
+  "dataview",
+  "url-into-selection"
+]
