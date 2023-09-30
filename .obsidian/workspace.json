@@ -8,55 +8,40 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0386254d9a9f92a6",
+            "id": "c599861663e9f109",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kafka in-sync replicas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec799930e1b56b50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "types of distributed systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95c5d20a65537c5c",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "design patterns.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "graph",
+              "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "141745bd4be3486f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHP - attributes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a1c4b2de32836d2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
-          },
-          {
-            "id": "144db1b06fb1ab8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "structural design patterns.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP - attributes.md",
+                "file": "kafka in-sync replicas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHP - attributes.md",
+                "file": "kafka in-sync replicas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHP - attributes.md"
+                "file": "kafka in-sync replicas.md"
               }
             }
           },
@@ -177,12 +162,12 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,42 +178,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a1c4b2de32836d2",
+  "active": "c599861663e9f109",
   "lastOpenFiles": [
+    "kafka.md",
+    "kafka in-sync replicas.md",
+    "kafka topic partitions.md",
+    "assets/kafka_follower_leader.png",
+    "assets/kafka partitions.png",
+    "kafka common terms.md",
+    "assets/kafka_cluster.png",
+    "kafka use cases.md",
+    "types of distributed systems.md",
+    "distributed systems.md",
+    "what is a messaging system?.md",
+    "publish-subscribe.md",
+    "assets/cHy74FaNj_.png",
+    "message queueing.md",
+    "assets/Screenshot 2023-09-29 at 12.43.04.png",
+    "distributed systems - async communication.md",
+    "event-based communication.md",
+    "design patterns.md",
+    "distributed systems - communication styles.md",
+    "domain driven design.md",
+    "DDD - bounded context.md",
+    "assets/event-async-communication.png",
+    "DDD - domain objects.md",
+    "Distributed Systems - Design Patterns for Event-Driven Architecture.md",
+    "Untitled.md",
+    "key characteristics of distributed systems.md",
+    "map of content.md",
     "PHP.md",
     "PHP - attributes.md",
-    "PHP - ArrayObject.md",
     "structural design patterns.md",
-    "design patterns.md",
-    "PHP - class constant.md",
-    "PHP - readonly.md",
-    "adapter.md",
-    "facade.md",
-    "decorator.md",
-    "behavioural design patterns.md",
-    "observer.md",
-    "strategy.md",
-    "template method.md",
-    "state.md",
-    "iterator.md",
-    "command.md",
-    "chain of responsibility.md",
-    "what is new in PHP 8.0.md",
-    "what is new in PHP 8.1.md",
     "what is new in PHP 8.2.md",
-    "templates/new note.md",
     "TypeScript.md",
-    "TypeScript - Type Annotations and Type Inference.md",
-    "SOLID.md",
-    "dependancy inversion.md",
     "assets/Pasted image 20230903095851.png",
     "assets/arch.png",
     "assets/arch1.png",
     "assets/aggroot.png",
-    "assets/aggregate.png",
-    "assets/relation-betweencommand-query-event 1.png",
-    "assets/relation-betweencommand-query-event.png",
-    "assets/Screenshot 2023-09-02 at 19.40.03.png",
     "assets",
     "templates"
   ]

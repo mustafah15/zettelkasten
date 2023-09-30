@@ -12,4 +12,6 @@ type: #permanent
 	- [[DDD - hexagonal architecture]]
 - [[distributed systems]]
 	- [[observability]]
-	- 
+- programming languages 
+	- [[PHP]]
+	- [[TypeScript]]

@@ -18,7 +18,7 @@ thats where the DDD will help us it give us a set of guidelines and a set of tec
 
 ### Decomposing the domain
 - take the large domain and separate them into subdomains, our subdomains are created by grouping related ideas and action and rules into separated sub domain.
-- because of that each sub domain essentially ends up having its own ubiquitous language and model. **the language and model for a sub domain is what we call a bounded context,** subdomain or Bounded contexts are good starting points for building reactive microservices.
+- because of that each sub domain essentially ends up having its own ubiquitous language and model. **the language and model for a sub domain is what we call a [[DDD - bounded context|bounded context]],** subdomain or Bounded contexts are good starting points for building reactive microservices.
 - from one Bounded context to the next the meaning of a word may change dramatically.
 	- in restaurant, when talking to a server, an order, has a very specific meaning.
 	- when we speaking to the person who manage inventory for the restaurant order means something completely different.
@@ -68,7 +68,7 @@ It prevents your domain from dealing with the mess of the legacy system.
 - Lines may be labelled to indicate the nature of the relationships
 
 
-
+### [[DDD - bounded context]]
 ### [[DDD - domain activities]]
 ### [[DDD - domain objects]]
 ### [[DDD - domain abstraction]]

@@ -7,4 +7,4 @@ related: "[[PHP]]"
 ---
 
 
-PHP attributes are native implementation for annotation that were used before
+PHP attributes are native implementations for annotation that were used before
