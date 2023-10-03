@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kafka workflow as a pub-sub.md",
+                "file": "zooKeeper.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kafka workflow as a pub-sub.md",
+                "file": "zooKeeper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kafka workflow as a pub-sub.md",
+                "file": "zooKeeper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kafka workflow as a pub-sub.md"
+                "file": "zooKeeper.md"
               }
             }
           },
@@ -181,6 +181,8 @@
   "active": "c599861663e9f109",
   "lastOpenFiles": [
     "kafka.md",
+    "zooKeeper.md",
+    "kafka workflow as a queue.md",
     "kafka workflow as a pub-sub.md",
     "kafka consumer group.md",
     "kafka high water mark.md",
@@ -210,8 +212,6 @@
     "Distributed Systems - Design Patterns for Event-Driven Architecture.md",
     "Untitled.md",
     "key characteristics of distributed systems.md",
-    "map of content.md",
-    "PHP.md",
     "assets/Pasted image 20230903095851.png",
     "assets/arch.png",
     "assets/arch1.png",
