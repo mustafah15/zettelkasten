@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kafka in-sync replicas.md",
+                "file": "kafka workflow as a pub-sub.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kafka in-sync replicas.md",
+                "file": "kafka workflow as a pub-sub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kafka in-sync replicas.md",
+                "file": "kafka workflow as a pub-sub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kafka in-sync replicas.md"
+                "file": "kafka workflow as a pub-sub.md"
               }
             }
           },
@@ -181,6 +181,11 @@
   "active": "c599861663e9f109",
   "lastOpenFiles": [
     "kafka.md",
+    "kafka workflow as a pub-sub.md",
+    "kafka consumer group.md",
+    "kafka high water mark.md",
+    "types of distributed systems.md",
+    "in-sync replica set.md",
     "kafka in-sync replicas.md",
     "kafka topic partitions.md",
     "assets/kafka_follower_leader.png",
@@ -188,7 +193,6 @@
     "kafka common terms.md",
     "assets/kafka_cluster.png",
     "kafka use cases.md",
-    "types of distributed systems.md",
     "distributed systems.md",
     "what is a messaging system?.md",
     "publish-subscribe.md",
@@ -208,10 +212,6 @@
     "key characteristics of distributed systems.md",
     "map of content.md",
     "PHP.md",
-    "PHP - attributes.md",
-    "structural design patterns.md",
-    "what is new in PHP 8.2.md",
-    "TypeScript.md",
     "assets/Pasted image 20230903095851.png",
     "assets/arch.png",
     "assets/arch1.png",
