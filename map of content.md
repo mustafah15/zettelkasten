@@ -15,3 +15,8 @@ type: #permanent
 - programming languages 
 	- [[PHP]]
 	- [[TypeScript]]
+- [[database engineering]]
+
+### roadmap 
+- improving [[observability]]
+	- 

@@ -1,8 +1,11 @@
-
-tags:  #software-design #distributed-systems 
-type: #literature 
-relatedTo: [[distributed systems]]
-
+---
+tags:
+  - software-design
+  - distributed-systems
+type:
+  - literature
+related: "[[distributed systems]]"
+---
 
 - Distributed applications and processes typically use one of four architecture types below:
 - client-server

@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c599861663e9f109",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zooKeeper.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec799930e1b56b50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "types of distributed systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "95c5d20a65537c5c",
             "type": "leaf",
             "pinned": true,
@@ -40,8 +16,57 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "3655e3e9d0882a43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "observability.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4151cdf71eed607",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "observability.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e16726f0f2a2cd14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SLOs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4083bb84ca4246e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SLIs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zooKeeper.md",
+                "file": "observability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zooKeeper.md",
+                "file": "observability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zooKeeper.md"
+                "file": "observability.md"
               }
             }
           },
@@ -178,44 +203,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c599861663e9f109",
+  "active": "b4151cdf71eed607",
   "lastOpenFiles": [
-    "kafka.md",
+    "SLIs.md",
+    "SLOs.md",
+    "observability.md",
+    "SLAs.md",
+    "map of content.md",
+    "monitoring.md",
+    "application performance management.md",
+    "database isolation levels.md",
+    "DDD - hexagonal architecture.md",
+    "assets/isolation levels.png",
+    "database phantom reads.md",
+    "types of distributed systems.md",
+    "database dirty reads.md",
+    "database dirty read.md",
+    "ACID.md",
+    "database lost updates.md",
+    "database read phenomenas.md",
+    "database non-repeatable reads.md",
+    "database engineering.md",
+    "database transaction.md",
+    "database durability.md",
+    "database durability techniques.md",
+    "consistency in databases.md",
     "zooKeeper.md",
+    "kafka.md",
     "kafka workflow as a queue.md",
     "kafka workflow as a pub-sub.md",
-    "kafka consumer group.md",
-    "kafka high water mark.md",
-    "types of distributed systems.md",
-    "in-sync replica set.md",
-    "kafka in-sync replicas.md",
-    "kafka topic partitions.md",
     "assets/kafka_follower_leader.png",
     "assets/kafka partitions.png",
-    "kafka common terms.md",
     "assets/kafka_cluster.png",
-    "kafka use cases.md",
-    "distributed systems.md",
-    "what is a messaging system?.md",
-    "publish-subscribe.md",
     "assets/cHy74FaNj_.png",
-    "message queueing.md",
     "assets/Screenshot 2023-09-29 at 12.43.04.png",
-    "distributed systems - async communication.md",
-    "event-based communication.md",
-    "design patterns.md",
-    "distributed systems - communication styles.md",
-    "domain driven design.md",
-    "DDD - bounded context.md",
     "assets/event-async-communication.png",
-    "DDD - domain objects.md",
-    "Distributed Systems - Design Patterns for Event-Driven Architecture.md",
-    "Untitled.md",
-    "key characteristics of distributed systems.md",
     "assets/Pasted image 20230903095851.png",
     "assets/arch.png",
     "assets/arch1.png",
-    "assets/aggroot.png",
     "assets",
     "templates"
   ]
