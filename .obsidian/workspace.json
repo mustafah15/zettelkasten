@@ -16,57 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "3655e3e9d0882a43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "observability.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4151cdf71eed607",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "observability.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e16726f0f2a2cd14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SLOs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4083bb84ca4246e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SLIs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,8 +62,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "43a92e00adff4268",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -133,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "observability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "observability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "observability.md"
-              }
+              "state": {}
             }
           },
           {
@@ -203,11 +159,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b4151cdf71eed607",
+  "active": "95c5d20a65537c5c",
   "lastOpenFiles": [
+    "test.md",
+    "fleeting notes from software-design tag.md",
+    "SOLID.md",
+    "database phantom reads.md",
+    "kafka workflow as a pub-sub.md",
+    "kafka.md",
+    "kafka use cases.md",
     "SLIs.md",
-    "SLOs.md",
     "observability.md",
+    "SLOs.md",
     "SLAs.md",
     "map of content.md",
     "monitoring.md",
@@ -215,7 +178,6 @@
     "database isolation levels.md",
     "DDD - hexagonal architecture.md",
     "assets/isolation levels.png",
-    "database phantom reads.md",
     "types of distributed systems.md",
     "database dirty reads.md",
     "database dirty read.md",
@@ -226,12 +188,6 @@
     "database engineering.md",
     "database transaction.md",
     "database durability.md",
-    "database durability techniques.md",
-    "consistency in databases.md",
-    "zooKeeper.md",
-    "kafka.md",
-    "kafka workflow as a queue.md",
-    "kafka workflow as a pub-sub.md",
     "assets/kafka_follower_leader.png",
     "assets/kafka partitions.png",
     "assets/kafka_cluster.png",

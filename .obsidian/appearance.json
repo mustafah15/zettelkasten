@@ -1,3 +1,5 @@
 {
-  "accentColor": ""
+  "accentColor": "#7abaff",
+  "cssTheme": "Minimal",
+  "textFontFamily": "Operator Mono"
 }
