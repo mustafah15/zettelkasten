@@ -16,6 +16,49 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "84ba4eb8d7ace377",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fighting against complexity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0dffb849042a3b93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "module interface.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "6f68a0b8ce352166",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af1abdf70754ae7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "output - complexity in software design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -93,6 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "output - complexity in software design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "output - complexity in software design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +175,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "output - complexity in software design.md"
+              }
             }
           },
           {
@@ -159,8 +206,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95c5d20a65537c5c",
+  "active": "af1abdf70754ae7f",
   "lastOpenFiles": [
+    "fighting against complexity.md",
+    "output - complexity in software design.md",
+    "POSD - complexity in software design.md",
+    "symptoms of complexity.md",
+    "output.md",
+    "change amplification.md",
+    "causes of complexity.md",
+    "philosophy of software design.md",
+    "zero tolerance.md",
+    "unknown unknowns.md",
+    "cognitive load.md",
+    "modular design.md",
+    "module implementation.md",
+    "module interface.md",
+    "map of content.md",
     "test.md",
     "fleeting notes from software-design tag.md",
     "SOLID.md",
@@ -172,22 +234,7 @@
     "observability.md",
     "SLOs.md",
     "SLAs.md",
-    "map of content.md",
-    "monitoring.md",
-    "application performance management.md",
-    "database isolation levels.md",
-    "DDD - hexagonal architecture.md",
     "assets/isolation levels.png",
-    "types of distributed systems.md",
-    "database dirty reads.md",
-    "database dirty read.md",
-    "ACID.md",
-    "database lost updates.md",
-    "database read phenomenas.md",
-    "database non-repeatable reads.md",
-    "database engineering.md",
-    "database transaction.md",
-    "database durability.md",
     "assets/kafka_follower_leader.png",
     "assets/kafka partitions.png",
     "assets/kafka_cluster.png",

@@ -16,6 +16,9 @@ type: #permanent
 	- [[PHP]]
 	- [[TypeScript]]
 - [[database engineering]]
+- technical books ingestion
+	- [[philosophy of software design]]
+	- 
 
 ### roadmap 
 - improving [[observability]]
