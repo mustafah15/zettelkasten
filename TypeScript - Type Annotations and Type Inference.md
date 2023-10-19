@@ -61,8 +61,8 @@ If the TypeScript compiler is not able to type inference a variable it will set 
 we should avoid variables of any type at all costs because the main idea of TS is leveraging its type-checking system.
 #### When To Use Type Annotations
 
-- function that returns the type `any`
-	- then we need to interfere and define the type of the returned value In the following example see how we interfered and added a type to coordinates object to prevent typescript from assigning it to any.
+- function that returns the type of `any`
+	- then we need to interfere and define the type of the returned value In the following example see how we interfered and added a type to the coordinates object to prevent typescript from assigning it to any.
 ``` ts
 	const str = '{"x": 10, "y": 20}';
 	

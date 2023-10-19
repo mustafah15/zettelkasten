@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "TypeScript",
+      "path": "TypeScript.md"
+    },
+    {
+      "basename": "TypeScript - Enum",
+      "path": "TypeScript - Enum.md"
+    },
+    {
+      "basename": "TypeScript - Numbers",
+      "path": "TypeScript - Numbers.md"
+    },
+    {
+      "basename": "TypeScript - Types and Type System",
+      "path": "TypeScript - Types and Type System.md"
+    },
+    {
+      "basename": "TypeScript - Type Annotations and Type Inference",
+      "path": "TypeScript - Type Annotations and Type Inference.md"
+    },
+    {
+      "basename": "map of content",
+      "path": "map of content.md"
+    },
+    {
+      "basename": "deep modules",
+      "path": "deep modules.md"
+    },
+    {
       "basename": "POSD - modules should be deep",
       "path": "POSD - modules should be deep.md"
     },
     {
       "basename": "classitis",
       "path": "classitis.md"
-    },
-    {
-      "basename": "deep modules",
-      "path": "deep modules.md"
     },
     {
       "basename": "shallow modules",
@@ -103,10 +127,6 @@
     {
       "basename": "module interface",
       "path": "module interface.md"
-    },
-    {
-      "basename": "map of content",
-      "path": "map of content.md"
     },
     {
       "basename": "fleeting notes from software-design tag",

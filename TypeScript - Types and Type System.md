@@ -1,10 +1,11 @@
+---
+tags:
+  - tools
+type:
+  - literature
+related: "[[TypeScript|TS]]"
+---
 
-
-tags: #tools 
-type: #literature 
-related: [[TypeScript]]
-
---- 
 
  Maybe we should start talking about the type system by asking what is a type in the first place. a type is a property that tells you and your compiler what kind of variable this is, right? 
  now we can ask what is a type system? why do we need it?

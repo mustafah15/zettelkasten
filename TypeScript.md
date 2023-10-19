@@ -3,6 +3,8 @@ tags:
   - tools
 type:
   - literature
+aliases:
+  - TS
 ---
 
 
