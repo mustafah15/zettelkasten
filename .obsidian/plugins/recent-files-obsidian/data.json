@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "output - complexity in software design",
-      "path": "output - complexity in software design.md"
+      "basename": "POSD - modules should be deep",
+      "path": "POSD - modules should be deep.md"
     },
     {
-      "basename": "fighting against complexity",
-      "path": "fighting against complexity.md"
+      "basename": "classitis",
+      "path": "classitis.md"
+    },
+    {
+      "basename": "deep modules",
+      "path": "deep modules.md"
+    },
+    {
+      "basename": "shallow modules",
+      "path": "shallow modules.md"
+    },
+    {
+      "basename": "software design red flags",
+      "path": "software design red flags.md"
+    },
+    {
+      "basename": "module abstraction",
+      "path": "module abstraction.md"
+    },
+    {
+      "basename": "cognitive load",
+      "path": "cognitive load.md"
     },
     {
       "basename": "POSD - complexity in software design",
       "path": "POSD - complexity in software design.md"
+    },
+    {
+      "basename": "causes of complexity",
+      "path": "causes of complexity.md"
     },
     {
       "basename": "symptoms of complexity",
@@ -21,16 +45,48 @@
       "path": "output.md"
     },
     {
-      "basename": "change amplification",
-      "path": "change amplification.md"
+      "basename": "abstraction",
+      "path": "abstraction.md"
     },
     {
-      "basename": "causes of complexity",
-      "path": "causes of complexity.md"
+      "basename": "modular design",
+      "path": "modular design.md"
     },
     {
       "basename": "philosophy of software design",
       "path": "philosophy of software design.md"
+    },
+    {
+      "basename": "POSD - strategic vs tactical programming",
+      "path": "POSD - strategic vs tactical programming.md"
+    },
+    {
+      "basename": "new note",
+      "path": "templates/new note.md"
+    },
+    {
+      "basename": "strategic programming",
+      "path": "strategic programming.md"
+    },
+    {
+      "basename": "tactical programming",
+      "path": "tactical programming.md"
+    },
+    {
+      "basename": "tactical tornado",
+      "path": "tactical tornado.md"
+    },
+    {
+      "basename": "fighting against complexity",
+      "path": "fighting against complexity.md"
+    },
+    {
+      "basename": "output - complexity in software design",
+      "path": "output - complexity in software design.md"
+    },
+    {
+      "basename": "change amplification",
+      "path": "change amplification.md"
     },
     {
       "basename": "zero tolerance",
@@ -39,14 +95,6 @@
     {
       "basename": "unknown unknowns",
       "path": "unknown unknowns.md"
-    },
-    {
-      "basename": "cognitive load",
-      "path": "cognitive load.md"
-    },
-    {
-      "basename": "modular design",
-      "path": "modular design.md"
     },
     {
       "basename": "module implementation",

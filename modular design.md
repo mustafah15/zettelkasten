@@ -5,8 +5,6 @@ type:
   - literature
 related: "[[philosophy of software design]]"
 ---
-
-
 a software system is divided into modules such as classes in an object-oriented language the modules are designed to be relatively independent of each other so that a programmer can work on the module without having to understand the details of other modules.
 
 in modular design, a software system is decomposed into a collection of modules that are relatively independent. Modules can take many forms, such as classes subsystems, or services, In an ideal world each module would be completely independent of the others a developer could work in any of the modules without knowing anything about any of the other modules. In this world, the complexity of the system would be the complexity of its worst module.

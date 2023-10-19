@@ -4,5 +4,5 @@ tags:
 type:
   - permanent
 ---
-[[output - complexity in software design]]
-
+- [[output - complexity in software design]]
+- [[output - abstraction]]

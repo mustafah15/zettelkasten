@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fighting against complexity.md",
+                "file": "POSD - modules should be deep.md",
                 "mode": "source",
                 "source": false
               }
@@ -40,27 +40,21 @@
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "6f68a0b8ce352166",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "af1abdf70754ae7f",
+            "id": "6392344ff80b6d14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "output - complexity in software design.md",
+                "file": "templates/new note.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "output - complexity in software design.md",
+                "file": "POSD - modules should be deep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "output - complexity in software design.md",
+                "file": "POSD - modules should be deep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "output - complexity in software design.md"
+                "file": "POSD - modules should be deep.md"
               }
             }
           },
@@ -206,34 +200,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af1abdf70754ae7f",
+  "active": "84ba4eb8d7ace377",
   "lastOpenFiles": [
-    "fighting against complexity.md",
-    "output - complexity in software design.md",
+    "classitis.md",
+    "POSD - modules should be deep.md",
+    "deep modules.md",
+    "shallow modules.md",
+    "software design red flags.md",
+    "module abstraction.md",
+    "cognitive load.md",
     "POSD - complexity in software design.md",
+    "causes of complexity.md",
     "symptoms of complexity.md",
     "output.md",
-    "change amplification.md",
-    "causes of complexity.md",
+    "abstraction.md",
+    "modular design.md",
     "philosophy of software design.md",
+    "POSD - strategic vs tactical programming.md",
+    "templates/new note.md",
+    "strategic programming.md",
+    "tactical programming.md",
+    "tactical tornado.md",
+    "fighting against complexity.md",
+    "output - complexity in software design.md",
+    "change amplification.md",
     "zero tolerance.md",
     "unknown unknowns.md",
-    "cognitive load.md",
-    "modular design.md",
     "module implementation.md",
     "module interface.md",
-    "map of content.md",
-    "test.md",
-    "fleeting notes from software-design tag.md",
-    "SOLID.md",
-    "database phantom reads.md",
-    "kafka workflow as a pub-sub.md",
-    "kafka.md",
-    "kafka use cases.md",
-    "SLIs.md",
-    "observability.md",
-    "SLOs.md",
-    "SLAs.md",
     "assets/isolation levels.png",
     "assets/kafka_follower_leader.png",
     "assets/kafka partitions.png",
