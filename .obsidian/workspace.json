@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POSD - information hiding and information leakage.md",
+                "file": "POSD - information hiding.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "POSD - information hiding and information leakage.md",
+                "file": "POSD - information hiding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "POSD - information hiding and information leakage.md",
+                "file": "POSD - information hiding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "POSD - information hiding and information leakage.md"
+                "file": "POSD - information hiding.md"
               }
             }
           },
@@ -190,9 +190,10 @@
   },
   "active": "e8083f52092f9ad8",
   "lastOpenFiles": [
-    "POSD - information leakage.md",
-    "POSD - information hiding.md",
     "POSD - information hiding and information leakage.md",
+    "POSD - information hiding.md",
+    "POSD - temporal decomposition.md",
+    "POSD - information leakage.md",
     "philosophy of software design.md",
     "POSD - modules should be deep.md",
     "module abstraction.md",
@@ -215,7 +216,6 @@
     "cognitive load.md",
     "causes of complexity.md",
     "symptoms of complexity.md",
-    "output.md",
     "assets/isolation levels.png",
     "assets/kafka_follower_leader.png",
     "assets/kafka partitions.png",
