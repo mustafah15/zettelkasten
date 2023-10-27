@@ -1,8 +1,64 @@
 {
   "recentFiles": [
     {
+      "basename": "POSD - information hiding and information leakage",
+      "path": "POSD - information hiding and information leakage.md"
+    },
+    {
+      "basename": "POSD - information leakage",
+      "path": "POSD - information leakage.md"
+    },
+    {
+      "basename": "POSD - information hiding",
+      "path": "POSD - information hiding.md"
+    },
+    {
+      "basename": "philosophy of software design",
+      "path": "philosophy of software design.md"
+    },
+    {
+      "basename": "POSD - modules should be deep",
+      "path": "POSD - modules should be deep.md"
+    },
+    {
+      "basename": "module abstraction",
+      "path": "module abstraction.md"
+    },
+    {
+      "basename": "POSD - complexity in software design",
+      "path": "POSD - complexity in software design.md"
+    },
+    {
+      "basename": "design patterns",
+      "path": "design patterns.md"
+    },
+    {
+      "basename": "observability",
+      "path": "observability.md"
+    },
+    {
+      "basename": "behavioural design patterns",
+      "path": "behavioural design patterns.md"
+    },
+    {
+      "basename": "iterator",
+      "path": "iterator.md"
+    },
+    {
+      "basename": "map of content",
+      "path": "map of content.md"
+    },
+    {
       "basename": "TypeScript",
       "path": "TypeScript.md"
+    },
+    {
+      "basename": "module interface",
+      "path": "module interface.md"
+    },
+    {
+      "basename": "deep modules",
+      "path": "deep modules.md"
     },
     {
       "basename": "TypeScript - Enum",
@@ -21,18 +77,6 @@
       "path": "TypeScript - Type Annotations and Type Inference.md"
     },
     {
-      "basename": "map of content",
-      "path": "map of content.md"
-    },
-    {
-      "basename": "deep modules",
-      "path": "deep modules.md"
-    },
-    {
-      "basename": "POSD - modules should be deep",
-      "path": "POSD - modules should be deep.md"
-    },
-    {
       "basename": "classitis",
       "path": "classitis.md"
     },
@@ -45,16 +89,8 @@
       "path": "software design red flags.md"
     },
     {
-      "basename": "module abstraction",
-      "path": "module abstraction.md"
-    },
-    {
       "basename": "cognitive load",
       "path": "cognitive load.md"
-    },
-    {
-      "basename": "POSD - complexity in software design",
-      "path": "POSD - complexity in software design.md"
     },
     {
       "basename": "causes of complexity",
@@ -75,10 +111,6 @@
     {
       "basename": "modular design",
       "path": "modular design.md"
-    },
-    {
-      "basename": "philosophy of software design",
-      "path": "philosophy of software design.md"
     },
     {
       "basename": "POSD - strategic vs tactical programming",
@@ -123,10 +155,6 @@
     {
       "basename": "module implementation",
       "path": "module implementation.md"
-    },
-    {
-      "basename": "module interface",
-      "path": "module interface.md"
     },
     {
       "basename": "fleeting notes from software-design tag",

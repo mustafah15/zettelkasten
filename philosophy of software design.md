@@ -11,4 +11,5 @@ related:
 - [[POSD - complexity in software design]]
 - [[POSD - strategic vs tactical programming]]
 - [[POSD - modules should be deep]]
+- [[POSD - information hiding and information leakage]]
 - 

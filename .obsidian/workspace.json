@@ -18,55 +18,31 @@
             }
           },
           {
-            "id": "84ba4eb8d7ace377",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "deep modules.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0dffb849042a3b93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "module interface.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6392344ff80b6d14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/new note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e8083f52092f9ad8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript.md",
+                "file": "POSD - information hiding and information leakage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51f97d39ba4546fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "POSD - information hiding.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript.md",
+                "file": "POSD - information hiding and information leakage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript.md",
+                "file": "POSD - information hiding and information leakage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript.md"
+                "file": "POSD - information hiding and information leakage.md"
               }
             }
           },
@@ -214,32 +190,32 @@
   },
   "active": "e8083f52092f9ad8",
   "lastOpenFiles": [
-    "TypeScript - Enum.md",
+    "POSD - information leakage.md",
+    "POSD - information hiding.md",
+    "POSD - information hiding and information leakage.md",
+    "philosophy of software design.md",
+    "POSD - modules should be deep.md",
+    "module abstraction.md",
+    "POSD - complexity in software design.md",
+    "design patterns.md",
+    "observability.md",
+    "behavioural design patterns.md",
+    "iterator.md",
+    "map of content.md",
     "TypeScript.md",
+    "module interface.md",
+    "deep modules.md",
+    "TypeScript - Enum.md",
     "TypeScript - Numbers.md",
     "TypeScript - Types and Type System.md",
     "TypeScript - Type Annotations and Type Inference.md",
-    "map of content.md",
-    "deep modules.md",
-    "POSD - modules should be deep.md",
     "classitis.md",
     "shallow modules.md",
     "software design red flags.md",
-    "module abstraction.md",
     "cognitive load.md",
-    "POSD - complexity in software design.md",
     "causes of complexity.md",
     "symptoms of complexity.md",
     "output.md",
-    "abstraction.md",
-    "modular design.md",
-    "philosophy of software design.md",
-    "POSD - strategic vs tactical programming.md",
-    "templates/new note.md",
-    "strategic programming.md",
-    "tactical programming.md",
-    "tactical tornado.md",
-    "fighting against complexity.md",
     "assets/isolation levels.png",
     "assets/kafka_follower_leader.png",
     "assets/kafka partitions.png",

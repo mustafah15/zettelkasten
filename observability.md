@@ -1,7 +1,10 @@
-tags: #tools 
-type: #fleeting  
-relatedTo: [[distributed systems]]
-
+---
+tags:
+  - tools
+  - distributed-systems
+type:
+  - fleeting
+related: "[[distributed systems]]"
 ---
 
 [[monitoring]] vs. [[observability]] vs [[application performance management]]
