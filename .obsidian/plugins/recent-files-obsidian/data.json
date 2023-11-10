@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "POSD - different layer different abstraction",
+      "path": "zettelkasten/POSD - different layer different abstraction.md"
+    },
+    {
+      "basename": "dispatcher",
+      "path": "zettelkasten/dispatcher.md"
+    },
+    {
+      "basename": "pass-through variables",
+      "path": "zettelkasten/pass-through variables.md"
+    },
+    {
+      "basename": "software design red flags",
+      "path": "zettelkasten/software design red flags.md"
+    },
+    {
+      "basename": "shallow modules",
+      "path": "zettelkasten/shallow modules.md"
+    },
+    {
+      "basename": "pass-through methods",
+      "path": "zettelkasten/pass-through methods.md"
+    },
+    {
+      "basename": "philosophy of software design",
+      "path": "zettelkasten/philosophy of software design.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
+    },
+    {
+      "basename": "map of content",
+      "path": "zettelkasten/map of content.md"
     },
     {
       "basename": "abstraction",
@@ -31,10 +63,6 @@
     {
       "basename": "POSD - modules should be deep",
       "path": "zettelkasten/POSD - modules should be deep.md"
-    },
-    {
-      "basename": "philosophy of software design",
-      "path": "zettelkasten/philosophy of software design.md"
     },
     {
       "basename": "POSD - strategic vs tactical programming",
@@ -77,10 +105,6 @@
       "path": "zettelkasten/iterator.md"
     },
     {
-      "basename": "map of content",
-      "path": "zettelkasten/map of content.md"
-    },
-    {
       "basename": "TypeScript",
       "path": "zettelkasten/TypeScript.md"
     },
@@ -107,14 +131,6 @@
     {
       "basename": "classitis",
       "path": "zettelkasten/classitis.md"
-    },
-    {
-      "basename": "shallow modules",
-      "path": "zettelkasten/shallow modules.md"
-    },
-    {
-      "basename": "software design red flags",
-      "path": "zettelkasten/software design red flags.md"
     },
     {
       "basename": "cognitive load",

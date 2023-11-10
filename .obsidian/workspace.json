@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "zettelkasten/POSD - different layer different abstraction.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c8977f1bcbee25c3",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "zettelkasten/POSD - different layer different abstraction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "zettelkasten/POSD - different layer different abstraction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "zettelkasten/POSD - different layer different abstraction.md"
               }
             }
           },
@@ -151,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,8 +166,16 @@
   },
   "active": "e640676132f45750",
   "lastOpenFiles": [
-    "zettelkasten/Untitled 1.md",
+    "zettelkasten/dispatcher.md",
+    "zettelkasten/POSD - different layer different abstraction.md",
+    "zettelkasten/pass-through variables.md",
+    "zettelkasten/software design red flags.md",
+    "zettelkasten/shallow modules.md",
+    "zettelkasten/pass-through methods.md",
+    "zettelkasten/philosophy of software design.md",
     "README.md",
+    "zettelkasten/map of content.md",
+    "zettelkasten/Untitled 1.md",
     "Untitled",
     "zettelkasten/abstraction.md",
     "zettelkasten/POSD - general purpose modules vs special purpose modules.md",
@@ -175,7 +185,6 @@
     "zettelkasten/module interface.md",
     "zettelkasten/module abstraction.md",
     "zettelkasten/POSD - modules should be deep.md",
-    "zettelkasten/philosophy of software design.md",
     "zettelkasten/POSD - strategic vs tactical programming.md",
     "zettelkasten/POSD - complexity in software design.md",
     "zettelkasten/POSD - information hiding and information leakage.md",
@@ -185,13 +194,6 @@
     "zettelkasten/design patterns.md",
     "zettelkasten/observability.md",
     "zettelkasten/behavioural design patterns.md",
-    "zettelkasten/iterator.md",
-    "zettelkasten/map of content.md",
-    "zettelkasten/TypeScript.md",
-    "zettelkasten/deep modules.md",
-    "zettelkasten/TypeScript - Enum.md",
-    "zettelkasten/TypeScript - Numbers.md",
-    "zettelkasten/TypeScript - Types and Type System.md",
     "assets/isolation levels.png",
     "assets/kafka_follower_leader.png",
     "assets/kafka partitions.png",

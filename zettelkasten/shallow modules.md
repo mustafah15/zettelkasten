@@ -1,6 +1,7 @@
 ---
 tags:
   - software-design
+  - book-notes
 related: "[[POSD - modules should be deep]]"
 ---
 a shallow module is one with a relatively complex interface, but not much functionality it does not hide much complexity.
