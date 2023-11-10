@@ -1,0 +1,3 @@
+# zettelkasten
+
+technical notes 

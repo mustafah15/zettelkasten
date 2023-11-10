@@ -11,8 +11,12 @@
             "id": "e640676132f45750",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -156,6 +164,9 @@
   },
   "active": "e640676132f45750",
   "lastOpenFiles": [
+    "zettelkasten/Untitled 1.md",
+    "README.md",
+    "Untitled",
     "zettelkasten/abstraction.md",
     "zettelkasten/POSD - general purpose modules vs special purpose modules.md",
     "zettelkasten",
@@ -181,8 +192,6 @@
     "zettelkasten/TypeScript - Enum.md",
     "zettelkasten/TypeScript - Numbers.md",
     "zettelkasten/TypeScript - Types and Type System.md",
-    "zettelkasten/TypeScript - Type Annotations and Type Inference.md",
-    "zettelkasten/classitis.md",
     "assets/isolation levels.png",
     "assets/kafka_follower_leader.png",
     "assets/kafka partitions.png",
