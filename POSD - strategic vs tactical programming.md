@@ -1,6 +1,7 @@
 ---
 tags:
   - software-design
+  - book-notes
 related: "[[philosophy of software design]]"
 type:
   - literature

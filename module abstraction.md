@@ -1,6 +1,7 @@
 ---
 tags:
   - software-design
+  - book-notes
 type:
   - literature
 related: "[[POSD - modules should be deep]]"

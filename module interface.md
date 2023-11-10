@@ -1,6 +1,7 @@
 ---
 tags:
   - system-design
+  - book-notes
 type:
   - literature
 related: "[[POSD - complexity in software design]]"

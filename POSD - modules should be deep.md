@@ -1,6 +1,7 @@
 ---
 tags:
   - software-design
+  - book-notes
 type:
   - fleeting
 related: "[[philosophy of software design]]"

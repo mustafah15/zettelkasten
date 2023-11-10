@@ -12,4 +12,9 @@ related:
 - [[POSD - strategic vs tactical programming]]
 - [[POSD - modules should be deep]]
 - [[POSD - information hiding and information leakage]]
-- 
+- [[POSD - general purpose modules vs special purpose modules]]
+
+
+
+
+

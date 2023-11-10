@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "POSD - information hiding",
-      "path": "POSD - information hiding.md"
+      "basename": "POSD - general purpose modules vs special purpose modules",
+      "path": "POSD - general purpose modules vs special purpose modules.md"
+    },
+    {
+      "basename": "special purpose module",
+      "path": "special purpose module.md"
+    },
+    {
+      "basename": "general purpose module",
+      "path": "general purpose module.md"
+    },
+    {
+      "basename": "module interface",
+      "path": "module interface.md"
+    },
+    {
+      "basename": "module abstraction",
+      "path": "module abstraction.md"
+    },
+    {
+      "basename": "POSD - modules should be deep",
+      "path": "POSD - modules should be deep.md"
+    },
+    {
+      "basename": "philosophy of software design",
+      "path": "philosophy of software design.md"
+    },
+    {
+      "basename": "POSD - strategic vs tactical programming",
+      "path": "POSD - strategic vs tactical programming.md"
+    },
+    {
+      "basename": "POSD - complexity in software design",
+      "path": "POSD - complexity in software design.md"
     },
     {
       "basename": "POSD - information hiding and information leakage",
       "path": "POSD - information hiding and information leakage.md"
+    },
+    {
+      "basename": "POSD - information hiding",
+      "path": "POSD - information hiding.md"
     },
     {
       "basename": "POSD - temporal decomposition",
@@ -15,22 +51,6 @@
     {
       "basename": "POSD - information leakage",
       "path": "POSD - information leakage.md"
-    },
-    {
-      "basename": "philosophy of software design",
-      "path": "philosophy of software design.md"
-    },
-    {
-      "basename": "POSD - modules should be deep",
-      "path": "POSD - modules should be deep.md"
-    },
-    {
-      "basename": "module abstraction",
-      "path": "module abstraction.md"
-    },
-    {
-      "basename": "POSD - complexity in software design",
-      "path": "POSD - complexity in software design.md"
     },
     {
       "basename": "design patterns",
@@ -55,10 +75,6 @@
     {
       "basename": "TypeScript",
       "path": "TypeScript.md"
-    },
-    {
-      "basename": "module interface",
-      "path": "module interface.md"
     },
     {
       "basename": "deep modules",
@@ -115,10 +131,6 @@
     {
       "basename": "modular design",
       "path": "modular design.md"
-    },
-    {
-      "basename": "POSD - strategic vs tactical programming",
-      "path": "POSD - strategic vs tactical programming.md"
     },
     {
       "basename": "new note",
