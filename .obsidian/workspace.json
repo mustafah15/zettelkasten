@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5806429f979c0979",
+        "id": "72c679db311f3297",
         "type": "tabs",
         "children": [
           {
-            "id": "e8083f52092f9ad8",
+            "id": "e640676132f45750",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "POSD - general purpose modules vs special purpose modules.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "51f97d39ba4546fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "module interface.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,13 +69,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c8977f1bcbee25c3",
@@ -107,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "POSD - general purpose modules vs special purpose modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "POSD - general purpose modules vs special purpose modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "POSD - general purpose modules vs special purpose modules.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,34 +154,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8083f52092f9ad8",
+  "active": "e640676132f45750",
   "lastOpenFiles": [
-    "special purpose module.md",
-    "general purpose module.md",
-    "POSD - general purpose modules vs special purpose modules.md",
-    "module interface.md",
-    "module abstraction.md",
-    "POSD - modules should be deep.md",
-    "philosophy of software design.md",
-    "POSD - strategic vs tactical programming.md",
-    "POSD - complexity in software design.md",
-    "POSD - information hiding and information leakage.md",
-    "POSD - information hiding.md",
-    "POSD - temporal decomposition.md",
-    "POSD - information leakage.md",
-    "design patterns.md",
-    "observability.md",
-    "behavioural design patterns.md",
-    "iterator.md",
-    "map of content.md",
-    "TypeScript.md",
-    "deep modules.md",
-    "TypeScript - Enum.md",
-    "TypeScript - Numbers.md",
-    "TypeScript - Types and Type System.md",
-    "TypeScript - Type Annotations and Type Inference.md",
-    "classitis.md",
-    "shallow modules.md",
+    "zettelkasten/abstraction.md",
+    "zettelkasten/POSD - general purpose modules vs special purpose modules.md",
+    "zettelkasten",
+    "zettelkasten/special purpose module.md",
+    "zettelkasten/general purpose module.md",
+    "zettelkasten/module interface.md",
+    "zettelkasten/module abstraction.md",
+    "zettelkasten/POSD - modules should be deep.md",
+    "zettelkasten/philosophy of software design.md",
+    "zettelkasten/POSD - strategic vs tactical programming.md",
+    "zettelkasten/POSD - complexity in software design.md",
+    "zettelkasten/POSD - information hiding and information leakage.md",
+    "zettelkasten/POSD - information hiding.md",
+    "zettelkasten/POSD - temporal decomposition.md",
+    "zettelkasten/POSD - information leakage.md",
+    "zettelkasten/design patterns.md",
+    "zettelkasten/observability.md",
+    "zettelkasten/behavioural design patterns.md",
+    "zettelkasten/iterator.md",
+    "zettelkasten/map of content.md",
+    "zettelkasten/TypeScript.md",
+    "zettelkasten/deep modules.md",
+    "zettelkasten/TypeScript - Enum.md",
+    "zettelkasten/TypeScript - Numbers.md",
+    "zettelkasten/TypeScript - Types and Type System.md",
+    "zettelkasten/TypeScript - Type Annotations and Type Inference.md",
+    "zettelkasten/classitis.md",
     "assets/isolation levels.png",
     "assets/kafka_follower_leader.png",
     "assets/kafka partitions.png",

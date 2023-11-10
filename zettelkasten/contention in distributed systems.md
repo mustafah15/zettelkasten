@@ -10,6 +10,6 @@ What is contention?
 How contention effect scalability?
 see: [[amdahl's law]], [[gunther's universal law]]
 
-As [[Amdahl's Law]] showed us the effect of contention on a distributed system and demonstrated that when we have contention as we try to add more parallelisation or as we try to scale up we start to see diminishing returns, there's another effect we have to take into account and that is [[the effect of coherency delay]]
+As [[amdahl's law]] showed us the effect of contention on a distributed system and demonstrated that when we have contention as we try to add more parallelisation or as we try to scale up we start to see diminishing returns, there's another effect we have to take into account and that is [[the effect of coherency delay]]
 
 Both [[amdahl's law]], [[gunther's universal law]] demonstrate [[linear scalability]] is almost unachievable Linear scalability requires total isolation, reactive systems understand the limitation imposed by these laws and accept them rather than avoid them.

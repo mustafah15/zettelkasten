@@ -1,136 +1,136 @@
 {
   "recentFiles": [
     {
+      "basename": "abstraction",
+      "path": "zettelkasten/abstraction.md"
+    },
+    {
       "basename": "POSD - general purpose modules vs special purpose modules",
-      "path": "POSD - general purpose modules vs special purpose modules.md"
+      "path": "zettelkasten/POSD - general purpose modules vs special purpose modules.md"
     },
     {
       "basename": "special purpose module",
-      "path": "special purpose module.md"
+      "path": "zettelkasten/special purpose module.md"
     },
     {
       "basename": "general purpose module",
-      "path": "general purpose module.md"
+      "path": "zettelkasten/general purpose module.md"
     },
     {
       "basename": "module interface",
-      "path": "module interface.md"
+      "path": "zettelkasten/module interface.md"
     },
     {
       "basename": "module abstraction",
-      "path": "module abstraction.md"
+      "path": "zettelkasten/module abstraction.md"
     },
     {
       "basename": "POSD - modules should be deep",
-      "path": "POSD - modules should be deep.md"
+      "path": "zettelkasten/POSD - modules should be deep.md"
     },
     {
       "basename": "philosophy of software design",
-      "path": "philosophy of software design.md"
+      "path": "zettelkasten/philosophy of software design.md"
     },
     {
       "basename": "POSD - strategic vs tactical programming",
-      "path": "POSD - strategic vs tactical programming.md"
+      "path": "zettelkasten/POSD - strategic vs tactical programming.md"
     },
     {
       "basename": "POSD - complexity in software design",
-      "path": "POSD - complexity in software design.md"
+      "path": "zettelkasten/POSD - complexity in software design.md"
     },
     {
       "basename": "POSD - information hiding and information leakage",
-      "path": "POSD - information hiding and information leakage.md"
+      "path": "zettelkasten/POSD - information hiding and information leakage.md"
     },
     {
       "basename": "POSD - information hiding",
-      "path": "POSD - information hiding.md"
+      "path": "zettelkasten/POSD - information hiding.md"
     },
     {
       "basename": "POSD - temporal decomposition",
-      "path": "POSD - temporal decomposition.md"
+      "path": "zettelkasten/POSD - temporal decomposition.md"
     },
     {
       "basename": "POSD - information leakage",
-      "path": "POSD - information leakage.md"
+      "path": "zettelkasten/POSD - information leakage.md"
     },
     {
       "basename": "design patterns",
-      "path": "design patterns.md"
+      "path": "zettelkasten/design patterns.md"
     },
     {
       "basename": "observability",
-      "path": "observability.md"
+      "path": "zettelkasten/observability.md"
     },
     {
       "basename": "behavioural design patterns",
-      "path": "behavioural design patterns.md"
+      "path": "zettelkasten/behavioural design patterns.md"
     },
     {
       "basename": "iterator",
-      "path": "iterator.md"
+      "path": "zettelkasten/iterator.md"
     },
     {
       "basename": "map of content",
-      "path": "map of content.md"
+      "path": "zettelkasten/map of content.md"
     },
     {
       "basename": "TypeScript",
-      "path": "TypeScript.md"
+      "path": "zettelkasten/TypeScript.md"
     },
     {
       "basename": "deep modules",
-      "path": "deep modules.md"
+      "path": "zettelkasten/deep modules.md"
     },
     {
       "basename": "TypeScript - Enum",
-      "path": "TypeScript - Enum.md"
+      "path": "zettelkasten/TypeScript - Enum.md"
     },
     {
       "basename": "TypeScript - Numbers",
-      "path": "TypeScript - Numbers.md"
+      "path": "zettelkasten/TypeScript - Numbers.md"
     },
     {
       "basename": "TypeScript - Types and Type System",
-      "path": "TypeScript - Types and Type System.md"
+      "path": "zettelkasten/TypeScript - Types and Type System.md"
     },
     {
       "basename": "TypeScript - Type Annotations and Type Inference",
-      "path": "TypeScript - Type Annotations and Type Inference.md"
+      "path": "zettelkasten/TypeScript - Type Annotations and Type Inference.md"
     },
     {
       "basename": "classitis",
-      "path": "classitis.md"
+      "path": "zettelkasten/classitis.md"
     },
     {
       "basename": "shallow modules",
-      "path": "shallow modules.md"
+      "path": "zettelkasten/shallow modules.md"
     },
     {
       "basename": "software design red flags",
-      "path": "software design red flags.md"
+      "path": "zettelkasten/software design red flags.md"
     },
     {
       "basename": "cognitive load",
-      "path": "cognitive load.md"
+      "path": "zettelkasten/cognitive load.md"
     },
     {
       "basename": "causes of complexity",
-      "path": "causes of complexity.md"
+      "path": "zettelkasten/causes of complexity.md"
     },
     {
       "basename": "symptoms of complexity",
-      "path": "symptoms of complexity.md"
+      "path": "zettelkasten/symptoms of complexity.md"
     },
     {
       "basename": "output",
-      "path": "output.md"
-    },
-    {
-      "basename": "abstraction",
-      "path": "abstraction.md"
+      "path": "zettelkasten/output.md"
     },
     {
       "basename": "modular design",
-      "path": "modular design.md"
+      "path": "zettelkasten/modular design.md"
     },
     {
       "basename": "new note",
@@ -138,43 +138,43 @@
     },
     {
       "basename": "strategic programming",
-      "path": "strategic programming.md"
+      "path": "zettelkasten/strategic programming.md"
     },
     {
       "basename": "tactical programming",
-      "path": "tactical programming.md"
+      "path": "zettelkasten/tactical programming.md"
     },
     {
       "basename": "tactical tornado",
-      "path": "tactical tornado.md"
+      "path": "zettelkasten/tactical tornado.md"
     },
     {
       "basename": "fighting against complexity",
-      "path": "fighting against complexity.md"
+      "path": "zettelkasten/fighting against complexity.md"
     },
     {
       "basename": "output - complexity in software design",
-      "path": "output - complexity in software design.md"
+      "path": "zettelkasten/output - complexity in software design.md"
     },
     {
       "basename": "change amplification",
-      "path": "change amplification.md"
+      "path": "zettelkasten/change amplification.md"
     },
     {
       "basename": "zero tolerance",
-      "path": "zero tolerance.md"
+      "path": "zettelkasten/zero tolerance.md"
     },
     {
       "basename": "unknown unknowns",
-      "path": "unknown unknowns.md"
+      "path": "zettelkasten/unknown unknowns.md"
     },
     {
       "basename": "module implementation",
-      "path": "module implementation.md"
+      "path": "zettelkasten/module implementation.md"
     },
     {
       "basename": "fleeting notes from software-design tag",
-      "path": "fleeting notes from software-design tag.md"
+      "path": "zettelkasten/fleeting notes from software-design tag.md"
     }
   ],
   "omittedPaths": [],
