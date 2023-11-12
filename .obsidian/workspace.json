@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/POSD - better together or better apart.md",
+                "file": "zettelkasten/map of content.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/POSD - better together or better apart.md",
+                "file": "zettelkasten/map of content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/POSD - better together or better apart.md",
+                "file": "zettelkasten/map of content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/POSD - better together or better apart.md"
+                "file": "zettelkasten/map of content.md"
               }
             }
           },
@@ -161,13 +161,14 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "digitalgarden:Digital Garden Publication Center": false
     }
   },
   "active": "e640676132f45750",
   "lastOpenFiles": [
-    "zettelkasten/conjoined methods.md",
     "zettelkasten/POSD - better together or better apart.md",
+    "zettelkasten/conjoined methods.md",
     "zettelkasten/software design red flags.md",
     "zettelkasten/deep modules.md",
     "zettelkasten/philosophy of software design.md",

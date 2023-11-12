@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "map of content",
+      "path": "zettelkasten/map of content.md"
+    },
+    {
       "basename": "POSD - better together or better apart",
       "path": "zettelkasten/POSD - better together or better apart.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "map of content",
-      "path": "zettelkasten/map of content.md"
     },
     {
       "basename": "abstraction",

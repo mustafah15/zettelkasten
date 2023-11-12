@@ -3,6 +3,8 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "type": "multitext"
+    "type": "multitext",
+    "dg-home": "checkbox",
+    "dg-publish": "checkbox"
   }
 }

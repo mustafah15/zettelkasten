@@ -1,6 +1,11 @@
-
-tags: #software-engineering
-type: #permanent
+---
+tags:
+  - software-engineering
+dg-home: true
+dg-publish: true
+type:
+  - permanent
+---
 
 - [[object oriented design]]
 - [[SOLID]]
@@ -18,8 +23,5 @@ type: #permanent
 - [[database engineering]]
 - technical books ingestion
 	- [[philosophy of software design]]
-	- 
-
-### roadmap 
-- improving [[observability]]
-	- 
+- other topics
+-  [[observability]]
