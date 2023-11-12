@@ -1,20 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "POSD - different layer different abstraction",
-      "path": "zettelkasten/POSD - different layer different abstraction.md"
+      "basename": "POSD - better together or better apart",
+      "path": "zettelkasten/POSD - better together or better apart.md"
     },
     {
-      "basename": "dispatcher",
-      "path": "zettelkasten/dispatcher.md"
+      "basename": "conjoined methods",
+      "path": "zettelkasten/conjoined methods.md"
+    },
+    {
+      "basename": "software design red flags",
+      "path": "zettelkasten/software design red flags.md"
+    },
+    {
+      "basename": "deep modules",
+      "path": "zettelkasten/deep modules.md"
+    },
+    {
+      "basename": "philosophy of software design",
+      "path": "zettelkasten/philosophy of software design.md"
+    },
+    {
+      "basename": "POSD - pull complexity downwards",
+      "path": "zettelkasten/POSD - pull complexity downwards.md"
+    },
+    {
+      "basename": "POSD - different layer different abstraction",
+      "path": "zettelkasten/POSD - different layer different abstraction.md"
     },
     {
       "basename": "pass-through variables",
       "path": "zettelkasten/pass-through variables.md"
     },
     {
-      "basename": "software design red flags",
-      "path": "zettelkasten/software design red flags.md"
+      "basename": "dispatcher",
+      "path": "zettelkasten/dispatcher.md"
     },
     {
       "basename": "shallow modules",
@@ -23,10 +43,6 @@
     {
       "basename": "pass-through methods",
       "path": "zettelkasten/pass-through methods.md"
-    },
-    {
-      "basename": "philosophy of software design",
-      "path": "zettelkasten/philosophy of software design.md"
     },
     {
       "basename": "README",
@@ -109,10 +125,6 @@
       "path": "zettelkasten/TypeScript.md"
     },
     {
-      "basename": "deep modules",
-      "path": "zettelkasten/deep modules.md"
-    },
-    {
       "basename": "TypeScript - Enum",
       "path": "zettelkasten/TypeScript - Enum.md"
     },
@@ -187,14 +199,6 @@
     {
       "basename": "unknown unknowns",
       "path": "zettelkasten/unknown unknowns.md"
-    },
-    {
-      "basename": "module implementation",
-      "path": "zettelkasten/module implementation.md"
-    },
-    {
-      "basename": "fleeting notes from software-design tag",
-      "path": "zettelkasten/fleeting notes from software-design tag.md"
     }
   ],
   "omittedPaths": [],

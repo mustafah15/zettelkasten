@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/POSD - different layer different abstraction.md",
+                "file": "zettelkasten/POSD - better together or better apart.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/POSD - different layer different abstraction.md",
+                "file": "zettelkasten/POSD - better together or better apart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/POSD - different layer different abstraction.md",
+                "file": "zettelkasten/POSD - better together or better apart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/POSD - different layer different abstraction.md"
+                "file": "zettelkasten/POSD - better together or better apart.md"
               }
             }
           },
@@ -166,13 +166,17 @@
   },
   "active": "e640676132f45750",
   "lastOpenFiles": [
-    "zettelkasten/dispatcher.md",
+    "zettelkasten/conjoined methods.md",
+    "zettelkasten/POSD - better together or better apart.md",
+    "zettelkasten/software design red flags.md",
+    "zettelkasten/deep modules.md",
+    "zettelkasten/philosophy of software design.md",
+    "zettelkasten/POSD - pull complexity downwards.md",
     "zettelkasten/POSD - different layer different abstraction.md",
     "zettelkasten/pass-through variables.md",
-    "zettelkasten/software design red flags.md",
+    "zettelkasten/dispatcher.md",
     "zettelkasten/shallow modules.md",
     "zettelkasten/pass-through methods.md",
-    "zettelkasten/philosophy of software design.md",
     "README.md",
     "zettelkasten/map of content.md",
     "zettelkasten/Untitled 1.md",
@@ -190,10 +194,6 @@
     "zettelkasten/POSD - information hiding and information leakage.md",
     "zettelkasten/POSD - information hiding.md",
     "zettelkasten/POSD - temporal decomposition.md",
-    "zettelkasten/POSD - information leakage.md",
-    "zettelkasten/design patterns.md",
-    "zettelkasten/observability.md",
-    "zettelkasten/behavioural design patterns.md",
     "assets/isolation levels.png",
     "assets/kafka_follower_leader.png",
     "assets/kafka partitions.png",
