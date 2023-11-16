@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Domain Driven Design a Practical Guide",
+      "path": "zettelkasten/Domain Driven Design a Practical Guide.md"
+    },
+    {
+      "basename": "domain driven design",
+      "path": "zettelkasten/domain driven design.md"
+    },
+    {
+      "basename": "DDD - domain abstraction",
+      "path": "zettelkasten/DDD - domain abstraction.md"
+    },
+    {
+      "basename": "DDD - bounded context",
+      "path": "zettelkasten/DDD - bounded context.md"
+    },
+    {
+      "basename": "Index",
+      "path": "output/Index.md"
+    },
+    {
+      "basename": "Complexity In Software Design",
+      "path": "output/Complexity In Software Design.md"
+    },
+    {
       "basename": "map of content",
       "path": "zettelkasten/map of content.md"
     },
@@ -157,10 +181,6 @@
       "path": "zettelkasten/symptoms of complexity.md"
     },
     {
-      "basename": "output",
-      "path": "zettelkasten/output.md"
-    },
-    {
       "basename": "modular design",
       "path": "zettelkasten/modular design.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "tactical tornado",
       "path": "zettelkasten/tactical tornado.md"
-    },
-    {
-      "basename": "fighting against complexity",
-      "path": "zettelkasten/fighting against complexity.md"
-    },
-    {
-      "basename": "output - complexity in software design",
-      "path": "zettelkasten/output - complexity in software design.md"
-    },
-    {
-      "basename": "change amplification",
-      "path": "zettelkasten/change amplification.md"
-    },
-    {
-      "basename": "zero tolerance",
-      "path": "zettelkasten/zero tolerance.md"
-    },
-    {
-      "basename": "unknown unknowns",
-      "path": "zettelkasten/unknown unknowns.md"
     }
   ],
   "omittedPaths": [],

@@ -1,8 +1,8 @@
 ---
 tags:
   - software-engineering
-dg-home: true
-dg-publish: true
+dg-home: false
+dg-publish: false
 type:
   - permanent
 ---

@@ -3,11 +3,11 @@ type: #literature
 
 --- 
 
-Domain Driven design originates form a book called Domain Driven Design by Eric Evans.
-One of the key goal of the book is to try **to create a software implementation that is based on an evolving model that is understood by the domain experts.** so largely about creating a communication channel between the domain experts and the software developers.
+Domain Driven design originates from a book called Domain Driven Design by Eric Evans.
+One of the key goals of the book is to try **to create a software implementation that is based on an evolving model that is understood by the domain experts.** so largely about creating a communication channel between the domain experts and the software developers.
 As far as goals go for domain driven design one of the key goals within it is to take a large system, or a large domain and to break it down to smaller pieces. the problem that we have the larger domain you have the more harder you can deal with it and harder to model a a large singe coherent model.
 break things down into small pieces. this gives us a way to determine the boundaries, essentially between those smaller pieces within the larger domain,
-Reactive micro-services for example have a similar goal they need to be separated along clear boundaries, each microservice has to have a clearly defined api and a specific set of responsibilities. if we don't know what the responsibilities of the microservice it's going to be very hard ti build it and have a proper design for it.
+Reactive micro-services for example have a similar goal they need to be separated along clear boundaries, each microservice has to have a clearly defined api and a specific set of responsibilities. if we don't know what the responsibilities of the microservice it's going to be very hard to build it and have a proper design for it.
 thats where the DDD will help us it give us a set of guidelines and a set of techniques that we can use to try to help us to break larger domain into a smaller ones.
 ### What Is a Domain?
 - A domain in the context of the software, it refers to the business or idea that we are modeling.
@@ -43,33 +43,34 @@ thats where the DDD will help us it give us a set of guidelines and a set of tec
 	- using event first DDD we start by defining the activities, then group those activities to find logical system boundaries
 
 ### Maintaining purity of boundaries 
- Maintaining the purity of those bounded context needs a technique or a set of techniques that allows us to do that.
-#### Anti-Corruption Layers
+ Maintaining the purity of those bounded contexts needs a technique or a set of techniques that allows us to do that.
+### Anti-Corruption Layers
 
 Each Bounded context may have domain concepts that are unique, Concepts are not always compatible from one context to the next.
 
 - Anti-corruption layers are introduced to translate these concepts
 - Anti-corruption layers will prevent Bounded context from leaking into each other.
-- Anti-Corruption layers help the bounded context to stand alone.
+- Anti-corruption layers help the bounded context to stand alone.
 
-**How Anti Corruption Layers are implemented**
+### **How Anti Corruption Layers are implemented**
 a common way to build it is abstract interface that represent pure domain representation of the data and then we have implementation of this interface which dose that translation and that sort of infrastructure component that dose that translation.
 
-#### Anti-Corruption Layers for Legacy systems
+### Anti-Corruption Layers for Legacy systems
 
 the domain for the legacy system maybe messy or unclear, but the Anti-Corruption layer keeps your Bounded Context pure.
 It prevents your domain from dealing with the mess of the legacy system.
 
-#### Context Maps
+### Context Maps
 ![[Screenshot 2023-09-02 at 19.40.03.png]]
 - Context Maps are a way of visualizing Bounded Contexts and the relationships between them.
 - Bounded Contexts are drawn as simple shapes
-- lines connects the Bounded Contexts to indicate relationships
-- Lines may be labelled to indicate the nature of the relationships
+- lines connect the Bounded Contexts to indicate relationships
+- Lines may be labeled to indicate the nature of the relationships
 
 
-### [[DDD - bounded context]]
-### [[DDD - domain activities]]
-### [[DDD - domain objects]]
-### [[DDD - domain abstraction]]
-### [[DDD - hexagonal architecture]]
+
+## [[DDD - bounded context]]
+## [[DDD - domain activities]] 
+## [[DDD - domain abstraction]]
+## [[DDD - domain objects]]
+## [[DDD - hexagonal architecture]]

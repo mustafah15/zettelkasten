@@ -5,6 +5,7 @@ tags:
 related: "[[POSD - complexity in software design]]"
 type:
   - permanent
+dg-publish: true
 ---
 >Disclaimer:
 >This post is part of my notes from the [Philosophy Of Software Design](https://amzn.eu/d/3kkI2bb) book by John Ousterhout a book that I would highly recommend for every Software Engineer.
@@ -23,7 +24,6 @@ Also, it's important to understand that complexity can take many forms for examp
 	Cognitive load means how much a developer needs to know in order to complete a task. A higher cognitive load means that developers have to spend more time learning the required information and there is a greater risk of bugs because they have missed something important. cognitive load arises in many forms such as APIs with many methods, inconsistencies, and dependencies between modules.
 - Unknown Unknowns
 	The third symptom of complexity is that it's not obvious which piece of code should be modified to complete a task, or what information a developer must have to carry out the task successfully. Of the three manifestations of complexity, unknown unknowns are the worst. an unknown unknowns means that there is something you need to know but there's no way for you to find out what it is, or even whether there is an issue or not. you won't find out about it until bugs appear after you make a change.
-
 ### Complexity Causality 
 Complexity is not caused by a single catastrophic error however it accumulates in lots of small chunks a new single dependency or obscure piece of code by itself is unlikely to affect significantly the maintainability of a software system. complexity comes because hundreds or thousands of small dependencies and obscurities build up over time. This incremental nature of complexity makes it hard to control it's easy to convince yourself that a little bit of complexity introduced by your current change is not a big deal however if every developer takes this approach for every change complexity accumulates rapidly.
 There are two main ways that complexity can be introduced into your codebase:
@@ -32,13 +32,8 @@ There are two main ways that complexity can be introduced into your codebase:
 - Obscurity
 	obscurity occurs when important information is not obvious. a simple example is a variable name that is so generic that it does not carry much useful information, so the only way to find out is to scan code for places where the variable is used. Inconsistency is a major contributor to obscurity if the same variable name is used for two different purposes it won't be obvious to the developer which of these purposes a particular variable serves.
 
-
-
 ### Fighting against complexity 
 - eliminate complexity by making code simpler and more obvious, for example, complexity can be reduced by eliminating special cases or using identifiers in a function. 
 - encapsulate complexity, programmers can work on a system without being exposed to all of its complexity at once by embracing  *modular design*
-
-
-
 
 Finally, complexity can sneak into every codebase and it's important to know what complexity symptoms, causes, and how to fight against it in every technical decision you take during your day-to-day work to prevent complex code from building up incrementally. 

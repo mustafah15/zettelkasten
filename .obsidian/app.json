@@ -3,5 +3,12 @@
   "attachmentFolderPath": "assets",
   "vimMode": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "zettelkasten"
+  "newFileFolderPath": "zettelkasten",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

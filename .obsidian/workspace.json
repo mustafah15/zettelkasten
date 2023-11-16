@@ -10,10 +10,30 @@
           {
             "id": "e640676132f45750",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/map of content.md",
+                "file": "zettelkasten/Domain Driven Design a Practical Guide.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      },
+      {
+        "id": "2068fb8a0bf436f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8f254715c90756a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/domain driven design.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/map of content.md",
+                "file": "zettelkasten/Domain Driven Design a Practical Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/map of content.md",
+                "file": "zettelkasten/Domain Driven Design a Practical Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/map of content.md"
+                "file": "zettelkasten/Domain Driven Design a Practical Guide.md"
               }
             }
           },
@@ -167,6 +187,14 @@
   },
   "active": "e640676132f45750",
   "lastOpenFiles": [
+    "zettelkasten/domain driven design.md",
+    "zettelkasten/Domain Driven Design a Practical Guide.md",
+    "zettelkasten/DDD - domain abstraction.md",
+    "zettelkasten/DDD - bounded context.md",
+    "output/Index.md",
+    "output/Complexity In Software Design.md",
+    "zettelkasten/map of content.md",
+    "output",
     "zettelkasten/POSD - better together or better apart.md",
     "zettelkasten/conjoined methods.md",
     "zettelkasten/software design red flags.md",
@@ -179,9 +207,7 @@
     "zettelkasten/shallow modules.md",
     "zettelkasten/pass-through methods.md",
     "README.md",
-    "zettelkasten/map of content.md",
     "zettelkasten/Untitled 1.md",
-    "Untitled",
     "zettelkasten/abstraction.md",
     "zettelkasten/POSD - general purpose modules vs special purpose modules.md",
     "zettelkasten",
@@ -189,12 +215,6 @@
     "zettelkasten/general purpose module.md",
     "zettelkasten/module interface.md",
     "zettelkasten/module abstraction.md",
-    "zettelkasten/POSD - modules should be deep.md",
-    "zettelkasten/POSD - strategic vs tactical programming.md",
-    "zettelkasten/POSD - complexity in software design.md",
-    "zettelkasten/POSD - information hiding and information leakage.md",
-    "zettelkasten/POSD - information hiding.md",
-    "zettelkasten/POSD - temporal decomposition.md",
     "assets/isolation levels.png",
     "assets/kafka_follower_leader.png",
     "assets/kafka partitions.png",
