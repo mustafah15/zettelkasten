@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/domain driven design.md",
+                "file": "zettelkasten/DDD - bounded context.md",
                 "mode": "source",
                 "source": false
               }
@@ -187,10 +187,10 @@
   },
   "active": "e640676132f45750",
   "lastOpenFiles": [
-    "zettelkasten/domain driven design.md",
-    "zettelkasten/Domain Driven Design a Practical Guide.md",
-    "zettelkasten/DDD - domain abstraction.md",
     "zettelkasten/DDD - bounded context.md",
+    "zettelkasten/Domain Driven Design a Practical Guide.md",
+    "zettelkasten/domain driven design.md",
+    "zettelkasten/DDD - domain abstraction.md",
     "output/Index.md",
     "output/Complexity In Software Design.md",
     "zettelkasten/map of content.md",

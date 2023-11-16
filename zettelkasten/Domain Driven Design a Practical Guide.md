@@ -26,11 +26,30 @@ The key goal of DDD is to build a domain model that the domain experts understan
 In order to navigate this book easily let's explain some DDD common terms first
 
 ### Ubiquitous Language 
-Ubiquitous Language is A common language structured around the domain model and shared by developers and domain experts, It’s used to describe all aspects of the domain, ensuring that all communication is precise and meaningful. you might have noticed in many projects domain experts and developers use different sets of terms when they talk about the domain which leads to misunderstanding and slows the process down, the Ubiquitous Language helps to eliminate this issue by explicitly pointing those differences out and adjusting the terminology to have one unified language. 
-let's say for example that you have 
+Ubiquitous Language is A common language structured around the domain model and shared by developers and domain experts, It’s used to describe all aspects of the domain, ensuring that all communication is precise and meaningful. you might have noticed in many projects domain experts and developers use different sets of terms when they talk about the domain which leads to misunderstanding and slows the process down, the Ubiquitous Language helps to eliminate this issue by explicitly pointing those differences out and adjusting the terminology to have one unified language, so if developers find a process or abstraction in a domain that doesn't appear to have a name, the developers should talk to the domain experts about whether it already exists or co-create a new term to describe it, this also means that you should keep your codebase and database tables or fields in sync with this single terminology 
+
+let's say for example that we have a sales system in this system we have a class called product which is a sales unit, let's say that we noticed that the domain experts refer to this element as both product and package in this case we should call attention to this and suggest to use a single term to avoid confusion. 
 
 ### Bounded Context
+
+A bounded context is a linguistic and organizational boundary defining a specific business domain area. A bounded context defines a specific set of concepts, terminology, and business rules that apply within that context while excluding concepts and rules that apply in other contexts.
+For example, in a product delivery management that sells products, each subdomain could be considered a bounded context. The product catalog would have its own bounded context that defines the concepts and rules related to managing the product catalog. Order management would have its own bounded context that defines the concepts and rules related to the ordering process, and so on. Each subdomain’s domain model would be a bounded context, and the overall system domain model would comprise all these bounded contexts.
+
+Bounded Context encourages an object-model-first strategy for developing services bounded to a data model. It is merely the dividing line within a domain where a specific domain model is applicable. Dealing with large models and teams requires categorizing them into various Bounded Contexts and being specific about how those contexts interact. As a result, it is accountable for the integrity and mutability of the data model.
+
+Also, by defining clear boundaries between bounded contexts, teams can work independently on their respective microservices without interfering with each other. This promotes better isolation and encapsulation, making it easier to maintain and modify individual sub-systems without impacting the rest of the system.
+
+Bounded contexts establish clear boundaries around a cohesive area of the business domain, and smaller, focused teams can own these discrete parts of business responsibilities instead of whole projects.
+
 ### Core Domain
+
+As DDD considers the main part of any domain is its business logic and not all but the most important piece of it, which is the problem our software is trying to solve as the core domain.
+
+In the restaurant application example, there might be lots of business logic but not all of it is essential for example we might have an inventory management system that might be delegated to an external software, it's easy to do that because it's not part of the core problem our software is trying to solve.
+
+
+These Concepts of Ubiquitous Language, Bounded Context, and Core Domain are the most important parts of the domain-driven design you can think of them as the strategic elements of DDD.
+
 
 ## Decomposing The Domain
 

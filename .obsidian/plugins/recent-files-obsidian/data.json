@@ -5,16 +5,16 @@
       "path": "zettelkasten/Domain Driven Design a Practical Guide.md"
     },
     {
+      "basename": "DDD - bounded context",
+      "path": "zettelkasten/DDD - bounded context.md"
+    },
+    {
       "basename": "domain driven design",
       "path": "zettelkasten/domain driven design.md"
     },
     {
       "basename": "DDD - domain abstraction",
       "path": "zettelkasten/DDD - domain abstraction.md"
-    },
-    {
-      "basename": "DDD - bounded context",
-      "path": "zettelkasten/DDD - bounded context.md"
     },
     {
       "basename": "Index",
