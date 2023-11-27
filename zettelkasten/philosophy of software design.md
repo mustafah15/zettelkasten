@@ -16,7 +16,7 @@ related:
 - [[POSD - different layer different abstraction]]
 - [[POSD - pull complexity downwards]]
 - [[POSD - better together or better apart]]
-- 
+
 
 
 

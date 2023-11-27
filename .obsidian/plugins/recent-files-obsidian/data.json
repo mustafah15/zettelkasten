@@ -1,28 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Domain Driven Design a Practical Guide",
-      "path": "zettelkasten/Domain Driven Design a Practical Guide.md"
-    },
-    {
-      "basename": "DDD - bounded context",
-      "path": "zettelkasten/DDD - bounded context.md"
-    },
-    {
-      "basename": "domain driven design",
-      "path": "zettelkasten/domain driven design.md"
-    },
-    {
-      "basename": "DDD - domain abstraction",
-      "path": "zettelkasten/DDD - domain abstraction.md"
+      "basename": "Why Code Comments Is More Important Than You Think",
+      "path": "output/Why Code Comments Is More Important Than You Think.md"
     },
     {
       "basename": "Index",
       "path": "output/Index.md"
     },
     {
+      "basename": "Zettelkasten with obsidian",
+      "path": "output/Zettelkasten with obsidian.md"
+    },
+    {
       "basename": "Complexity In Software Design",
       "path": "output/Complexity In Software Design.md"
+    },
+    {
+      "basename": "philosophy of software design",
+      "path": "zettelkasten/philosophy of software design.md"
+    },
+    {
+      "basename": "Domain Driven Design a Practical Guide",
+      "path": "zettelkasten/Domain Driven Design a Practical Guide.md"
+    },
+    {
+      "basename": "fleeting notes from software-design tag",
+      "path": "zettelkasten/fleeting notes from software-design tag.md"
+    },
+    {
+      "basename": "domain driven design",
+      "path": "zettelkasten/domain driven design.md"
+    },
+    {
+      "basename": "DDD - bounded context",
+      "path": "zettelkasten/DDD - bounded context.md"
+    },
+    {
+      "basename": "DDD - domain abstraction",
+      "path": "zettelkasten/DDD - domain abstraction.md"
     },
     {
       "basename": "map of content",
@@ -43,10 +59,6 @@
     {
       "basename": "deep modules",
       "path": "zettelkasten/deep modules.md"
-    },
-    {
-      "basename": "philosophy of software design",
-      "path": "zettelkasten/philosophy of software design.md"
     },
     {
       "basename": "POSD - pull complexity downwards",
@@ -187,18 +199,6 @@
     {
       "basename": "new note",
       "path": "templates/new note.md"
-    },
-    {
-      "basename": "strategic programming",
-      "path": "zettelkasten/strategic programming.md"
-    },
-    {
-      "basename": "tactical programming",
-      "path": "zettelkasten/tactical programming.md"
-    },
-    {
-      "basename": "tactical tornado",
-      "path": "zettelkasten/tactical tornado.md"
     }
   ],
   "omittedPaths": [],

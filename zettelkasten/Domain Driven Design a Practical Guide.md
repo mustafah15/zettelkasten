@@ -52,7 +52,9 @@ These Concepts of Ubiquitous Language, Bounded Context, and Core Domain are the 
 
 
 ## Decomposing The Domain
+As we mentioned DDD is about taking a large domain and breaking it into smaller pieces, as business domains are usually large and complicated and it's rare to find an easy business domain that is tight and easy to model without breaking it down further as with any business domain there are a lot of complexity, idea, actions, and rules that interact in a very complex way Therefore trying to model that as a single domain can become problematic.
 
+So in this part, we're gonna discuss some of the techniques and some of the ideas that we'll use in order to break up our domain into smaller pieces. we will 
 ## Domain Objects
 
 ## Hexagonal Architecture 

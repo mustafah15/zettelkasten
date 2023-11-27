@@ -20,26 +20,33 @@
               },
               "pinned": true
             }
-          }
-        ]
-      },
-      {
-        "id": "2068fb8a0bf436f8",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "b8f254715c90756a",
+            "id": "9a4797c989fcb3e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/DDD - bounded context.md",
+                "file": "output/Why Code Comments Is More Important Than You Think.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9f3e944c55810d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "output/Why Code Comments Is More Important Than You Think.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c8977f1bcbee25c3",
@@ -114,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Domain Driven Design a Practical Guide.md",
+                "file": "output/Why Code Comments Is More Important Than You Think.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/Domain Driven Design a Practical Guide.md",
+                "file": "output/Why Code Comments Is More Important Than You Think.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/Domain Driven Design a Practical Guide.md"
+                "file": "output/Why Code Comments Is More Important Than You Think.md"
               }
             }
           },
@@ -166,6 +172,14 @@
               "state": {
                 "sortOrder": "frequency"
               }
+            }
+          },
+          {
+            "id": "f8c3a12f1bf23fb6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -185,21 +199,25 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "e640676132f45750",
+  "active": "b9f3e944c55810d4",
   "lastOpenFiles": [
-    "zettelkasten/DDD - bounded context.md",
-    "zettelkasten/Domain Driven Design a Practical Guide.md",
-    "zettelkasten/domain driven design.md",
-    "zettelkasten/DDD - domain abstraction.md",
     "output/Index.md",
+    "output/Zettelkasten with obsidian.md",
+    "assets/Screenshot 2023-11-27 at 19.06.32.png",
+    "output/Why Code Comments Is More Important Than You Think.md",
     "output/Complexity In Software Design.md",
+    "zettelkasten/philosophy of software design.md",
+    "zettelkasten/Domain Driven Design a Practical Guide.md",
+    "zettelkasten/fleeting notes from software-design tag.md",
+    "zettelkasten/domain driven design.md",
+    "zettelkasten/DDD - bounded context.md",
+    "zettelkasten/DDD - domain abstraction.md",
     "zettelkasten/map of content.md",
     "output",
     "zettelkasten/POSD - better together or better apart.md",
     "zettelkasten/conjoined methods.md",
     "zettelkasten/software design red flags.md",
     "zettelkasten/deep modules.md",
-    "zettelkasten/philosophy of software design.md",
     "zettelkasten/POSD - pull complexity downwards.md",
     "zettelkasten/POSD - different layer different abstraction.md",
     "zettelkasten/pass-through variables.md",
@@ -211,10 +229,6 @@
     "zettelkasten/abstraction.md",
     "zettelkasten/POSD - general purpose modules vs special purpose modules.md",
     "zettelkasten",
-    "zettelkasten/special purpose module.md",
-    "zettelkasten/general purpose module.md",
-    "zettelkasten/module interface.md",
-    "zettelkasten/module abstraction.md",
     "assets/isolation levels.png",
     "assets/kafka_follower_leader.png",
     "assets/kafka partitions.png",
@@ -224,7 +238,6 @@
     "assets/event-async-communication.png",
     "assets/Pasted image 20230903095851.png",
     "assets/arch.png",
-    "assets/arch1.png",
     "assets",
     "templates"
   ]
