@@ -39,14 +39,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "output/Why Code Comments Is More Important Than You Think.md",
+                "file": "zettelkasten/distributed systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a1222833be8c527",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/Site Reliability Engineering.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -100,11 +112,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c8977f1bcbee25c3",
@@ -120,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "output/Why Code Comments Is More Important Than You Think.md",
+                "file": "zettelkasten/Site Reliability Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "output/Why Code Comments Is More Important Than You Think.md",
+                "file": "zettelkasten/Site Reliability Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "output/Why Code Comments Is More Important Than You Think.md"
+                "file": "zettelkasten/Site Reliability Engineering.md"
               }
             }
           },
@@ -191,20 +205,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "b9f3e944c55810d4",
+  "active": "7a1222833be8c527",
   "lastOpenFiles": [
+    "zettelkasten/Customer  Reliability Engineering.md",
+    "zettelkasten/Site Reliability Engineering.md",
+    "zettelkasten/DevOps Vs SRE.md",
+    "zettelkasten/observability.md",
+    "zettelkasten/distributed systems.md",
+    "output/Why Code Comments Is More Important Than You Think.md",
     "output/Index.md",
     "output/Zettelkasten with obsidian.md",
     "assets/Screenshot 2023-11-27 at 19.06.32.png",
-    "output/Why Code Comments Is More Important Than You Think.md",
     "output/Complexity In Software Design.md",
     "zettelkasten/philosophy of software design.md",
     "zettelkasten/Domain Driven Design a Practical Guide.md",
@@ -224,10 +243,6 @@
     "zettelkasten/dispatcher.md",
     "zettelkasten/shallow modules.md",
     "zettelkasten/pass-through methods.md",
-    "README.md",
-    "zettelkasten/Untitled 1.md",
-    "zettelkasten/abstraction.md",
-    "zettelkasten/POSD - general purpose modules vs special purpose modules.md",
     "zettelkasten",
     "assets/isolation levels.png",
     "assets/kafka_follower_leader.png",

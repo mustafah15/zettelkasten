@@ -17,8 +17,6 @@ distributed systems have endless use cases, a few being electronic banking syste
 ### [[key characteristics of distributed systems]]
 
 
-
-
 ### [[distributed systems - communication styles]]
 
 

@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Site Reliability Engineering",
+      "path": "zettelkasten/Site Reliability Engineering.md"
+    },
+    {
+      "basename": "Customer  Reliability Engineering",
+      "path": "zettelkasten/Customer  Reliability Engineering.md"
+    },
+    {
+      "basename": "DevOps Vs SRE",
+      "path": "zettelkasten/DevOps Vs SRE.md"
+    },
+    {
+      "basename": "observability",
+      "path": "zettelkasten/observability.md"
+    },
+    {
+      "basename": "distributed systems",
+      "path": "zettelkasten/distributed systems.md"
+    },
+    {
       "basename": "Why Code Comments Is More Important Than You Think",
       "path": "output/Why Code Comments Is More Important Than You Think.md"
     },
@@ -145,10 +165,6 @@
       "path": "zettelkasten/design patterns.md"
     },
     {
-      "basename": "observability",
-      "path": "zettelkasten/observability.md"
-    },
-    {
       "basename": "behavioural design patterns",
       "path": "zettelkasten/behavioural design patterns.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "cognitive load",
       "path": "zettelkasten/cognitive load.md"
-    },
-    {
-      "basename": "causes of complexity",
-      "path": "zettelkasten/causes of complexity.md"
-    },
-    {
-      "basename": "symptoms of complexity",
-      "path": "zettelkasten/symptoms of complexity.md"
-    },
-    {
-      "basename": "modular design",
-      "path": "zettelkasten/modular design.md"
-    },
-    {
-      "basename": "new note",
-      "path": "templates/new note.md"
     }
   ],
   "omittedPaths": [],

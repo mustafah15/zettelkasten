@@ -102,3 +102,4 @@ It provides the following
 All of this information is combined into a single protocol called [[OTLP]]  which is an efficient way of streaming all these different types of data to a single analysis tool to look at all of it so modern analysis is not through different tools it's one tool that uses all of this data together so it can synthesize this correlations and allow you to easily move from one data point to another from matrics to traces to logs...
 Examples of tools that can do this for you (lightstep, datadog, zipkin, grafana tempo)
 
+[[Site Reliability Engineering|SRE]]
