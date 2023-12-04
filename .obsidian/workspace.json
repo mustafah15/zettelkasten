@@ -51,6 +51,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "zettelkasten/SLOs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "440228b879a7ed3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "zettelkasten/Site Reliability Engineering.md",
                 "mode": "source",
                 "source": false
@@ -58,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -112,8 +124,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -200,7 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -213,10 +224,18 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "7a1222833be8c527",
+  "active": "440228b879a7ed3d",
   "lastOpenFiles": [
-    "zettelkasten/Customer  Reliability Engineering.md",
+    "zettelkasten/how SLOs help balance operational and project work.md",
+    "assets/Screenshot 2023-12-04 at 21.10.41.png",
+    "assets/Screenshot 2023-12-04 at 21.10.02.png",
+    "zettelkasten/SLOs.md",
     "zettelkasten/Site Reliability Engineering.md",
+    "zettelkasten/how SLOs help build features faster.md",
+    "zettelkasten/how SLOs help businesses make decisions.md",
+    "zettelkasten/Customer  Reliability Engineering.md",
+    "zettelkasten/what is new in PHP 8.3.md",
+    "zettelkasten/PHP.md",
     "zettelkasten/DevOps Vs SRE.md",
     "zettelkasten/observability.md",
     "zettelkasten/distributed systems.md",
@@ -236,13 +255,6 @@
     "zettelkasten/POSD - better together or better apart.md",
     "zettelkasten/conjoined methods.md",
     "zettelkasten/software design red flags.md",
-    "zettelkasten/deep modules.md",
-    "zettelkasten/POSD - pull complexity downwards.md",
-    "zettelkasten/POSD - different layer different abstraction.md",
-    "zettelkasten/pass-through variables.md",
-    "zettelkasten/dispatcher.md",
-    "zettelkasten/shallow modules.md",
-    "zettelkasten/pass-through methods.md",
     "zettelkasten",
     "assets/isolation levels.png",
     "assets/kafka_follower_leader.png",
@@ -251,8 +263,6 @@
     "assets/cHy74FaNj_.png",
     "assets/Screenshot 2023-09-29 at 12.43.04.png",
     "assets/event-async-communication.png",
-    "assets/Pasted image 20230903095851.png",
-    "assets/arch.png",
     "assets",
     "templates"
   ]

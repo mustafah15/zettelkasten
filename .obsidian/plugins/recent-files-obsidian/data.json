@@ -5,8 +5,32 @@
       "path": "zettelkasten/Site Reliability Engineering.md"
     },
     {
+      "basename": "how SLOs help balance operational and project work",
+      "path": "zettelkasten/how SLOs help balance operational and project work.md"
+    },
+    {
+      "basename": "SLOs",
+      "path": "zettelkasten/SLOs.md"
+    },
+    {
+      "basename": "how SLOs help build features faster",
+      "path": "zettelkasten/how SLOs help build features faster.md"
+    },
+    {
+      "basename": "how SLOs help businesses make decisions",
+      "path": "zettelkasten/how SLOs help businesses make decisions.md"
+    },
+    {
       "basename": "Customer  Reliability Engineering",
       "path": "zettelkasten/Customer  Reliability Engineering.md"
+    },
+    {
+      "basename": "what is new in PHP 8.3",
+      "path": "zettelkasten/what is new in PHP 8.3.md"
+    },
+    {
+      "basename": "PHP",
+      "path": "zettelkasten/PHP.md"
     },
     {
       "basename": "DevOps Vs SRE",
@@ -175,30 +199,6 @@
     {
       "basename": "TypeScript",
       "path": "zettelkasten/TypeScript.md"
-    },
-    {
-      "basename": "TypeScript - Enum",
-      "path": "zettelkasten/TypeScript - Enum.md"
-    },
-    {
-      "basename": "TypeScript - Numbers",
-      "path": "zettelkasten/TypeScript - Numbers.md"
-    },
-    {
-      "basename": "TypeScript - Types and Type System",
-      "path": "zettelkasten/TypeScript - Types and Type System.md"
-    },
-    {
-      "basename": "TypeScript - Type Annotations and Type Inference",
-      "path": "zettelkasten/TypeScript - Type Annotations and Type Inference.md"
-    },
-    {
-      "basename": "classitis",
-      "path": "zettelkasten/classitis.md"
-    },
-    {
-      "basename": "cognitive load",
-      "path": "zettelkasten/cognitive load.md"
     }
   ],
   "omittedPaths": [],
