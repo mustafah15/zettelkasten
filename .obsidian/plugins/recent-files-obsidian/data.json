@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "use different git email based on repository path",
+      "path": "zettelkasten/use different git email based on repository path.md"
+    },
+    {
+      "basename": "map of content",
+      "path": "zettelkasten/map of content.md"
+    },
+    {
+      "basename": "liskove substation",
+      "path": "zettelkasten/liskove substation.md"
+    },
+    {
+      "basename": "the effect of coherency delay",
+      "path": "zettelkasten/the effect of coherency delay.md"
+    },
+    {
+      "basename": "separation of concerns",
+      "path": "zettelkasten/separation of concerns.md"
+    },
+    {
+      "basename": "scalability vs performance",
+      "path": "zettelkasten/scalability vs performance.md"
+    },
+    {
+      "basename": "partition tolerance",
+      "path": "zettelkasten/partition tolerance.md"
+    },
+    {
+      "basename": "consistency",
+      "path": "zettelkasten/consistency.md"
+    },
+    {
+      "basename": "DDD - domain abstraction",
+      "path": "zettelkasten/DDD - domain abstraction.md"
+    },
+    {
       "basename": "Site Reliability Engineering",
       "path": "zettelkasten/Site Reliability Engineering.md"
     },
@@ -81,14 +117,6 @@
       "path": "zettelkasten/DDD - bounded context.md"
     },
     {
-      "basename": "DDD - domain abstraction",
-      "path": "zettelkasten/DDD - domain abstraction.md"
-    },
-    {
-      "basename": "map of content",
-      "path": "zettelkasten/map of content.md"
-    },
-    {
       "basename": "POSD - better together or better apart",
       "path": "zettelkasten/POSD - better together or better apart.md"
     },
@@ -167,38 +195,6 @@
     {
       "basename": "POSD - complexity in software design",
       "path": "zettelkasten/POSD - complexity in software design.md"
-    },
-    {
-      "basename": "POSD - information hiding and information leakage",
-      "path": "zettelkasten/POSD - information hiding and information leakage.md"
-    },
-    {
-      "basename": "POSD - information hiding",
-      "path": "zettelkasten/POSD - information hiding.md"
-    },
-    {
-      "basename": "POSD - temporal decomposition",
-      "path": "zettelkasten/POSD - temporal decomposition.md"
-    },
-    {
-      "basename": "POSD - information leakage",
-      "path": "zettelkasten/POSD - information leakage.md"
-    },
-    {
-      "basename": "design patterns",
-      "path": "zettelkasten/design patterns.md"
-    },
-    {
-      "basename": "behavioural design patterns",
-      "path": "zettelkasten/behavioural design patterns.md"
-    },
-    {
-      "basename": "iterator",
-      "path": "zettelkasten/iterator.md"
-    },
-    {
-      "basename": "TypeScript",
-      "path": "zettelkasten/TypeScript.md"
     }
   ],
   "omittedPaths": [],
