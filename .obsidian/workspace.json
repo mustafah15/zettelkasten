@@ -87,7 +87,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/use different git email based on repository path.md",
+                "file": "zettelkasten/error budget.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c8977f1bcbee25c3",
@@ -168,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/use different git email based on repository path.md",
+                "file": "zettelkasten/error budget.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/use different git email based on repository path.md",
+                "file": "zettelkasten/error budget.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/use different git email based on repository path.md"
+                "file": "zettelkasten/error budget.md"
               }
             }
           },
@@ -250,8 +251,23 @@
   },
   "active": "85b57efad00e1fc1",
   "lastOpenFiles": [
-    "zettelkasten/Untitled.md",
+    "zettelkasten/targeting reliability.md",
+    "zettelkasten/error budget.md",
+    "zettelkasten/how to set SLOs for SLIs.md",
+    "assets/Screenshot 2023-12-17 at 19.20.11.png",
+    "zettelkasten/SLOs.md",
+    "zettelkasten/SLIs.md",
+    "assets/Screenshot 2023-12-17 at 19.15.36.png",
+    "zettelkasten/the happiness test.md",
+    "assets/Screenshot 2023-12-17 at 18.59.46.png",
+    "zettelkasten/Site Reliability Engineering.md",
+    "zettelkasten/SLAs.md",
+    "zettelkasten/Customer  Reliability Engineering.md",
+    "zettelkasten/philosophy of software design.md",
+    "zettelkasten/POSD - better together or better apart.md",
+    "zettelkasten/intro to platform engineering.md",
     "zettelkasten/use different git email based on repository path.md",
+    "zettelkasten/Untitled.md",
     "zettelkasten/map of content.md",
     "zettelkasten/liskove substation.md",
     "zettelkasten/the effect of coherency delay.md",
@@ -260,34 +276,19 @@
     "zettelkasten/partition tolerance.md",
     "zettelkasten/consistency.md",
     "zettelkasten/DDD - domain abstraction.md",
-    "zettelkasten/Site Reliability Engineering.md",
     "zettelkasten/how SLOs help balance operational and project work.md",
     "assets/Screenshot 2023-12-04 at 21.10.41.png",
     "assets/Screenshot 2023-12-04 at 21.10.02.png",
-    "zettelkasten/SLOs.md",
     "zettelkasten/how SLOs help build features faster.md",
     "zettelkasten/how SLOs help businesses make decisions.md",
-    "zettelkasten/Customer  Reliability Engineering.md",
     "zettelkasten/what is new in PHP 8.3.md",
-    "zettelkasten/PHP.md",
-    "zettelkasten/DevOps Vs SRE.md",
-    "zettelkasten/observability.md",
-    "zettelkasten/distributed systems.md",
-    "output/Why Code Comments Is More Important Than You Think.md",
-    "output/Index.md",
-    "output/Zettelkasten with obsidian.md",
     "assets/Screenshot 2023-11-27 at 19.06.32.png",
-    "output/Complexity In Software Design.md",
-    "zettelkasten/philosophy of software design.md",
     "output",
     "zettelkasten",
     "assets/isolation levels.png",
     "assets/kafka_follower_leader.png",
     "assets/kafka partitions.png",
     "assets/kafka_cluster.png",
-    "assets/cHy74FaNj_.png",
-    "assets/Screenshot 2023-09-29 at 12.43.04.png",
-    "assets/event-async-communication.png",
     "assets",
     "templates"
   ]

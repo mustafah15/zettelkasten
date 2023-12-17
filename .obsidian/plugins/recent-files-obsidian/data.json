@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "error budget",
+      "path": "zettelkasten/error budget.md"
+    },
+    {
+      "basename": "targeting reliability",
+      "path": "zettelkasten/targeting reliability.md"
+    },
+    {
+      "basename": "how to set SLOs for SLIs",
+      "path": "zettelkasten/how to set SLOs for SLIs.md"
+    },
+    {
+      "basename": "SLOs",
+      "path": "zettelkasten/SLOs.md"
+    },
+    {
+      "basename": "SLIs",
+      "path": "zettelkasten/SLIs.md"
+    },
+    {
+      "basename": "the happiness test",
+      "path": "zettelkasten/the happiness test.md"
+    },
+    {
+      "basename": "Site Reliability Engineering",
+      "path": "zettelkasten/Site Reliability Engineering.md"
+    },
+    {
+      "basename": "SLAs",
+      "path": "zettelkasten/SLAs.md"
+    },
+    {
+      "basename": "Customer  Reliability Engineering",
+      "path": "zettelkasten/Customer  Reliability Engineering.md"
+    },
+    {
+      "basename": "philosophy of software design",
+      "path": "zettelkasten/philosophy of software design.md"
+    },
+    {
+      "basename": "POSD - better together or better apart",
+      "path": "zettelkasten/POSD - better together or better apart.md"
+    },
+    {
+      "basename": "intro to platform engineering",
+      "path": "zettelkasten/intro to platform engineering.md"
+    },
+    {
       "basename": "use different git email based on repository path",
       "path": "zettelkasten/use different git email based on repository path.md"
     },
@@ -37,16 +85,8 @@
       "path": "zettelkasten/DDD - domain abstraction.md"
     },
     {
-      "basename": "Site Reliability Engineering",
-      "path": "zettelkasten/Site Reliability Engineering.md"
-    },
-    {
       "basename": "how SLOs help balance operational and project work",
       "path": "zettelkasten/how SLOs help balance operational and project work.md"
-    },
-    {
-      "basename": "SLOs",
-      "path": "zettelkasten/SLOs.md"
     },
     {
       "basename": "how SLOs help build features faster",
@@ -55,10 +95,6 @@
     {
       "basename": "how SLOs help businesses make decisions",
       "path": "zettelkasten/how SLOs help businesses make decisions.md"
-    },
-    {
-      "basename": "Customer  Reliability Engineering",
-      "path": "zettelkasten/Customer  Reliability Engineering.md"
     },
     {
       "basename": "what is new in PHP 8.3",
@@ -97,10 +133,6 @@
       "path": "output/Complexity In Software Design.md"
     },
     {
-      "basename": "philosophy of software design",
-      "path": "zettelkasten/philosophy of software design.md"
-    },
-    {
       "basename": "Domain Driven Design a Practical Guide",
       "path": "zettelkasten/Domain Driven Design a Practical Guide.md"
     },
@@ -115,10 +147,6 @@
     {
       "basename": "DDD - bounded context",
       "path": "zettelkasten/DDD - bounded context.md"
-    },
-    {
-      "basename": "POSD - better together or better apart",
-      "path": "zettelkasten/POSD - better together or better apart.md"
     },
     {
       "basename": "conjoined methods",
@@ -171,30 +199,6 @@
     {
       "basename": "special purpose module",
       "path": "zettelkasten/special purpose module.md"
-    },
-    {
-      "basename": "general purpose module",
-      "path": "zettelkasten/general purpose module.md"
-    },
-    {
-      "basename": "module interface",
-      "path": "zettelkasten/module interface.md"
-    },
-    {
-      "basename": "module abstraction",
-      "path": "zettelkasten/module abstraction.md"
-    },
-    {
-      "basename": "POSD - modules should be deep",
-      "path": "zettelkasten/POSD - modules should be deep.md"
-    },
-    {
-      "basename": "POSD - strategic vs tactical programming",
-      "path": "zettelkasten/POSD - strategic vs tactical programming.md"
-    },
-    {
-      "basename": "POSD - complexity in software design",
-      "path": "zettelkasten/POSD - complexity in software design.md"
     }
   ],
   "omittedPaths": [],

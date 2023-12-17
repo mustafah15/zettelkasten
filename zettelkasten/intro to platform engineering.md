@@ -1,0 +1,6 @@
+---
+tags:
+  - writing
+type:
+  - literature
+---

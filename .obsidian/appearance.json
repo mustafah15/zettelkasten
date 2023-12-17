@@ -1,6 +1,7 @@
 {
   "accentColor": "#7abaff",
   "cssTheme": "Minimal",
-  "textFontFamily": "Monaspace Neon,Operator Mono",
-  "theme": "obsidian"
+  "textFontFamily": "Apple SD Gothic Neo",
+  "theme": "obsidian",
+  "interfaceFontFamily": ""
 }

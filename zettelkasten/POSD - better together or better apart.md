@@ -7,7 +7,7 @@ type:
 related: "[[philosophy of software design]]"
 ---
 when deciding whether to combine or separate, the goal is to reduce the complexity of the system as a whole and improve its modularity.
-It might appear that the best way to achieve this goal is to divide the system into a large number of small components, the smaller the components the simpler each individual component is likely to be however the act of subdividing creates additional complexity that was not present before subdivision:
+The best way to to divide the system into a large number of small components, the smaller the components the simpler each individual component is likely to be however the act of subdividing creates additional complexity that was not present before subdivision:
 - some complexity comes just from the number of components: the more components the harder to keep track of them all and the harder to find a desired component within the large collection. subdivision usually results in more interfaces. and every new interface adds complexity.
 - subdivision can result in additional code to manage the components. for example, a piece of code that used a single object before subdivision might now have to manage multiple objects.
 - subdivision creates separation: the subdivided components will be farther apart than they were before the subdivision. for example, methods that were together in the same class may be in different classes after subdivision and possibly in different files, separation makes it harder for developers to see the components at the same time, or even to be aware of their existence.
@@ -44,10 +44,10 @@ long methods tend to be more difficult to understand than shorter ones so many p
 However length by itself is rarely a good reason for splitting up a method, in general, developers tend to break up methods too much splitting up a method introduces an additional interface which makes the code harder to read if the pieces are actually related, you shouldn't break up a method unless it makes the overall system simpler;
 Long methods aren't always bad for example,
 - suppose a method contains five 20-line blocks of code that are executed in order. if the blocks are relatively independent then the method can be read and understood one block at a time; there's not much benefit in moving each of the blocks into a separate method.
-- if the blocks have complex interactions, it's even more important to keep them together so readers can see all of the code at once; if each block is in a separate method readers will have to flip back and forth between these spread-out methods in order to understand the how they work together.
+- if the blocks have complex interactions, it's even more important to keep them together so readers can see all of the code at once; if each block is in a separate method readers will have to flip back and forth between these spread-out methods too understand the how they work together.
 - Methods containing hundreds of lines of code are fine if they have a simple signature and are easy to read. These methods are [[deep modules]] (lots of functionality and simple interface) which is good.
 
-When designing methods the most important goal is to provide clean and simple abstractions. **Each method should do one thing and do it completely**. The method should have a clean and simple interface so that users don't need to have much information in their heads in order to use it correctly. the method should be deep; its interface should be much simpler than its implementation. if a method has all of these properties then it probably does not matter whether it is long or not.
+When designing methods the most important goal is to provide clean and simple abstractions. **Each method should do one thing and do it completely**. The method should have a clean and simple interface so that users don't need to have much information in their heads to use it correctly. the method should be deep; its interface should be much simpler than its implementation. if a method has all of these properties then it probably does not matter whether it is long or not.
 Splitting up a method only makes sense if it results in cleaner abstractions overall.
 ![[conjoined methods]]
 

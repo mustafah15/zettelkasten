@@ -57,9 +57,9 @@ Then add the following into the global config file.
 ```bash
 # ~/.gitconfig
 
-[includeIf "gitdir:~/work/"]
+[includeIf "gitdir:~/work/**"]
     path = .gitconfig-work
-[includeIf "gitdir:~/personal/"]
+[includeIf "gitdir:~/personal/**"]
     path = .gitconfig-personal
 ```
 
