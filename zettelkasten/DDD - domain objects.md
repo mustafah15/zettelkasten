@@ -1,7 +1,11 @@
-tags: #ddd #software-design 
-type: #literature 
-relatedTo: [[domain driven design]]
-
+---
+tags:
+  - ddd
+  - software-design
+related: "[[domain driven design]]"
+type:
+  - literature
+---
 
 - Value Objects
     - A value object is defined by it's attributes

@@ -1,5 +1,12 @@
-tags: #software-engineering, #software-design, #oop 
-type: #permanent 
+---
+tags:
+  - software-engineering
+  - software-design
+  - oop
+type:
+  - permanent
+---
+
 - Object-oriented programming (OOP) is a style of programming that focuses on using objects to design and build applications. Contrary to procedure-oriented programming where programs are designed as blocks of statements to manipulate data, OOP organizes the program to combine data and functionality and wrap it inside something called an “Object”.
 - If you have never used an object-oriented programming language before, you will need to learn a few basic concepts before you can begin writing any code. This chapter will introduce some basic concepts of OOP:
 

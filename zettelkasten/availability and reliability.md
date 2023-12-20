@@ -1,10 +1,10 @@
-
-tags: #software-design #distributed-systems 
-type: #fleeting 
-
-
 ---
-
+tags:
+  - software-design
+  - distributed-systems
+type:
+  - fleeting
+---
 
 
 - Availability In Distributed Systems

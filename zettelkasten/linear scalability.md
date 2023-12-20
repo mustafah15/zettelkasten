@@ -1,3 +1,11 @@
+---
+tags:
+  - software-design
+  - distributed-systems
+related: "[[scalability]]"
+type:
+  - fleeting
+---
 
 
 

@@ -13,6 +13,7 @@ type:
 	1. [[the happiness test]]
 	2. [[SLIs]]
 	3. [[how to set SLOs for SLIs]]
-	4. [[error budget]]
-	5. 
 3. how much reliability is good enough
+	1. [[error budget]]
+	2. [[100% is the wrong reliability target ]]
+	3. 

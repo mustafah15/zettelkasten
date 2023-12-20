@@ -1,7 +1,12 @@
+---
+tags:
+  - software-design
+  - distributed-systems
+related: "[[distributed systems]]"
+type:
+  - literature
+---
 
-tags: #software-design #distributed-systems 
-type: #literature 
-relatedTo: [[distributed systems]]
 
 -----
 - ### [[consistency]] 

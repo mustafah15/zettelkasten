@@ -1,7 +1,11 @@
-
-tags: #ddd #software-design 
-type: #literature 
-relatedTo: [[domain driven design]]
+---
+tags:
+  - ddd
+  - software-design
+type:
+  - literature
+related: "[[domain driven design]]"
+---
 
 - **Services**
     - Business logic that does not fit with an entity or value object.

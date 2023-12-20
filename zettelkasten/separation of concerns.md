@@ -1,5 +1,12 @@
-tags: #oop #software-design 
-type: #fleeting 
+---
+tags:
+  - oop
+  - software-design
+type:
+  - fleeting
+---
+
+
 related: [[cohesion and coupling]]
 
 It is so crucial that 2 out of 5 SOLID principles [[single responsibility]] and [[interface segregation]] are direct derivations from this concept.

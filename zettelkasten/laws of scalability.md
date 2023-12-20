@@ -1,7 +1,12 @@
+---
+tags:
+  - software-design
+  - distributed-systems
+type:
+  - fleeting
+related: "[[scalability]]"
+---
 
-tags: #software-design #distributed-systems 
-type: #fleeting 
-relatedTo: [[scalability]]
 
 
 - [[amdahl's law]]

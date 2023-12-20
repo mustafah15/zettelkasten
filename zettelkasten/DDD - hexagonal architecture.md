@@ -1,15 +1,19 @@
+---
+tags:
+  - ddd
+  - software-design
+type:
+  - literature
+related: "[[domain driven design]]"
+---
 
-tags: #ddd #software-design 
-type: #literature 
-relatedTo: [[domain driven design]]
+Also known as ports and adapters, it's an alternative to the layered or N-tier architecture
 
-Also known as ports and adapters, it's alternative to the layered or N-tier architecture
-
-- Domain is isolated to the center of the model, becomes the architectural focus.
+- Domain is isolated to the center of the model, and becomes the architectural focus.
 - ports are exposed as an API for the domain
 - infrastructure contains adapters that map to the ports.
 - Hexagonal architecture can be viewed as an onion.
-- domain is in the center, API provides interface to the domain, these are your ports.
+- the domain is in the center, API provides interface to the domain, these are your ports.
 - infrastructure adapts incoming and outgoing traffic into the ports.
 - outer layer depend on inner layers.
 - inner layer have no knowledge of the outer layers.

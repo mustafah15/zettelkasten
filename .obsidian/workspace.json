@@ -87,7 +87,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/error budget.md",
+                "file": "zettelkasten/zero tolerance.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c8977f1bcbee25c3",
@@ -169,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/error budget.md",
+                "file": "zettelkasten/zero tolerance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/error budget.md",
+                "file": "zettelkasten/zero tolerance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/error budget.md"
+                "file": "zettelkasten/zero tolerance.md"
               }
             }
           },
@@ -251,44 +250,44 @@
   },
   "active": "85b57efad00e1fc1",
   "lastOpenFiles": [
-    "zettelkasten/targeting reliability.md",
-    "zettelkasten/error budget.md",
-    "zettelkasten/how to set SLOs for SLIs.md",
-    "assets/Screenshot 2023-12-17 at 19.20.11.png",
-    "zettelkasten/SLOs.md",
-    "zettelkasten/SLIs.md",
-    "assets/Screenshot 2023-12-17 at 19.15.36.png",
+    "zettelkasten/zooKeeper.md",
+    "zettelkasten/what is new in PHP 8.3.md",
+    "zettelkasten/zero tolerance.md",
+    "zettelkasten/what is new in PHP 8.2.md",
+    "zettelkasten/what is new in PHP 8.1.md",
+    "zettelkasten/what is new in PHP 8.0.md",
+    "zettelkasten/what is a messaging system?.md",
+    "zettelkasten/vertical scaling.md",
+    "zettelkasten/TypeScript - Types and Type System.md",
+    "zettelkasten/unknown unknowns.md",
+    "zettelkasten/TypeScript - Type Annotations and Type Inference.md",
+    "zettelkasten/TypeScript - Numbers.md",
+    "zettelkasten/TypeScript - Enum.md",
+    "zettelkasten/TypeScript.md",
+    "zettelkasten/types of distributed systems.md",
     "zettelkasten/the happiness test.md",
-    "assets/Screenshot 2023-12-17 at 18.59.46.png",
-    "zettelkasten/Site Reliability Engineering.md",
-    "zettelkasten/SLAs.md",
-    "zettelkasten/Customer  Reliability Engineering.md",
-    "zettelkasten/philosophy of software design.md",
-    "zettelkasten/POSD - better together or better apart.md",
-    "zettelkasten/intro to platform engineering.md",
-    "zettelkasten/use different git email based on repository path.md",
-    "zettelkasten/Untitled.md",
-    "zettelkasten/map of content.md",
-    "zettelkasten/liskove substation.md",
     "zettelkasten/the effect of coherency delay.md",
-    "zettelkasten/separation of concerns.md",
-    "zettelkasten/scalability vs performance.md",
-    "zettelkasten/partition tolerance.md",
-    "zettelkasten/consistency.md",
-    "zettelkasten/DDD - domain abstraction.md",
-    "zettelkasten/how SLOs help balance operational and project work.md",
+    "zettelkasten/template method.md",
+    "zettelkasten/targeting reliability.md",
+    "zettelkasten/tactical programming.md",
+    "zettelkasten/tactical tornado.md",
+    "zettelkasten/symptoms of complexity.md",
+    "zettelkasten/structural design patterns.md",
+    "zettelkasten/strategy.md",
+    "zettelkasten/strategic programming.md",
+    "zettelkasten/state.md",
+    "assets/Screenshot 2023-12-17 at 20.19.38.png",
+    "assets/Screenshot 2023-12-17 at 20.18.56.png",
+    "assets/Screenshot 2023-12-17 at 19.20.11.png",
+    "assets/Screenshot 2023-12-17 at 19.15.36.png",
+    "assets/Screenshot 2023-12-17 at 18.59.46.png",
     "assets/Screenshot 2023-12-04 at 21.10.41.png",
     "assets/Screenshot 2023-12-04 at 21.10.02.png",
-    "zettelkasten/how SLOs help build features faster.md",
-    "zettelkasten/how SLOs help businesses make decisions.md",
-    "zettelkasten/what is new in PHP 8.3.md",
     "assets/Screenshot 2023-11-27 at 19.06.32.png",
     "output",
     "zettelkasten",
     "assets/isolation levels.png",
     "assets/kafka_follower_leader.png",
-    "assets/kafka partitions.png",
-    "assets/kafka_cluster.png",
     "assets",
     "templates"
   ]

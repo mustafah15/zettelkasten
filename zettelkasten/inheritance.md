@@ -1,5 +1,11 @@
-tags: #software-design , #oop 
-type: #fleeting 
+---
+tags:
+  - software-design
+  - oop
+type:
+  - fleeting
+---
+
 - What Is Inheritance?
 	Inheritance is the mechanism of creating new classes from existing ones.
 	

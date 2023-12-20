@@ -1,5 +1,10 @@
-tags: #software-design 
-type: #literature 
+---
+tags:
+  - software-design
+related: 
+type:
+  - literature
+---
 
 --- 
 

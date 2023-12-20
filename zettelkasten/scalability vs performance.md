@@ -1,7 +1,11 @@
-tags: #software-design #distributed-systems 
-type: #fleeting 
-relatedTo: [[scalability]]
-
+---
+tags:
+  - software-design
+  - distributed-systems
+type:
+  - fleeting
+related: "[[scalability]]"
+---
 
 distributed systems architecture: The Difference Between Scalability and Performance
 
