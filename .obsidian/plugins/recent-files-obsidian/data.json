@@ -1,16 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "zero tolerance",
-      "path": "zettelkasten/zero tolerance.md"
+      "basename": "GoLang - constants",
+      "path": "zettelkasten/GoLang - constants.md"
+    },
+    {
+      "basename": "Go Lang",
+      "path": "zettelkasten/Go Lang.md"
+    },
+    {
+      "basename": "GoLang - Idiomatic Naming Conventions",
+      "path": "zettelkasten/GoLang - Idiomatic Naming Conventions.md"
+    },
+    {
+      "basename": "what is new in PHP 8.3",
+      "path": "zettelkasten/what is new in PHP 8.3.md"
+    },
+    {
+      "basename": "kafka",
+      "path": "zettelkasten/kafka.md"
+    },
+    {
+      "basename": "Toolbox",
+      "path": "zettelkasten/Toolbox.md"
+    },
+    {
+      "basename": "GoLang - primitive types",
+      "path": "zettelkasten/GoLang - primitive types.md"
+    },
+    {
+      "basename": "PHP",
+      "path": "zettelkasten/PHP.md"
+    },
+    {
+      "basename": "POSD - better together or better apart",
+      "path": "zettelkasten/POSD - better together or better apart.md"
+    },
+    {
+      "basename": "creating new libraries",
+      "path": "output/creating new libraries.md"
+    },
+    {
+      "basename": "philosophy of software design",
+      "path": "zettelkasten/philosophy of software design.md"
     },
     {
       "basename": "zooKeeper",
       "path": "zettelkasten/zooKeeper.md"
     },
     {
-      "basename": "what is new in PHP 8.3",
-      "path": "zettelkasten/what is new in PHP 8.3.md"
+      "basename": "zero tolerance",
+      "path": "zettelkasten/zero tolerance.md"
     },
     {
       "basename": "what is new in PHP 8.2",
@@ -159,46 +199,6 @@
     {
       "basename": "POSD - strategic vs tactical programming",
       "path": "zettelkasten/POSD - strategic vs tactical programming.md"
-    },
-    {
-      "basename": "POSD - pull complexity downwards",
-      "path": "zettelkasten/POSD - pull complexity downwards.md"
-    },
-    {
-      "basename": "POSD - information leakage",
-      "path": "zettelkasten/POSD - information leakage.md"
-    },
-    {
-      "basename": "POSD - information hiding and information leakage",
-      "path": "zettelkasten/POSD - information hiding and information leakage.md"
-    },
-    {
-      "basename": "POSD - information hiding",
-      "path": "zettelkasten/POSD - information hiding.md"
-    },
-    {
-      "basename": "POSD - general purpose modules vs special purpose modules",
-      "path": "zettelkasten/POSD - general purpose modules vs special purpose modules.md"
-    },
-    {
-      "basename": "POSD - different layer different abstraction",
-      "path": "zettelkasten/POSD - different layer different abstraction.md"
-    },
-    {
-      "basename": "POSD - complexity in software design",
-      "path": "zettelkasten/POSD - complexity in software design.md"
-    },
-    {
-      "basename": "POSD - better together or better apart",
-      "path": "zettelkasten/POSD - better together or better apart.md"
-    },
-    {
-      "basename": "polymorphism",
-      "path": "zettelkasten/polymorphism.md"
-    },
-    {
-      "basename": "PHP - class constant",
-      "path": "zettelkasten/PHP - class constant.md"
     }
   ],
   "omittedPaths": [],

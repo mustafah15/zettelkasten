@@ -5,9 +5,6 @@ type:
   - fleeting
 ---
 
-
-
-
 [[PHP - readonly]]
 [[PHP - class constant]]
 [[PHP - ArrayObject]]

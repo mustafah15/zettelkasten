@@ -87,14 +87,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/zero tolerance.md",
+                "file": "output/creating new libraries.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69ac7eda7cd6d731",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "e75d03f4f2b35f49",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c6a13a700279f6cd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "296d9d3c22d91dfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/GoLang - primitive types.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c198c26077ab002f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/GoLang - Idiomatic Naming Conventions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51739f237873765e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/GoLang - constants.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -168,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/zero tolerance.md",
+                "file": "zettelkasten/GoLang - constants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/zero tolerance.md",
+                "file": "zettelkasten/GoLang - constants.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/zero tolerance.md"
+                "file": "zettelkasten/GoLang - constants.md"
               }
             }
           },
@@ -229,9 +289,18 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "7d2e1e235b519920",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "zettelkasten/GoLang - constants.md"
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -248,10 +317,22 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "85b57efad00e1fc1",
+  "active": "51739f237873765e",
   "lastOpenFiles": [
-    "zettelkasten/zooKeeper.md",
+    "zettelkasten/Go Lang.md",
+    "zettelkasten/GoLang - Idiomatic Naming Conventions.md",
+    "assets/Screenshot 2023-12-24 at 15.14.18.png",
+    "assets/Screenshot 2023-12-24 at 15.13.01.png",
+    "zettelkasten/GoLang - constants.md",
     "zettelkasten/what is new in PHP 8.3.md",
+    "zettelkasten/kafka.md",
+    "zettelkasten/Toolbox.md",
+    "zettelkasten/GoLang - primitive types.md",
+    "zettelkasten/PHP.md",
+    "zettelkasten/POSD - better together or better apart.md",
+    "output/creating new libraries.md",
+    "zettelkasten/philosophy of software design.md",
+    "zettelkasten/zooKeeper.md",
     "zettelkasten/zero tolerance.md",
     "zettelkasten/what is new in PHP 8.2.md",
     "zettelkasten/what is new in PHP 8.1.md",
@@ -265,17 +346,6 @@
     "zettelkasten/TypeScript - Enum.md",
     "zettelkasten/TypeScript.md",
     "zettelkasten/types of distributed systems.md",
-    "zettelkasten/the happiness test.md",
-    "zettelkasten/the effect of coherency delay.md",
-    "zettelkasten/template method.md",
-    "zettelkasten/targeting reliability.md",
-    "zettelkasten/tactical programming.md",
-    "zettelkasten/tactical tornado.md",
-    "zettelkasten/symptoms of complexity.md",
-    "zettelkasten/structural design patterns.md",
-    "zettelkasten/strategy.md",
-    "zettelkasten/strategic programming.md",
-    "zettelkasten/state.md",
     "assets/Screenshot 2023-12-17 at 20.19.38.png",
     "assets/Screenshot 2023-12-17 at 20.18.56.png",
     "assets/Screenshot 2023-12-17 at 19.20.11.png",
@@ -286,8 +356,6 @@
     "assets/Screenshot 2023-11-27 at 19.06.32.png",
     "output",
     "zettelkasten",
-    "assets/isolation levels.png",
-    "assets/kafka_follower_leader.png",
     "assets",
     "templates"
   ]

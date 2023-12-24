@@ -6,8 +6,8 @@ type:
   - literature
 related: "[[philosophy of software design]]"
 ---
-when deciding whether to combine or separate, the goal is to reduce the complexity of the system as a whole and improve its modularity.
-The best way to to divide the system into a large number of small components, the smaller the components the simpler each individual component is likely to be however the act of subdividing creates additional complexity that was not present before subdivision:
+**when** deciding whether to combine or separate, the goal is to reduce the complexity of the system as a whole and improve its modularity.
+it might appear that the best way to divide the system into a large number of small components, the smaller the components the simpler each component is likely to be however the act of subdividing creates additional complexity that was not present before subdivision:
 - some complexity comes just from the number of components: the more components the harder to keep track of them all and the harder to find a desired component within the large collection. subdivision usually results in more interfaces. and every new interface adds complexity.
 - subdivision can result in additional code to manage the components. for example, a piece of code that used a single object before subdivision might now have to manage multiple objects.
 - subdivision creates separation: the subdivided components will be farther apart than they were before the subdivision. for example, methods that were together in the same class may be in different classes after subdivision and possibly in different files, separation makes it harder for developers to see the components at the same time, or even to be aware of their existence.
@@ -53,3 +53,17 @@ Splitting up a method only makes sense if it results in cleaner abstractions ove
 
 ## Repetition
 if the same piece of code (or code that is almost the same) appears over and over again that's a red flag that you haven't found the right abstractions.
+
+Questions to help you find the right balance between general purpose approach special purpose approach
+
+What is the simplest interface that will cover all my current needs?
+
+- if you reduce the number of methods in an API without reducing the overall capabilities, then you are probably creating more general-purpose method. Reducing the number of methods makes sense only as long as the API for each individual method stays simple; if you have to introduce lots of additional arguments in order to reduce the number of methods, then you may not really be simplifying things
+
+In how many situations will this method be used?
+
+- if a method is designed for one particular use it is a red flag that it may be too special purpose. see if you can replace several special methods with a single general general purpose method
+
+Is this API easy to use for my current needs?
+
+- This question can help you to determine when you have gone too far in making an API simple and general-purpose. If you have to write a lot of additional code to use a class for for your current purpose, that's a red flag that the interface doesn't provide the right functionality.
