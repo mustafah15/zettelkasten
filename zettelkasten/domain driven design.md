@@ -21,6 +21,11 @@ thats where the DDD will help us it give us a set of guidelines and a set of tec
 	- the model represents our understanding of the domain.
 	- the software is an implementation of the model.
 
+Business domain:  business domain define a company's main area of activity, it's the service the company provides to its clients for example. 
+	- FedEx provides courier delivery
+	- walmart is a retail establishment 
+a company can operate in multiple business domains for example amazon, it's also important to note that companies can change their business domains 
+
 ### Decomposing the domain
 - take the large domain and separate them into subdomains, our subdomains are created by grouping related ideas and actions and rules into separate domains.
 - because of that each subdomain essentially ends up having its own ubiquitous language and model. The language and model for a subdomain is what we call a [[DDD - bounded context|bounded context]],** subdomain or Bounded contexts are good starting points for building reactive microservices.

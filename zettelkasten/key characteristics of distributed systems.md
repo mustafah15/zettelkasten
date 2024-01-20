@@ -10,7 +10,6 @@ type:
 
 -----
 - ### [[consistency]] 
-
 - ### [[scalability]]
 - ### [[availability and reliability]]
 - ### [[partition tolerance]] 

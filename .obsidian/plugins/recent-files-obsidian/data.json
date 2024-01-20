@@ -1,12 +1,140 @@
 {
   "recentFiles": [
     {
-      "basename": "GoLang - constants",
-      "path": "zettelkasten/GoLang - constants.md"
+      "basename": "POSD - implementation comments",
+      "path": "zettelkasten/POSD - implementation comments.md"
+    },
+    {
+      "basename": "POSD - how to write better comments",
+      "path": "zettelkasten/POSD - how to write better comments.md"
+    },
+    {
+      "basename": "POSD - interface comments",
+      "path": "zettelkasten/POSD - interface comments.md"
+    },
+    {
+      "basename": "POSD - higher-level comments",
+      "path": "zettelkasten/POSD - higher-level comments.md"
+    },
+    {
+      "basename": "POSD - low-level comments",
+      "path": "zettelkasten/POSD - low-level comments.md"
+    },
+    {
+      "basename": "POSD - how to write better comments - don't repeat the code",
+      "path": "zettelkasten/POSD - how to write better comments - don't repeat the code.md"
+    },
+    {
+      "basename": "POSD - how to write better comments - pick conventions",
+      "path": "zettelkasten/POSD - how to write better comments - pick conventions.md"
+    },
+    {
+      "basename": "philosophy of software design",
+      "path": "zettelkasten/philosophy of software design.md"
+    },
+    {
+      "basename": "POSD - why write comments",
+      "path": "zettelkasten/POSD - why write comments.md"
+    },
+    {
+      "basename": "POSD - comments might be worthless",
+      "path": "zettelkasten/POSD - comments might be worthless.md"
+    },
+    {
+      "basename": "POSD - comments get out of date",
+      "path": "zettelkasten/POSD - comments get out of date.md"
+    },
+    {
+      "basename": "POSD - i don't have time to write comments",
+      "path": "zettelkasten/POSD - i don't have time to write comments.md"
+    },
+    {
+      "basename": "tactical programming",
+      "path": "zettelkasten/tactical programming.md"
+    },
+    {
+      "basename": "POSD - strategic vs tactical programming",
+      "path": "zettelkasten/POSD - strategic vs tactical programming.md"
+    },
+    {
+      "basename": "strategic programming",
+      "path": "zettelkasten/strategic programming.md"
+    },
+    {
+      "basename": "POSD - the myth of good code is self-documented",
+      "path": "zettelkasten/POSD - the myth of good code is self-documented.md"
+    },
+    {
+      "basename": "POSD - design it twice",
+      "path": "zettelkasten/POSD - design it twice.md"
+    },
+    {
+      "basename": "POSD - define errors out of existence",
+      "path": "zettelkasten/POSD - define errors out of existence.md"
+    },
+    {
+      "basename": "shallow modules",
+      "path": "zettelkasten/shallow modules.md"
+    },
+    {
+      "basename": "POSD - better together or better apart",
+      "path": "zettelkasten/POSD - better together or better apart.md"
+    },
+    {
+      "basename": "domain driven design",
+      "path": "zettelkasten/domain driven design.md"
+    },
+    {
+      "basename": "creating new libraries",
+      "path": "output/creating new libraries.md"
+    },
+    {
+      "basename": "key characteristics of distributed systems",
+      "path": "zettelkasten/key characteristics of distributed systems.md"
+    },
+    {
+      "basename": "consistency",
+      "path": "zettelkasten/consistency.md"
+    },
+    {
+      "basename": "amdahl's law",
+      "path": "zettelkasten/amdahl's law.md"
+    },
+    {
+      "basename": "linear scalability",
+      "path": "zettelkasten/linear scalability.md"
+    },
+    {
+      "basename": "gunther's universal law",
+      "path": "zettelkasten/gunther's universal law.md"
+    },
+    {
+      "basename": "scalability",
+      "path": "zettelkasten/scalability.md"
+    },
+    {
+      "basename": "distributed systems",
+      "path": "zettelkasten/distributed systems.md"
+    },
+    {
+      "basename": "availability and reliability",
+      "path": "zettelkasten/availability and reliability.md"
+    },
+    {
+      "basename": "GoLang - Arrays and Slices",
+      "path": "zettelkasten/GoLang - Arrays and Slices.md"
     },
     {
       "basename": "Go Lang",
       "path": "zettelkasten/Go Lang.md"
+    },
+    {
+      "basename": "GoLang - constants",
+      "path": "zettelkasten/GoLang - constants.md"
+    },
+    {
+      "basename": "GoLang - useful resources",
+      "path": "zettelkasten/GoLang - useful resources.md"
     },
     {
       "basename": "GoLang - Idiomatic Naming Conventions",
@@ -31,18 +159,6 @@
     {
       "basename": "PHP",
       "path": "zettelkasten/PHP.md"
-    },
-    {
-      "basename": "POSD - better together or better apart",
-      "path": "zettelkasten/POSD - better together or better apart.md"
-    },
-    {
-      "basename": "creating new libraries",
-      "path": "output/creating new libraries.md"
-    },
-    {
-      "basename": "philosophy of software design",
-      "path": "zettelkasten/philosophy of software design.md"
     },
     {
       "basename": "zooKeeper",
@@ -83,122 +199,6 @@
     {
       "basename": "TypeScript - Type Annotations and Type Inference",
       "path": "zettelkasten/TypeScript - Type Annotations and Type Inference.md"
-    },
-    {
-      "basename": "TypeScript - Numbers",
-      "path": "zettelkasten/TypeScript - Numbers.md"
-    },
-    {
-      "basename": "TypeScript - Enum",
-      "path": "zettelkasten/TypeScript - Enum.md"
-    },
-    {
-      "basename": "TypeScript",
-      "path": "zettelkasten/TypeScript.md"
-    },
-    {
-      "basename": "types of distributed systems",
-      "path": "zettelkasten/types of distributed systems.md"
-    },
-    {
-      "basename": "the happiness test",
-      "path": "zettelkasten/the happiness test.md"
-    },
-    {
-      "basename": "the effect of coherency delay",
-      "path": "zettelkasten/the effect of coherency delay.md"
-    },
-    {
-      "basename": "template method",
-      "path": "zettelkasten/template method.md"
-    },
-    {
-      "basename": "targeting reliability",
-      "path": "zettelkasten/targeting reliability.md"
-    },
-    {
-      "basename": "tactical programming",
-      "path": "zettelkasten/tactical programming.md"
-    },
-    {
-      "basename": "tactical tornado",
-      "path": "zettelkasten/tactical tornado.md"
-    },
-    {
-      "basename": "symptoms of complexity",
-      "path": "zettelkasten/symptoms of complexity.md"
-    },
-    {
-      "basename": "structural design patterns",
-      "path": "zettelkasten/structural design patterns.md"
-    },
-    {
-      "basename": "strategy",
-      "path": "zettelkasten/strategy.md"
-    },
-    {
-      "basename": "strategic programming",
-      "path": "zettelkasten/strategic programming.md"
-    },
-    {
-      "basename": "state",
-      "path": "zettelkasten/state.md"
-    },
-    {
-      "basename": "special purpose module",
-      "path": "zettelkasten/special purpose module.md"
-    },
-    {
-      "basename": "SOLID",
-      "path": "zettelkasten/SOLID.md"
-    },
-    {
-      "basename": "SLOs",
-      "path": "zettelkasten/SLOs.md"
-    },
-    {
-      "basename": "SLIs",
-      "path": "zettelkasten/SLIs.md"
-    },
-    {
-      "basename": "SLAs",
-      "path": "zettelkasten/SLAs.md"
-    },
-    {
-      "basename": "Site Reliability Engineering",
-      "path": "zettelkasten/Site Reliability Engineering.md"
-    },
-    {
-      "basename": "single responsibility",
-      "path": "zettelkasten/single responsibility.md"
-    },
-    {
-      "basename": "shallow modules",
-      "path": "zettelkasten/shallow modules.md"
-    },
-    {
-      "basename": "separation of concerns",
-      "path": "zettelkasten/separation of concerns.md"
-    },
-    {
-      "basename": "cohesion and coupling",
-      "path": "zettelkasten/cohesion and coupling.md"
-    },
-    {
-      "basename": "scalability vs performance",
-      "path": "zettelkasten/scalability vs performance.md"
-    },
-    {
-      "basename": "scalability",
-      "path": "zettelkasten/scalability.md"
-    },
-    {
-      "basename": "publish-subscribe",
-      "path": "zettelkasten/publish-subscribe.md"
-    },
-    {
-      "basename": "POSD - strategic vs tactical programming",
-      "path": "zettelkasten/POSD - strategic vs tactical programming.md"
     }
   ],
   "omittedPaths": [],

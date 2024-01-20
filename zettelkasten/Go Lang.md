@@ -15,4 +15,7 @@ type:
 [[GoLang - primitive types]]
 [[GoLang - constants]]
 [[GoLang - Idiomatic Naming Conventions]]
+[[GoLang - Arrays and Slices]]
+
+[[GoLang - useful resources]]
 

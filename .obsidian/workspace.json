@@ -147,7 +147,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/GoLang - constants.md",
+                "file": "zettelkasten/POSD - implementation comments.md",
                 "mode": "source",
                 "source": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#fleeting",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -208,11 +208,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 247.50247192382812,
+    "collapsed": true
   },
   "right": {
     "id": "c8977f1bcbee25c3",
@@ -228,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/GoLang - constants.md",
+                "file": "zettelkasten/POSD - implementation comments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/GoLang - constants.md",
+                "file": "zettelkasten/POSD - implementation comments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/GoLang - constants.md"
+                "file": "zettelkasten/POSD - implementation comments.md"
               }
             }
           },
@@ -278,7 +280,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -296,7 +300,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zettelkasten/GoLang - constants.md"
+                "file": "zettelkasten/POSD - implementation comments.md"
               }
             }
           }
@@ -319,33 +323,34 @@
   },
   "active": "51739f237873765e",
   "lastOpenFiles": [
-    "zettelkasten/Go Lang.md",
-    "zettelkasten/GoLang - Idiomatic Naming Conventions.md",
+    "zettelkasten/POSD - how to write better comments.md",
+    "zettelkasten/POSD - implementation comments.md",
+    "zettelkasten/POSD - interface comments.md",
+    "zettelkasten/POSD - higher-level comments.md",
+    "zettelkasten/POSD - low-level comments.md",
+    "zettelkasten/POSD - how to write better comments - don't repeat the code.md",
+    "zettelkasten/POSD - how to write better comments - pick conventions.md",
+    "zettelkasten/philosophy of software design.md",
+    "zettelkasten/POSD - why write comments.md",
+    "zettelkasten/POSD - comments might be worthless.md",
+    "zettelkasten/POSD - comments get out of date.md",
+    "zettelkasten/POSD - i don't have time to write comments.md",
+    "zettelkasten/tactical programming.md",
+    "zettelkasten/POSD - strategic vs tactical programming.md",
+    "zettelkasten/strategic programming.md",
+    "zettelkasten/POSD - the myth of good code is self-documented.md",
+    "zettelkasten/POSD - design it twice.md",
+    "zettelkasten/POSD - define errors out of existence.md",
+    "zettelkasten/shallow modules.md",
+    "zettelkasten/POSD - better together or better apart.md",
+    "zettelkasten/domain driven design.md",
+    "output/creating new libraries.md",
+    "zettelkasten/key characteristics of distributed systems.md",
+    "zettelkasten/consistency.md",
+    "zettelkasten/amdahl's law.md",
+    "zettelkasten/linear scalability.md",
     "assets/Screenshot 2023-12-24 at 15.14.18.png",
     "assets/Screenshot 2023-12-24 at 15.13.01.png",
-    "zettelkasten/GoLang - constants.md",
-    "zettelkasten/what is new in PHP 8.3.md",
-    "zettelkasten/kafka.md",
-    "zettelkasten/Toolbox.md",
-    "zettelkasten/GoLang - primitive types.md",
-    "zettelkasten/PHP.md",
-    "zettelkasten/POSD - better together or better apart.md",
-    "output/creating new libraries.md",
-    "zettelkasten/philosophy of software design.md",
-    "zettelkasten/zooKeeper.md",
-    "zettelkasten/zero tolerance.md",
-    "zettelkasten/what is new in PHP 8.2.md",
-    "zettelkasten/what is new in PHP 8.1.md",
-    "zettelkasten/what is new in PHP 8.0.md",
-    "zettelkasten/what is a messaging system?.md",
-    "zettelkasten/vertical scaling.md",
-    "zettelkasten/TypeScript - Types and Type System.md",
-    "zettelkasten/unknown unknowns.md",
-    "zettelkasten/TypeScript - Type Annotations and Type Inference.md",
-    "zettelkasten/TypeScript - Numbers.md",
-    "zettelkasten/TypeScript - Enum.md",
-    "zettelkasten/TypeScript.md",
-    "zettelkasten/types of distributed systems.md",
     "assets/Screenshot 2023-12-17 at 20.19.38.png",
     "assets/Screenshot 2023-12-17 at 20.18.56.png",
     "assets/Screenshot 2023-12-17 at 19.20.11.png",

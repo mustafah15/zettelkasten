@@ -16,6 +16,17 @@ related:
 - [[POSD - different layer different abstraction]]
 - [[POSD - pull complexity downwards]]
 - [[POSD - better together or better apart]]
+- [[POSD - define errors out of existence]]
+- [[POSD - design it twice]]
+- [[POSD - why write comments]]
+- [[POSD - how to write better comments]]
+- [[POSD - choosing names]]
+- [[POSD - write comments first]]
+- [[POSD - modifying existing code]]
+- [[POSD - consistency]]
+- [[POSD - could be more obvious]]
+- 
+
 
 
 
