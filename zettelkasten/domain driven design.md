@@ -1,6 +1,7 @@
 ---
 tags:
   - software-design
+  - ddd
 related: 
 type:
   - literature

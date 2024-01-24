@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "learning domain driven design",
+      "path": "zettelkasten/learning domain driven design.md"
+    },
+    {
+      "basename": "domain driven design",
+      "path": "zettelkasten/domain driven design.md"
+    },
+    {
+      "basename": "GoLang - Idiomatic Naming Conventions",
+      "path": "zettelkasten/GoLang - Idiomatic Naming Conventions.md"
+    },
+    {
       "basename": "POSD - implementation comments",
       "path": "zettelkasten/POSD - implementation comments.md"
     },
@@ -81,10 +93,6 @@
       "path": "zettelkasten/POSD - better together or better apart.md"
     },
     {
-      "basename": "domain driven design",
-      "path": "zettelkasten/domain driven design.md"
-    },
-    {
       "basename": "creating new libraries",
       "path": "output/creating new libraries.md"
     },
@@ -135,10 +143,6 @@
     {
       "basename": "GoLang - useful resources",
       "path": "zettelkasten/GoLang - useful resources.md"
-    },
-    {
-      "basename": "GoLang - Idiomatic Naming Conventions",
-      "path": "zettelkasten/GoLang - Idiomatic Naming Conventions.md"
     },
     {
       "basename": "what is new in PHP 8.3",
@@ -195,10 +199,6 @@
     {
       "basename": "unknown unknowns",
       "path": "zettelkasten/unknown unknowns.md"
-    },
-    {
-      "basename": "TypeScript - Type Annotations and Type Inference",
-      "path": "zettelkasten/TypeScript - Type Annotations and Type Inference.md"
     }
   ],
   "omittedPaths": [],
