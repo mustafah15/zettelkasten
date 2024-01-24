@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "lddd - types of subdomains",
+      "path": "zettelkasten/lddd - types of subdomains.md"
+    },
+    {
+      "basename": "lddd - supporting subdomain",
+      "path": "zettelkasten/lddd - supporting subdomain.md"
+    },
+    {
+      "basename": "lddd - core subdomain",
+      "path": "zettelkasten/lddd - core subdomain.md"
+    },
+    {
+      "basename": "lddd - generic subdomain",
+      "path": "zettelkasten/lddd - generic subdomain.md"
+    },
+    {
+      "basename": "lddd -  analyzing business domains",
+      "path": "zettelkasten/lddd -  analyzing business domains.md"
+    },
+    {
       "basename": "learning domain driven design",
       "path": "zettelkasten/learning domain driven design.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "what is new in PHP 8.1",
       "path": "zettelkasten/what is new in PHP 8.1.md"
-    },
-    {
-      "basename": "what is new in PHP 8.0",
-      "path": "zettelkasten/what is new in PHP 8.0.md"
-    },
-    {
-      "basename": "what is a messaging system?",
-      "path": "zettelkasten/what is a messaging system?.md"
-    },
-    {
-      "basename": "vertical scaling",
-      "path": "zettelkasten/vertical scaling.md"
-    },
-    {
-      "basename": "TypeScript - Types and Type System",
-      "path": "zettelkasten/TypeScript - Types and Type System.md"
-    },
-    {
-      "basename": "unknown unknowns",
-      "path": "zettelkasten/unknown unknowns.md"
     }
   ],
   "omittedPaths": [],
