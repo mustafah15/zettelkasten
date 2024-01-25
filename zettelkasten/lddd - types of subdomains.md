@@ -5,6 +5,8 @@ tags:
 related: "[[lddd -  analyzing business domains]]"
 type:
   - fleeting
+aliases:
+  - types of subdomains
 ---
 ## types of subdomains
 

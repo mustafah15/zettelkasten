@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "lddd -  analyzing business domains",
+      "path": "zettelkasten/lddd -  analyzing business domains.md"
+    },
+    {
+      "basename": "lddd - who are the domain experts",
+      "path": "zettelkasten/lddd - who are the domain experts.md"
+    },
+    {
+      "basename": "lddd - identifying subdomain boundaries",
+      "path": "zettelkasten/lddd - identifying subdomain boundaries.md"
+    },
+    {
+      "basename": "Domain Driven Design a Practical Guide",
+      "path": "zettelkasten/Domain Driven Design a Practical Guide.md"
+    },
+    {
+      "basename": "lddd - subdomains as coherent use cases",
+      "path": "zettelkasten/lddd - subdomains as coherent use cases.md"
+    },
+    {
+      "basename": "lddd - comparing subdomains",
+      "path": "zettelkasten/lddd - comparing subdomains.md"
+    },
+    {
       "basename": "lddd - types of subdomains",
       "path": "zettelkasten/lddd - types of subdomains.md"
     },
@@ -15,10 +39,6 @@
     {
       "basename": "lddd - generic subdomain",
       "path": "zettelkasten/lddd - generic subdomain.md"
-    },
-    {
-      "basename": "lddd -  analyzing business domains",
-      "path": "zettelkasten/lddd -  analyzing business domains.md"
     },
     {
       "basename": "learning domain driven design",
@@ -179,26 +199,6 @@
     {
       "basename": "GoLang - primitive types",
       "path": "zettelkasten/GoLang - primitive types.md"
-    },
-    {
-      "basename": "PHP",
-      "path": "zettelkasten/PHP.md"
-    },
-    {
-      "basename": "zooKeeper",
-      "path": "zettelkasten/zooKeeper.md"
-    },
-    {
-      "basename": "zero tolerance",
-      "path": "zettelkasten/zero tolerance.md"
-    },
-    {
-      "basename": "what is new in PHP 8.2",
-      "path": "zettelkasten/what is new in PHP 8.2.md"
-    },
-    {
-      "basename": "what is new in PHP 8.1",
-      "path": "zettelkasten/what is new in PHP 8.1.md"
     }
   ],
   "omittedPaths": [],

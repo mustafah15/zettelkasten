@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/lddd - types of subdomains.md",
+                "file": "zettelkasten/lddd -  analyzing business domains.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/lddd - types of subdomains.md",
+                "file": "zettelkasten/lddd -  analyzing business domains.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/lddd - types of subdomains.md",
+                "file": "zettelkasten/lddd -  analyzing business domains.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/lddd - types of subdomains.md"
+                "file": "zettelkasten/lddd -  analyzing business domains.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zettelkasten/lddd - types of subdomains.md"
+                "file": "zettelkasten/lddd -  analyzing business domains.md"
               }
             }
           }
@@ -203,11 +203,19 @@
   },
   "active": "ab289b848ef3f4da",
   "lastOpenFiles": [
-    "zettelkasten/lddd - supporting subdomain.md",
+    "zettelkasten/lddd - who are the domain experts.md",
+    "zettelkasten/lddd -  analyzing business domains.md",
+    "zettelkasten/lddd - identifying subdomain boundaries.md",
+    "zettelkasten/Domain Driven Design a Practical Guide.md",
+    "zettelkasten/lddd - subdomains as coherent use cases.md",
+    "zettelkasten/lddd - comparing subdomains.md",
+    "assets/Screenshot 2024-01-25 at 09.17.59.png",
+    "assets/Screenshot 2024-01-25 at 08.41.01.png",
+    "assets/Screenshot 2024-01-25 at 08.17.26.png",
     "zettelkasten/lddd - types of subdomains.md",
+    "zettelkasten/lddd - supporting subdomain.md",
     "zettelkasten/lddd - core subdomain.md",
     "zettelkasten/lddd - generic subdomain.md",
-    "zettelkasten/lddd -  analyzing business domains.md",
     "zettelkasten/learning domain driven design.md",
     "zettelkasten/domain driven design.md",
     "zettelkasten/GoLang - Idiomatic Naming Conventions.md",
@@ -224,11 +232,6 @@
     "zettelkasten/POSD - comments get out of date.md",
     "zettelkasten/POSD - i don't have time to write comments.md",
     "zettelkasten/tactical programming.md",
-    "zettelkasten/POSD - strategic vs tactical programming.md",
-    "zettelkasten/strategic programming.md",
-    "zettelkasten/POSD - the myth of good code is self-documented.md",
-    "zettelkasten/POSD - design it twice.md",
-    "zettelkasten/POSD - define errors out of existence.md",
     "assets/Screenshot 2023-12-24 at 15.14.18.png",
     "assets/Screenshot 2023-12-24 at 15.13.01.png",
     "assets/Screenshot 2023-12-17 at 20.19.38.png",
@@ -236,9 +239,6 @@
     "assets/Screenshot 2023-12-17 at 19.20.11.png",
     "assets/Screenshot 2023-12-17 at 19.15.36.png",
     "assets/Screenshot 2023-12-17 at 18.59.46.png",
-    "assets/Screenshot 2023-12-04 at 21.10.41.png",
-    "assets/Screenshot 2023-12-04 at 21.10.02.png",
-    "assets/Screenshot 2023-11-27 at 19.06.32.png",
     "output",
     "zettelkasten",
     "assets",

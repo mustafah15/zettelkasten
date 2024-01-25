@@ -1,7 +1,8 @@
 {
-  "accentColor": "#7abaff",
-  "cssTheme": "Minimal",
-  "textFontFamily": "Monaspace Argon,Monaspace Radon,Apple SD Gothic Neo",
+  "accentColor": "#a68af9",
+  "cssTheme": "Lemons Theme",
+  "textFontFamily": "Geist Mono,Monaspace Argon,Monaspace Radon,Apple SD Gothic Neo",
   "theme": "obsidian",
-  "interfaceFontFamily": ""
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "Geist Mono"
 }
