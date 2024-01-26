@@ -1,6 +1,118 @@
 {
   "recentFiles": [
     {
+      "basename": "design patterns",
+      "path": "zettelkasten/design patterns.md"
+    },
+    {
+      "basename": "behavioural design patterns",
+      "path": "zettelkasten/behavioural design patterns.md"
+    },
+    {
+      "basename": "observer design pattern",
+      "path": "zettelkasten/observer design pattern.md"
+    },
+    {
+      "basename": "visitor design pattern",
+      "path": "zettelkasten/visitor design pattern.md"
+    },
+    {
+      "basename": "strategy design pattern",
+      "path": "zettelkasten/strategy design pattern.md"
+    },
+    {
+      "basename": "template method design pattern",
+      "path": "zettelkasten/template method design pattern.md"
+    },
+    {
+      "basename": "state design pattern",
+      "path": "zettelkasten/state design pattern.md"
+    },
+    {
+      "basename": "iterator design pattern",
+      "path": "zettelkasten/iterator design pattern.md"
+    },
+    {
+      "basename": "command design pattern",
+      "path": "zettelkasten/command design pattern.md"
+    },
+    {
+      "basename": "chain of responsibility design pattern",
+      "path": "zettelkasten/chain of responsibility design pattern.md"
+    },
+    {
+      "basename": "structural design patterns",
+      "path": "zettelkasten/structural design patterns.md"
+    },
+    {
+      "basename": "adapter design pattern",
+      "path": "zettelkasten/adapter design pattern.md"
+    },
+    {
+      "basename": "decorator design pattern",
+      "path": "zettelkasten/decorator design pattern.md"
+    },
+    {
+      "basename": "facade design pattern",
+      "path": "zettelkasten/facade design pattern.md"
+    },
+    {
+      "basename": "creational design patterns",
+      "path": "zettelkasten/creational design patterns.md"
+    },
+    {
+      "basename": "singleton design pattern",
+      "path": "zettelkasten/singleton design pattern.md"
+    },
+    {
+      "basename": "prototype design pattern",
+      "path": "zettelkasten/prototype design pattern.md"
+    },
+    {
+      "basename": "factory design pattern",
+      "path": "zettelkasten/factory design pattern.md"
+    },
+    {
+      "basename": "builder design pattern",
+      "path": "zettelkasten/builder design pattern.md"
+    },
+    {
+      "basename": "SOLID",
+      "path": "zettelkasten/SOLID.md"
+    },
+    {
+      "basename": "interface segregation",
+      "path": "zettelkasten/interface segregation.md"
+    },
+    {
+      "basename": "liskove substation",
+      "path": "zettelkasten/liskove substation.md"
+    },
+    {
+      "basename": "object oriented design",
+      "path": "zettelkasten/object oriented design.md"
+    },
+    {
+      "basename": "kafka",
+      "path": "zettelkasten/kafka.md"
+    },
+    {
+      "basename": "database engineering",
+      "path": "zettelkasten/database engineering.md"
+    },
+    {
+      "basename": "ACID",
+      "path": "zettelkasten/ACID.md"
+    },
+    {
+      "basename": "database transaction",
+      "path": "zettelkasten/database transaction.md"
+    },
+    {
+      "basename": "what is a messaging system?",
+      "path": "zettelkasten/what is a messaging system?.md"
+    },
+    {
       "basename": "philosophy of software design",
       "path": "zettelkasten/philosophy of software design.md"
     },
@@ -87,118 +199,6 @@
     {
       "basename": "lddd - who are the domain experts",
       "path": "zettelkasten/lddd - who are the domain experts.md"
-    },
-    {
-      "basename": "lddd - identifying subdomain boundaries",
-      "path": "zettelkasten/lddd - identifying subdomain boundaries.md"
-    },
-    {
-      "basename": "Domain Driven Design a Practical Guide",
-      "path": "zettelkasten/Domain Driven Design a Practical Guide.md"
-    },
-    {
-      "basename": "lddd - subdomains as coherent use cases",
-      "path": "zettelkasten/lddd - subdomains as coherent use cases.md"
-    },
-    {
-      "basename": "lddd - comparing subdomains",
-      "path": "zettelkasten/lddd - comparing subdomains.md"
-    },
-    {
-      "basename": "lddd - types of subdomains",
-      "path": "zettelkasten/lddd - types of subdomains.md"
-    },
-    {
-      "basename": "lddd - supporting subdomain",
-      "path": "zettelkasten/lddd - supporting subdomain.md"
-    },
-    {
-      "basename": "lddd - core subdomain",
-      "path": "zettelkasten/lddd - core subdomain.md"
-    },
-    {
-      "basename": "lddd - generic subdomain",
-      "path": "zettelkasten/lddd - generic subdomain.md"
-    },
-    {
-      "basename": "learning domain driven design",
-      "path": "zettelkasten/learning domain driven design.md"
-    },
-    {
-      "basename": "domain driven design",
-      "path": "zettelkasten/domain driven design.md"
-    },
-    {
-      "basename": "GoLang - Idiomatic Naming Conventions",
-      "path": "zettelkasten/GoLang - Idiomatic Naming Conventions.md"
-    },
-    {
-      "basename": "POSD - implementation comments",
-      "path": "zettelkasten/POSD - implementation comments.md"
-    },
-    {
-      "basename": "POSD - how to write better comments",
-      "path": "zettelkasten/POSD - how to write better comments.md"
-    },
-    {
-      "basename": "POSD - higher-level comments",
-      "path": "zettelkasten/POSD - higher-level comments.md"
-    },
-    {
-      "basename": "POSD - low-level comments",
-      "path": "zettelkasten/POSD - low-level comments.md"
-    },
-    {
-      "basename": "POSD - how to write better comments - don't repeat the code",
-      "path": "zettelkasten/POSD - how to write better comments - don't repeat the code.md"
-    },
-    {
-      "basename": "POSD - how to write better comments - pick conventions",
-      "path": "zettelkasten/POSD - how to write better comments - pick conventions.md"
-    },
-    {
-      "basename": "POSD - why write comments",
-      "path": "zettelkasten/POSD - why write comments.md"
-    },
-    {
-      "basename": "POSD - comments might be worthless",
-      "path": "zettelkasten/POSD - comments might be worthless.md"
-    },
-    {
-      "basename": "POSD - comments get out of date",
-      "path": "zettelkasten/POSD - comments get out of date.md"
-    },
-    {
-      "basename": "POSD - i don't have time to write comments",
-      "path": "zettelkasten/POSD - i don't have time to write comments.md"
-    },
-    {
-      "basename": "POSD - strategic vs tactical programming",
-      "path": "zettelkasten/POSD - strategic vs tactical programming.md"
-    },
-    {
-      "basename": "POSD - the myth of good code is self-documented",
-      "path": "zettelkasten/POSD - the myth of good code is self-documented.md"
-    },
-    {
-      "basename": "POSD - design it twice",
-      "path": "zettelkasten/POSD - design it twice.md"
-    },
-    {
-      "basename": "POSD - define errors out of existence",
-      "path": "zettelkasten/POSD - define errors out of existence.md"
-    },
-    {
-      "basename": "shallow modules",
-      "path": "zettelkasten/shallow modules.md"
-    },
-    {
-      "basename": "POSD - better together or better apart",
-      "path": "zettelkasten/POSD - better together or better apart.md"
-    },
-    {
-      "basename": "creating new libraries",
-      "path": "output/creating new libraries.md"
     }
   ],
   "omittedPaths": [],

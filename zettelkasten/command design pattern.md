@@ -5,7 +5,7 @@ tags:
   - software-design
 type:
   - fleeting
-related: "[[design patterns]]"
+related: "[[behavioural design patterns]]"
 aliases:
   - command design pattern
 ---

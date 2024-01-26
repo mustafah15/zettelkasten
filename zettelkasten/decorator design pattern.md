@@ -5,7 +5,7 @@ tags:
   - oop
 type:
   - fleeting
-related: "[[design patterns]]"
+related: "[[structural design patterns]]"
 aliases:
   - decorator design pattern
 ---

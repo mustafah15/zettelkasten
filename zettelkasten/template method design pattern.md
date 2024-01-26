@@ -1,13 +1,12 @@
 ---
 tags:
-  - software-design
   - design-patterns
   - oop
 aliases:
   - template method design pattern
 type:
-  - fleeting
-related: "[[design patterns]]"
+  - literature
+related: "[[behavioural design patterns]]"
 ---
 - what is the template method pattern
 

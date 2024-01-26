@@ -4,8 +4,8 @@ tags:
   - software-design
   - oop
 type:
-  - fleeting
-related: "[[design patterns]]"
+  - literature
+related: "[[behavioural design patterns]]"
 aliases:
   - iterator design pattern
 ---

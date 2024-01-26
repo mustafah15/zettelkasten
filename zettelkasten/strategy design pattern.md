@@ -1,15 +1,14 @@
 ---
 tags:
   - design-patterns
-  - software-design
   - oop
 type:
   - fleeting
-related: "[[design patterns]]"
+related: "[[behavioural design patterns]]"
 aliases:
   - strategy design pattern
 ---
-- what is strategy pattern?
+- what is sa trategy pattern?
 
 - Consider the example of sorting, We implemented bubble sort but the data started to grow and bubble sort started getting very slow. In order to tackle this we implemented Quick Sort. But now although the quick sort algorithm was doing better for large datasets, it was very slow for smaller datasets. In order to handle this we implemented a strategy where for small datasets, bubble sort will be used, and for larger, quick sort.
 - In plain words

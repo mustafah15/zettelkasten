@@ -7,7 +7,7 @@ type:
   - fleeting
 aliases:
   - facade design pattern
-related: "[[design patterns]]"
+related: "[[structural design patterns]]"
 ---
 
 - what is facade pattern

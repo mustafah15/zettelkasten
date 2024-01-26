@@ -16,12 +16,12 @@ related: "[[design patterns]]"
 	> In software engineering, behavioral design patterns are design patterns that identify common communication patterns between objects and realize these patterns. By doing so, these patterns increase flexibility in carrying out this communication.
 	
 
-- [[chain of responsibility]]
-- [[command]]
-- [[iterator]]
-- [[state]]
-- [[template method]]
-- [[strategy]]
-- [[visitor]]
-- [[observer]]
+- [[chain of responsibility design pattern]]
+- [[command design pattern]]
+- [[iterator design pattern]]
+- [[state design pattern]]
+- [[template method design pattern]]
+- [[strategy design pattern]]
+- [[visitor design pattern]]
+- [[observer design pattern]]
 

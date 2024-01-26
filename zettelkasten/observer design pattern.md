@@ -5,12 +5,11 @@ tags:
   - oop
 type:
   - fleeting
-related: "[[design patterns]]"
+related: "[[behavioural design patterns]]"
 ---
 
+### What is the observer pattern?
 
-
-- What is the observer pattern?
 The __observer pattern_ _is a major behavioral design pattern. It allows objects (__observers__) that have subscribed to an event to wait for input and react to it when notified. This means they don’t have to continuously keep checking whether the input has been provided or not. The_ _main subject__ maintains a list of all the observers and whenever the event occurs, it notifies the observers so they can update their states accordingly.
 
 
@@ -22,7 +21,8 @@ Let’s look at a real-life example that we can map to this pattern. Consider a 
 - Wikipedia says
 >The observer pattern is a software design pattern in which an object, called the subject, maintains a list of its dependents, called observers, and notifies them automatically of any state changes, usually by calling one of their methods.
 
- When to use the observer pattern?
+
+#### When to use the observer pattern?
 
 - To improve code management by breaking down large applications into a system of loosely-coupled objects
 - provide greater flexibility by enabling a dynamic relationship between observers and subscribers which is otherwise not possible due to tight coupling

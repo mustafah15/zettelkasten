@@ -1,11 +1,10 @@
 ---
 tags:
-  - software-design
   - oop
   - design-patterns
 type:
-  - fleeting
-related: "[[design patterns]]"
+  - literature
+related: "[[behavioural design patterns]]"
 aliases:
   - state design pattern
 ---

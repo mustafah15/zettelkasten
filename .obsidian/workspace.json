@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/philosophy of software design.md",
+                "file": "zettelkasten/design patterns.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/philosophy of software design.md",
+                "file": "zettelkasten/design patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/philosophy of software design.md",
+                "file": "zettelkasten/design patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/philosophy of software design.md"
+                "file": "zettelkasten/design patterns.md"
               }
             }
           },
@@ -186,7 +186,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zettelkasten/philosophy of software design.md"
+                "file": "zettelkasten/design patterns.md"
               }
             }
           }
@@ -209,32 +209,32 @@
   },
   "active": "8c97ecdaa49db883",
   "lastOpenFiles": [
-    "zettelkasten/POSD - could be more obvious.md",
-    "zettelkasten/POSD - interface comments.md",
-    "zettelkasten/POSD - causes of complexity.md",
-    "zettelkasten/POSD - dependencies.md",
-    "zettelkasten/POSD - obscurity.md",
-    "zettelkasten/philosophy of software design.md",
-    "zettelkasten/POSD - consistency.md",
-    "zettelkasten/POSD - modifying existing code.md",
-    "zettelkasten/POSD - strategic programming.md",
-    "zettelkasten/POSD - tactical programming.md",
-    "zettelkasten/POSD - write comments first.md",
-    "zettelkasten/POSD - choosing names.md",
-    "zettelkasten/POSD - complexity in software design.md",
-    "zettelkasten/POSD - symptoms of complexity.md",
-    "zettelkasten/POSD - fighting against complexity.md",
-    "zettelkasten/POSD - complexity is incremental.md",
-    "output/Complexity In Software Design.md",
-    "zettelkasten/POSD - names should be consistent.md",
-    "zettelkasten/POSD - names should be precise.md",
-    "zettelkasten/software design red flags.md",
-    "zettelkasten/lddd -  analyzing business domains.md",
-    "zettelkasten/lddd - who are the domain experts.md",
-    "zettelkasten/lddd - identifying subdomain boundaries.md",
-    "zettelkasten/Domain Driven Design a Practical Guide.md",
-    "zettelkasten/lddd - subdomains as coherent use cases.md",
-    "zettelkasten/lddd - comparing subdomains.md",
+    "zettelkasten/behavioural design patterns.md",
+    "zettelkasten/observer design pattern.md",
+    "zettelkasten/visitor design pattern.md",
+    "zettelkasten/strategy design pattern.md",
+    "zettelkasten/template method design pattern.md",
+    "zettelkasten/state design pattern.md",
+    "zettelkasten/iterator design pattern.md",
+    "zettelkasten/command design pattern.md",
+    "zettelkasten/chain of responsibility design pattern.md",
+    "zettelkasten/design patterns.md",
+    "zettelkasten/structural design patterns.md",
+    "zettelkasten/adapter design pattern.md",
+    "zettelkasten/decorator design pattern.md",
+    "zettelkasten/facade design pattern.md",
+    "zettelkasten/creational design patterns.md",
+    "zettelkasten/singleton design pattern.md",
+    "zettelkasten/prototype design pattern.md",
+    "zettelkasten/factory design pattern.md",
+    "zettelkasten/builder design pattern.md",
+    "zettelkasten/SOLID.md",
+    "zettelkasten/interface segregation.md",
+    "zettelkasten/liskove substation.md",
+    "zettelkasten/object oriented design.md",
+    "zettelkasten/kafka.md",
+    "zettelkasten/database engineering.md",
+    "zettelkasten/ACID.md",
     "assets/Screenshot 2024-01-25 at 09.17.59.png",
     "assets/Screenshot 2024-01-25 at 08.41.01.png",
     "assets/Screenshot 2024-01-25 at 08.17.26.png",
