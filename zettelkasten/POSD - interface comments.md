@@ -5,6 +5,8 @@ tags:
 related: "[[POSD - how to write better comments]]"
 type:
   - literature
+aliases:
+  - interface comments
 ---
 - one of the most important roles for comments is to define abstraction, code is not suitable for describing abstractions; it's too low level and it includes implementation details that shouldn't be visible in the abstraction
 - the only way to describe an abstraction in with comments if you want code that presents good abstractions you must document those abstractions with comments.

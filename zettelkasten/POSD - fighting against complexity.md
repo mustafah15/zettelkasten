@@ -4,6 +4,8 @@ tags:
 type:
   - literature
 related: "[[POSD - complexity in software design]]"
+aliases:
+  - fighting against complexity
 ---
 
 

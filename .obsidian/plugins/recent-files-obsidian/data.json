@@ -1,6 +1,86 @@
 {
   "recentFiles": [
     {
+      "basename": "philosophy of software design",
+      "path": "zettelkasten/philosophy of software design.md"
+    },
+    {
+      "basename": "POSD - could be more obvious",
+      "path": "zettelkasten/POSD - could be more obvious.md"
+    },
+    {
+      "basename": "POSD - interface comments",
+      "path": "zettelkasten/POSD - interface comments.md"
+    },
+    {
+      "basename": "POSD - causes of complexity",
+      "path": "zettelkasten/POSD - causes of complexity.md"
+    },
+    {
+      "basename": "POSD - dependencies",
+      "path": "zettelkasten/POSD - dependencies.md"
+    },
+    {
+      "basename": "POSD - obscurity",
+      "path": "zettelkasten/POSD - obscurity.md"
+    },
+    {
+      "basename": "POSD - consistency",
+      "path": "zettelkasten/POSD - consistency.md"
+    },
+    {
+      "basename": "POSD - modifying existing code",
+      "path": "zettelkasten/POSD - modifying existing code.md"
+    },
+    {
+      "basename": "POSD - strategic programming",
+      "path": "zettelkasten/POSD - strategic programming.md"
+    },
+    {
+      "basename": "POSD - tactical programming",
+      "path": "zettelkasten/POSD - tactical programming.md"
+    },
+    {
+      "basename": "POSD - write comments first",
+      "path": "zettelkasten/POSD - write comments first.md"
+    },
+    {
+      "basename": "POSD - choosing names",
+      "path": "zettelkasten/POSD - choosing names.md"
+    },
+    {
+      "basename": "POSD - complexity in software design",
+      "path": "zettelkasten/POSD - complexity in software design.md"
+    },
+    {
+      "basename": "POSD - symptoms of complexity",
+      "path": "zettelkasten/POSD - symptoms of complexity.md"
+    },
+    {
+      "basename": "POSD - fighting against complexity",
+      "path": "zettelkasten/POSD - fighting against complexity.md"
+    },
+    {
+      "basename": "POSD - complexity is incremental",
+      "path": "zettelkasten/POSD - complexity is incremental.md"
+    },
+    {
+      "basename": "Complexity In Software Design",
+      "path": "output/Complexity In Software Design.md"
+    },
+    {
+      "basename": "POSD - names should be consistent",
+      "path": "zettelkasten/POSD - names should be consistent.md"
+    },
+    {
+      "basename": "POSD - names should be precise",
+      "path": "zettelkasten/POSD - names should be precise.md"
+    },
+    {
+      "basename": "software design red flags",
+      "path": "zettelkasten/software design red flags.md"
+    },
+    {
       "basename": "lddd -  analyzing business domains",
       "path": "zettelkasten/lddd -  analyzing business domains.md"
     },
@@ -61,10 +141,6 @@
       "path": "zettelkasten/POSD - how to write better comments.md"
     },
     {
-      "basename": "POSD - interface comments",
-      "path": "zettelkasten/POSD - interface comments.md"
-    },
-    {
       "basename": "POSD - higher-level comments",
       "path": "zettelkasten/POSD - higher-level comments.md"
     },
@@ -79,10 +155,6 @@
     {
       "basename": "POSD - how to write better comments - pick conventions",
       "path": "zettelkasten/POSD - how to write better comments - pick conventions.md"
-    },
-    {
-      "basename": "philosophy of software design",
-      "path": "zettelkasten/philosophy of software design.md"
     },
     {
       "basename": "POSD - why write comments",
@@ -101,16 +173,8 @@
       "path": "zettelkasten/POSD - i don't have time to write comments.md"
     },
     {
-      "basename": "tactical programming",
-      "path": "zettelkasten/tactical programming.md"
-    },
-    {
       "basename": "POSD - strategic vs tactical programming",
       "path": "zettelkasten/POSD - strategic vs tactical programming.md"
-    },
-    {
-      "basename": "strategic programming",
-      "path": "zettelkasten/strategic programming.md"
     },
     {
       "basename": "POSD - the myth of good code is self-documented",
@@ -135,70 +199,6 @@
     {
       "basename": "creating new libraries",
       "path": "output/creating new libraries.md"
-    },
-    {
-      "basename": "key characteristics of distributed systems",
-      "path": "zettelkasten/key characteristics of distributed systems.md"
-    },
-    {
-      "basename": "consistency",
-      "path": "zettelkasten/consistency.md"
-    },
-    {
-      "basename": "amdahl's law",
-      "path": "zettelkasten/amdahl's law.md"
-    },
-    {
-      "basename": "linear scalability",
-      "path": "zettelkasten/linear scalability.md"
-    },
-    {
-      "basename": "gunther's universal law",
-      "path": "zettelkasten/gunther's universal law.md"
-    },
-    {
-      "basename": "scalability",
-      "path": "zettelkasten/scalability.md"
-    },
-    {
-      "basename": "distributed systems",
-      "path": "zettelkasten/distributed systems.md"
-    },
-    {
-      "basename": "availability and reliability",
-      "path": "zettelkasten/availability and reliability.md"
-    },
-    {
-      "basename": "GoLang - Arrays and Slices",
-      "path": "zettelkasten/GoLang - Arrays and Slices.md"
-    },
-    {
-      "basename": "Go Lang",
-      "path": "zettelkasten/Go Lang.md"
-    },
-    {
-      "basename": "GoLang - constants",
-      "path": "zettelkasten/GoLang - constants.md"
-    },
-    {
-      "basename": "GoLang - useful resources",
-      "path": "zettelkasten/GoLang - useful resources.md"
-    },
-    {
-      "basename": "what is new in PHP 8.3",
-      "path": "zettelkasten/what is new in PHP 8.3.md"
-    },
-    {
-      "basename": "kafka",
-      "path": "zettelkasten/kafka.md"
-    },
-    {
-      "basename": "Toolbox",
-      "path": "zettelkasten/Toolbox.md"
-    },
-    {
-      "basename": "GoLang - primitive types",
-      "path": "zettelkasten/GoLang - primitive types.md"
     }
   ],
   "omittedPaths": [],

@@ -6,7 +6,7 @@ type:
   - literature
 related:
 ---
-- how to use this book 
+- How to use this book 
 	- the best way to use this book is in conjunction with code reviews when you read other people's code, think about whether it conforms to the concepts discussed here and how that relates to the complexity of the code.
 - [[POSD - complexity in software design]]
 - [[POSD - strategic vs tactical programming]]
@@ -25,11 +25,6 @@ related:
 - [[POSD - modifying existing code]]
 - [[POSD - consistency]]
 - [[POSD - could be more obvious]]
-- 
-
-
-
-
 
 
 

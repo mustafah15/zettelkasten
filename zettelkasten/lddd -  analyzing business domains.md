@@ -13,8 +13,6 @@ To achieve its business domain's goals a company has to operate in multiple subd
 
 
 ## [[lddd - types of subdomains|types of subdomains]]
-
 ## [[lddd - comparing subdomains|comparing subdomains]]
 ## [[lddd - identifying subdomain boundaries|identifying subdomain boundaries]]
-
 ## [[lddd - who are the domain experts|who are the domain experts]]
