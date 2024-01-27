@@ -20,8 +20,17 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "49e02084beb37b57",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "output/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "output/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +141,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "output/Index.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,9 +169,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "output/Index.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -186,10 +189,12 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "87e9c4a0c5807360",
+  "active": "49e02084beb37b57",
   "lastOpenFiles": [
-    "zettelkasten/distributed systems.md",
+    "assets/baby-graph.png.png",
+    "assets/Screenshot 2024-01-27 at 12.02.14.png",
     "output/Index.md",
+    "zettelkasten/distributed systems.md",
     "zettelkasten/distributed systems - communication styles.md",
     "zettelkasten/distributed systems - async communication.md",
     "zettelkasten/message queueing.md",
@@ -213,7 +218,6 @@
     "zettelkasten/scalability.md",
     "zettelkasten/partition tolerance.md",
     "zettelkasten/distributed system.md",
-    "zettelkasten/visitor design pattern.md",
     "assets/Screenshot 2024-01-25 at 09.17.59.png",
     "assets/Screenshot 2024-01-25 at 08.41.01.png",
     "assets/Screenshot 2024-01-25 at 08.17.26.png",
@@ -223,7 +227,6 @@
     "assets/Screenshot 2023-12-17 at 20.18.56.png",
     "assets/Screenshot 2023-12-17 at 19.20.11.png",
     "assets/Screenshot 2023-12-17 at 19.15.36.png",
-    "assets/Screenshot 2023-12-17 at 18.59.46.png",
     "output",
     "zettelkasten",
     "assets",
