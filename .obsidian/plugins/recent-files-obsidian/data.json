@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "baby-graph",
+      "path": "assets/baby-graph.png"
+    },
+    {
       "basename": "Index",
       "path": "output/Index.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "chain of responsibility design pattern",
       "path": "zettelkasten/chain of responsibility design pattern.md"
-    },
-    {
-      "basename": "structural design patterns",
-      "path": "zettelkasten/structural design patterns.md"
     }
   ],
   "omittedPaths": [],

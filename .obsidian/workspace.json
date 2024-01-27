@@ -22,11 +22,13 @@
             }
           },
           {
-            "id": "49e02084beb37b57",
+            "id": "68273903a6d1b944",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "assets/baby-graph.png"
+              }
             }
           }
         ],
@@ -104,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "assets/baby-graph.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "assets/baby-graph.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "assets/baby-graph.png"
+              }
             }
           },
           {
@@ -169,7 +175,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "assets/baby-graph.png"
+              }
             }
           }
         ]
@@ -189,11 +197,11 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "49e02084beb37b57",
+  "active": "00358b6c1458fa23",
   "lastOpenFiles": [
-    "assets/baby-graph.png.png",
-    "assets/Screenshot 2024-01-27 at 12.02.14.png",
     "output/Index.md",
+    "assets/baby-graph.png",
+    "assets/Screenshot 2024-01-27 at 12.02.14.png",
     "zettelkasten/distributed systems.md",
     "zettelkasten/distributed systems - communication styles.md",
     "zettelkasten/distributed systems - async communication.md",
@@ -226,7 +234,6 @@
     "assets/Screenshot 2023-12-17 at 20.19.38.png",
     "assets/Screenshot 2023-12-17 at 20.18.56.png",
     "assets/Screenshot 2023-12-17 at 19.20.11.png",
-    "assets/Screenshot 2023-12-17 at 19.15.36.png",
     "output",
     "zettelkasten",
     "assets",
