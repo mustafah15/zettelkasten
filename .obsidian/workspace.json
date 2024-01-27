@@ -8,34 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e640676132f45750",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Domain Driven Design a Practical Guide.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "ab289b848ef3f4da",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "output/Zettelkasten with obsidian.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "8c97ecdaa49db883",
+            "id": "7ce4ee828ba331cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/design patterns.md",
+                "file": "zettelkasten/database non-repeatable reads.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87e9c4a0c5807360",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/vertical scaling.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/design patterns.md",
+                "file": "zettelkasten/vertical scaling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/design patterns.md",
+                "file": "zettelkasten/vertical scaling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/design patterns.md"
+                "file": "zettelkasten/vertical scaling.md"
               }
             }
           },
@@ -186,7 +188,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zettelkasten/design patterns.md"
+                "file": "zettelkasten/vertical scaling.md"
               }
             }
           }
@@ -207,34 +209,34 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "8c97ecdaa49db883",
+  "active": "87e9c4a0c5807360",
   "lastOpenFiles": [
+    "zettelkasten/visitor design pattern.md",
+    "zettelkasten/what is a messaging system?.md",
+    "zettelkasten/what is new in PHP 8.0.md",
+    "zettelkasten/what is new in PHP 8.1.md",
+    "zettelkasten/what is new in PHP 8.2.md",
+    "zettelkasten/what is new in PHP 8.3.md",
+    "zettelkasten/strong consistency.md",
+    "output/Zettelkasten with obsidian.md",
+    "zettelkasten/database non-repeatable reads.md",
+    "output/Index.md",
+    "output/Complexity In Software Design.md",
+    "output/Why Code Comments Is More Important Than You Think.md",
+    "output/creating new libraries.md",
+    "zettelkasten/key characteristics of distributed systems.md",
+    "zettelkasten/scalability.md",
+    "zettelkasten/contention in distributed systems.md",
+    "zettelkasten/Domain Driven Design a Practical Guide.md",
+    "zettelkasten/horizontal scaling.md",
+    "zettelkasten/scalability vs performance.md",
+    "zettelkasten/consistency.md",
+    "zettelkasten/eventual consistency.md",
+    "zettelkasten/design patterns.md",
     "zettelkasten/behavioural design patterns.md",
     "zettelkasten/observer design pattern.md",
-    "zettelkasten/visitor design pattern.md",
     "zettelkasten/strategy design pattern.md",
     "zettelkasten/template method design pattern.md",
-    "zettelkasten/state design pattern.md",
-    "zettelkasten/iterator design pattern.md",
-    "zettelkasten/command design pattern.md",
-    "zettelkasten/chain of responsibility design pattern.md",
-    "zettelkasten/design patterns.md",
-    "zettelkasten/structural design patterns.md",
-    "zettelkasten/adapter design pattern.md",
-    "zettelkasten/decorator design pattern.md",
-    "zettelkasten/facade design pattern.md",
-    "zettelkasten/creational design patterns.md",
-    "zettelkasten/singleton design pattern.md",
-    "zettelkasten/prototype design pattern.md",
-    "zettelkasten/factory design pattern.md",
-    "zettelkasten/builder design pattern.md",
-    "zettelkasten/SOLID.md",
-    "zettelkasten/interface segregation.md",
-    "zettelkasten/liskove substation.md",
-    "zettelkasten/object oriented design.md",
-    "zettelkasten/kafka.md",
-    "zettelkasten/database engineering.md",
-    "zettelkasten/ACID.md",
     "assets/Screenshot 2024-01-25 at 09.17.59.png",
     "assets/Screenshot 2024-01-25 at 08.41.01.png",
     "assets/Screenshot 2024-01-25 at 08.17.26.png",

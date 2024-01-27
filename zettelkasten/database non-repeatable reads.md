@@ -5,7 +5,7 @@ type:
   - fleeting
 related: "[[database read phenomenas]]"
 ---
-A non-repeatable read occurs when during the course of a transaction, a row is retrieved twice and the values within the row differ between reads caused by a successful committed change.
+A non-repeatable read occurs when during the course of a transaction, a row is retrieved twice and the values within the row differ between reads caused by a successfully committed change.
 
 
 The key to non-repeatable reading is to **modify**:  

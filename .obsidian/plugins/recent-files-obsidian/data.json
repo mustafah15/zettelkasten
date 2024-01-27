@@ -1,6 +1,90 @@
 {
   "recentFiles": [
     {
+      "basename": "vertical scaling",
+      "path": "zettelkasten/vertical scaling.md"
+    },
+    {
+      "basename": "visitor design pattern",
+      "path": "zettelkasten/visitor design pattern.md"
+    },
+    {
+      "basename": "what is a messaging system?",
+      "path": "zettelkasten/what is a messaging system?.md"
+    },
+    {
+      "basename": "what is new in PHP 8.0",
+      "path": "zettelkasten/what is new in PHP 8.0.md"
+    },
+    {
+      "basename": "what is new in PHP 8.1",
+      "path": "zettelkasten/what is new in PHP 8.1.md"
+    },
+    {
+      "basename": "what is new in PHP 8.2",
+      "path": "zettelkasten/what is new in PHP 8.2.md"
+    },
+    {
+      "basename": "what is new in PHP 8.3",
+      "path": "zettelkasten/what is new in PHP 8.3.md"
+    },
+    {
+      "basename": "strong consistency",
+      "path": "zettelkasten/strong consistency.md"
+    },
+    {
+      "basename": "Zettelkasten with obsidian",
+      "path": "output/Zettelkasten with obsidian.md"
+    },
+    {
+      "basename": "database non-repeatable reads",
+      "path": "zettelkasten/database non-repeatable reads.md"
+    },
+    {
+      "basename": "Index",
+      "path": "output/Index.md"
+    },
+    {
+      "basename": "Complexity In Software Design",
+      "path": "output/Complexity In Software Design.md"
+    },
+    {
+      "basename": "Why Code Comments Is More Important Than You Think",
+      "path": "output/Why Code Comments Is More Important Than You Think.md"
+    },
+    {
+      "basename": "key characteristics of distributed systems",
+      "path": "zettelkasten/key characteristics of distributed systems.md"
+    },
+    {
+      "basename": "scalability",
+      "path": "zettelkasten/scalability.md"
+    },
+    {
+      "basename": "contention in distributed systems",
+      "path": "zettelkasten/contention in distributed systems.md"
+    },
+    {
+      "basename": "Domain Driven Design a Practical Guide",
+      "path": "zettelkasten/Domain Driven Design a Practical Guide.md"
+    },
+    {
+      "basename": "horizontal scaling",
+      "path": "zettelkasten/horizontal scaling.md"
+    },
+    {
+      "basename": "scalability vs performance",
+      "path": "zettelkasten/scalability vs performance.md"
+    },
+    {
+      "basename": "consistency",
+      "path": "zettelkasten/consistency.md"
+    },
+    {
+      "basename": "eventual consistency",
+      "path": "zettelkasten/eventual consistency.md"
+    },
+    {
       "basename": "design patterns",
       "path": "zettelkasten/design patterns.md"
     },
@@ -11,10 +95,6 @@
     {
       "basename": "observer design pattern",
       "path": "zettelkasten/observer design pattern.md"
-    },
-    {
-      "basename": "visitor design pattern",
-      "path": "zettelkasten/visitor design pattern.md"
     },
     {
       "basename": "strategy design pattern",
@@ -109,10 +189,6 @@
       "path": "zettelkasten/database transaction.md"
     },
     {
-      "basename": "what is a messaging system?",
-      "path": "zettelkasten/what is a messaging system?.md"
-    },
-    {
       "basename": "philosophy of software design",
       "path": "zettelkasten/philosophy of software design.md"
     },
@@ -123,82 +199,6 @@
     {
       "basename": "POSD - interface comments",
       "path": "zettelkasten/POSD - interface comments.md"
-    },
-    {
-      "basename": "POSD - causes of complexity",
-      "path": "zettelkasten/POSD - causes of complexity.md"
-    },
-    {
-      "basename": "POSD - dependencies",
-      "path": "zettelkasten/POSD - dependencies.md"
-    },
-    {
-      "basename": "POSD - obscurity",
-      "path": "zettelkasten/POSD - obscurity.md"
-    },
-    {
-      "basename": "POSD - consistency",
-      "path": "zettelkasten/POSD - consistency.md"
-    },
-    {
-      "basename": "POSD - modifying existing code",
-      "path": "zettelkasten/POSD - modifying existing code.md"
-    },
-    {
-      "basename": "POSD - strategic programming",
-      "path": "zettelkasten/POSD - strategic programming.md"
-    },
-    {
-      "basename": "POSD - tactical programming",
-      "path": "zettelkasten/POSD - tactical programming.md"
-    },
-    {
-      "basename": "POSD - write comments first",
-      "path": "zettelkasten/POSD - write comments first.md"
-    },
-    {
-      "basename": "POSD - choosing names",
-      "path": "zettelkasten/POSD - choosing names.md"
-    },
-    {
-      "basename": "POSD - complexity in software design",
-      "path": "zettelkasten/POSD - complexity in software design.md"
-    },
-    {
-      "basename": "POSD - symptoms of complexity",
-      "path": "zettelkasten/POSD - symptoms of complexity.md"
-    },
-    {
-      "basename": "POSD - fighting against complexity",
-      "path": "zettelkasten/POSD - fighting against complexity.md"
-    },
-    {
-      "basename": "POSD - complexity is incremental",
-      "path": "zettelkasten/POSD - complexity is incremental.md"
-    },
-    {
-      "basename": "Complexity In Software Design",
-      "path": "output/Complexity In Software Design.md"
-    },
-    {
-      "basename": "POSD - names should be consistent",
-      "path": "zettelkasten/POSD - names should be consistent.md"
-    },
-    {
-      "basename": "POSD - names should be precise",
-      "path": "zettelkasten/POSD - names should be precise.md"
-    },
-    {
-      "basename": "software design red flags",
-      "path": "zettelkasten/software design red flags.md"
-    },
-    {
-      "basename": "lddd -  analyzing business domains",
-      "path": "zettelkasten/lddd -  analyzing business domains.md"
-    },
-    {
-      "basename": "lddd - who are the domain experts",
-      "path": "zettelkasten/lddd - who are the domain experts.md"
     }
   ],
   "omittedPaths": [],

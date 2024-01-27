@@ -7,8 +7,6 @@ type:
   - literature
 ---
 
-
------
 - ### [[consistency]] 
 - ### [[scalability]]
 - ### [[availability and reliability]]
