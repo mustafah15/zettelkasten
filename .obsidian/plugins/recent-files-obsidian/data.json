@@ -1,8 +1,100 @@
 {
   "recentFiles": [
     {
+      "basename": "Index",
+      "path": "output/Index.md"
+    },
+    {
+      "basename": "distributed systems",
+      "path": "zettelkasten/distributed systems.md"
+    },
+    {
+      "basename": "distributed systems - communication styles",
+      "path": "zettelkasten/distributed systems - communication styles.md"
+    },
+    {
+      "basename": "distributed systems - async communication",
+      "path": "zettelkasten/distributed systems - async communication.md"
+    },
+    {
+      "basename": "message queueing",
+      "path": "zettelkasten/message queueing.md"
+    },
+    {
+      "basename": "map of content",
+      "path": "zettelkasten/map of content.md"
+    },
+    {
+      "basename": "observability",
+      "path": "zettelkasten/observability.md"
+    },
+    {
+      "basename": "Site Reliability Engineering",
+      "path": "zettelkasten/Site Reliability Engineering.md"
+    },
+    {
+      "basename": "designing reactive distributed systems",
+      "path": "zettelkasten/designing reactive distributed systems.md"
+    },
+    {
       "basename": "vertical scaling",
       "path": "zettelkasten/vertical scaling.md"
+    },
+    {
+      "basename": "reactive distributed systems",
+      "path": "zettelkasten/reactive distributed systems.md"
+    },
+    {
+      "basename": "database phantom reads",
+      "path": "zettelkasten/database phantom reads.md"
+    },
+    {
+      "basename": "database read phenomenas",
+      "path": "zettelkasten/database read phenomenas.md"
+    },
+    {
+      "basename": "database engineering",
+      "path": "zettelkasten/database engineering.md"
+    },
+    {
+      "basename": "database internals",
+      "path": "zettelkasten/database internals.md"
+    },
+    {
+      "basename": "Zettelkasten with obsidian",
+      "path": "output/Zettelkasten with obsidian.md"
+    },
+    {
+      "basename": "database non-repeatable reads",
+      "path": "zettelkasten/database non-repeatable reads.md"
+    },
+    {
+      "basename": "reactive principles",
+      "path": "zettelkasten/reactive principles.md"
+    },
+    {
+      "basename": "the reactive manifesto",
+      "path": "zettelkasten/the reactive manifesto.md"
+    },
+    {
+      "basename": "why reactive",
+      "path": "zettelkasten/why reactive.md"
+    },
+    {
+      "basename": "types of distributed systems architectures",
+      "path": "zettelkasten/types of distributed systems architectures.md"
+    },
+    {
+      "basename": "Communication and Coordination",
+      "path": "zettelkasten/Communication and Coordination.md"
+    },
+    {
+      "basename": "scalability",
+      "path": "zettelkasten/scalability.md"
+    },
+    {
+      "basename": "partition tolerance",
+      "path": "zettelkasten/partition tolerance.md"
     },
     {
       "basename": "visitor design pattern",
@@ -33,18 +125,6 @@
       "path": "zettelkasten/strong consistency.md"
     },
     {
-      "basename": "Zettelkasten with obsidian",
-      "path": "output/Zettelkasten with obsidian.md"
-    },
-    {
-      "basename": "database non-repeatable reads",
-      "path": "zettelkasten/database non-repeatable reads.md"
-    },
-    {
-      "basename": "Index",
-      "path": "output/Index.md"
-    },
-    {
       "basename": "Complexity In Software Design",
       "path": "output/Complexity In Software Design.md"
     },
@@ -55,10 +135,6 @@
     {
       "basename": "key characteristics of distributed systems",
       "path": "zettelkasten/key characteristics of distributed systems.md"
-    },
-    {
-      "basename": "scalability",
-      "path": "zettelkasten/scalability.md"
     },
     {
       "basename": "contention in distributed systems",
@@ -123,82 +199,6 @@
     {
       "basename": "structural design patterns",
       "path": "zettelkasten/structural design patterns.md"
-    },
-    {
-      "basename": "adapter design pattern",
-      "path": "zettelkasten/adapter design pattern.md"
-    },
-    {
-      "basename": "decorator design pattern",
-      "path": "zettelkasten/decorator design pattern.md"
-    },
-    {
-      "basename": "facade design pattern",
-      "path": "zettelkasten/facade design pattern.md"
-    },
-    {
-      "basename": "creational design patterns",
-      "path": "zettelkasten/creational design patterns.md"
-    },
-    {
-      "basename": "singleton design pattern",
-      "path": "zettelkasten/singleton design pattern.md"
-    },
-    {
-      "basename": "prototype design pattern",
-      "path": "zettelkasten/prototype design pattern.md"
-    },
-    {
-      "basename": "factory design pattern",
-      "path": "zettelkasten/factory design pattern.md"
-    },
-    {
-      "basename": "builder design pattern",
-      "path": "zettelkasten/builder design pattern.md"
-    },
-    {
-      "basename": "SOLID",
-      "path": "zettelkasten/SOLID.md"
-    },
-    {
-      "basename": "interface segregation",
-      "path": "zettelkasten/interface segregation.md"
-    },
-    {
-      "basename": "liskove substation",
-      "path": "zettelkasten/liskove substation.md"
-    },
-    {
-      "basename": "object oriented design",
-      "path": "zettelkasten/object oriented design.md"
-    },
-    {
-      "basename": "kafka",
-      "path": "zettelkasten/kafka.md"
-    },
-    {
-      "basename": "database engineering",
-      "path": "zettelkasten/database engineering.md"
-    },
-    {
-      "basename": "ACID",
-      "path": "zettelkasten/ACID.md"
-    },
-    {
-      "basename": "database transaction",
-      "path": "zettelkasten/database transaction.md"
-    },
-    {
-      "basename": "philosophy of software design",
-      "path": "zettelkasten/philosophy of software design.md"
-    },
-    {
-      "basename": "POSD - could be more obvious",
-      "path": "zettelkasten/POSD - could be more obvious.md"
-    },
-    {
-      "basename": "POSD - interface comments",
-      "path": "zettelkasten/POSD - interface comments.md"
     }
   ],
   "omittedPaths": [],

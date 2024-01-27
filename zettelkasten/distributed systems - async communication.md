@@ -6,6 +6,7 @@ type:
 aliases:
   - async communication
   - asynchronous communication
+related:
 ---
 
 ### What is asynchronous messaging?

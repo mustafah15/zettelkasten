@@ -6,10 +6,21 @@ type:
 dg-home: true
 dg-publish: true
 ---
-- [[Complexity In Software Design]]
-- [[Domain Driven Design a Practical Guide]]
-- [[intro to platform engineering]]
-- [[Zettelkasten with obsidian]]
-- [[Why Code Comments Is More Important Than You Think]]
+- book notes
+	- [[philosophy of software design]]
+	- [[learning domain driven design]]
+- architecture notes 
+	- [[SOLID]]
+	- [[design patterns]]
+	- [[domain driven design]]
+	- [[distributed systems]]
+	- [[reactive distributed systems]]
+	- [[database engineering]]
+- tools
+	- [[PHP]]
+	- [[TypeScript]]
+	- [[Go Lang]]
+	- [[kafka]]
+- infra
+	- [[Site Reliability Engineering|SRE]]
 - 
-

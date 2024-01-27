@@ -8,15 +8,12 @@ type:
 
 
 
-a distributed system is a system with multiple components located on different machines that  appear as a singe system to the end-user.
-distributed systems have endless use cases, a few being electronic banking systems, massive multiplayer online game or a sensors network.
+a distributed system is a system with multiple components located on different machines that appear as a singe system to the end-user.
+distributed systems have endless use cases, a few being electronic banking systems, massively multiplayer online games or a sensor network.
 
-
-### [[types of distributed systems]]
+### [[types of distributed systems architectures]]
 
 ### [[key characteristics of distributed systems]]
-
-
 ### [[distributed systems - communication styles]]
 
 
