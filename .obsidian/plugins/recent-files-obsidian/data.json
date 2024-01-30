@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "baby-graph",
-      "path": "assets/baby-graph.png"
+      "basename": "lddd - discovering domain knowledge",
+      "path": "zettelkasten/lddd - discovering domain knowledge.md"
+    },
+    {
+      "basename": "ubiquitous language",
+      "path": "zettelkasten/ubiquitous language.md"
+    },
+    {
+      "basename": "lddd - who are the domain experts",
+      "path": "zettelkasten/lddd - who are the domain experts.md"
+    },
+    {
+      "basename": "learning domain driven design",
+      "path": "zettelkasten/learning domain driven design.md"
     },
     {
       "basename": "Index",
       "path": "output/Index.md"
+    },
+    {
+      "basename": "baby-graph",
+      "path": "assets/baby-graph.png"
     },
     {
       "basename": "distributed systems",
@@ -183,22 +199,6 @@
     {
       "basename": "template method design pattern",
       "path": "zettelkasten/template method design pattern.md"
-    },
-    {
-      "basename": "state design pattern",
-      "path": "zettelkasten/state design pattern.md"
-    },
-    {
-      "basename": "iterator design pattern",
-      "path": "zettelkasten/iterator design pattern.md"
-    },
-    {
-      "basename": "command design pattern",
-      "path": "zettelkasten/command design pattern.md"
-    },
-    {
-      "basename": "chain of responsibility design pattern",
-      "path": "zettelkasten/chain of responsibility design pattern.md"
     }
   ],
   "omittedPaths": [],

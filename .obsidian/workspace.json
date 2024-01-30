@@ -22,17 +22,27 @@
             }
           },
           {
-            "id": "68273903a6d1b944",
+            "id": "ee78f3e906dc9b8c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "a07fe85603bccbab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
               "state": {
-                "file": "assets/baby-graph.png"
+                "file": "zettelkasten/lddd - discovering domain knowledge.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/baby-graph.png",
+                "file": "zettelkasten/lddd - discovering domain knowledge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/baby-graph.png",
+                "file": "zettelkasten/lddd - discovering domain knowledge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/baby-graph.png"
+                "file": "zettelkasten/lddd - discovering domain knowledge.md"
               }
             }
           },
@@ -176,7 +186,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "assets/baby-graph.png"
+                "file": "zettelkasten/lddd - discovering domain knowledge.md"
               }
             }
           }
@@ -193,12 +203,15 @@
       "graph:Open graph view": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "00358b6c1458fa23",
+  "active": "a07fe85603bccbab",
   "lastOpenFiles": [
+    "zettelkasten/ubiquitous language.md",
+    "zettelkasten/lddd - discovering domain knowledge.md",
+    "zettelkasten/lddd - who are the domain experts.md",
+    "zettelkasten/learning domain driven design.md",
     "output/Index.md",
     "assets/baby-graph.png",
     "assets/Screenshot 2024-01-27 at 12.02.14.png",
@@ -223,9 +236,6 @@
     "zettelkasten/why reactive.md",
     "zettelkasten/types of distributed systems architectures.md",
     "zettelkasten/Communication and Coordination.md",
-    "zettelkasten/scalability.md",
-    "zettelkasten/partition tolerance.md",
-    "zettelkasten/distributed system.md",
     "assets/Screenshot 2024-01-25 at 09.17.59.png",
     "assets/Screenshot 2024-01-25 at 08.41.01.png",
     "assets/Screenshot 2024-01-25 at 08.17.26.png",
