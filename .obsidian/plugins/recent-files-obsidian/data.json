@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "learning domain driven design",
+      "path": "zettelkasten/learning domain driven design.md"
+    },
+    {
       "basename": "lddd - discovering domain knowledge",
       "path": "zettelkasten/lddd - discovering domain knowledge.md"
+    },
+    {
+      "basename": "lddd - converting business domain to a model",
+      "path": "zettelkasten/lddd - converting business domain to a model.md"
+    },
+    {
+      "basename": "lddd - using the ubiquitous language",
+      "path": "zettelkasten/lddd - using the ubiquitous language.md"
     },
     {
       "basename": "ubiquitous language",
@@ -11,10 +23,6 @@
     {
       "basename": "lddd - who are the domain experts",
       "path": "zettelkasten/lddd - who are the domain experts.md"
-    },
-    {
-      "basename": "learning domain driven design",
-      "path": "zettelkasten/learning domain driven design.md"
     },
     {
       "basename": "Index",
@@ -191,14 +199,6 @@
     {
       "basename": "observer design pattern",
       "path": "zettelkasten/observer design pattern.md"
-    },
-    {
-      "basename": "strategy design pattern",
-      "path": "zettelkasten/strategy design pattern.md"
-    },
-    {
-      "basename": "template method design pattern",
-      "path": "zettelkasten/template method design pattern.md"
     }
   ],
   "omittedPaths": [],

@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/lddd - discovering domain knowledge.md",
+                "file": "zettelkasten/learning domain driven design.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/lddd - discovering domain knowledge.md",
+                "file": "zettelkasten/learning domain driven design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/lddd - discovering domain knowledge.md",
+                "file": "zettelkasten/learning domain driven design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/lddd - discovering domain knowledge.md"
+                "file": "zettelkasten/learning domain driven design.md"
               }
             }
           },
@@ -186,7 +186,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zettelkasten/lddd - discovering domain knowledge.md"
+                "file": "zettelkasten/learning domain driven design.md"
               }
             }
           }
@@ -208,8 +208,10 @@
   },
   "active": "a07fe85603bccbab",
   "lastOpenFiles": [
-    "zettelkasten/ubiquitous language.md",
     "zettelkasten/lddd - discovering domain knowledge.md",
+    "zettelkasten/lddd - converting business domain to a model.md",
+    "zettelkasten/lddd - using the ubiquitous language.md",
+    "zettelkasten/ubiquitous language.md",
     "zettelkasten/lddd - who are the domain experts.md",
     "zettelkasten/learning domain driven design.md",
     "output/Index.md",
@@ -234,8 +236,6 @@
     "zettelkasten/reactive principles.md",
     "zettelkasten/the reactive manifesto.md",
     "zettelkasten/why reactive.md",
-    "zettelkasten/types of distributed systems architectures.md",
-    "zettelkasten/Communication and Coordination.md",
     "assets/Screenshot 2024-01-25 at 09.17.59.png",
     "assets/Screenshot 2024-01-25 at 08.41.01.png",
     "assets/Screenshot 2024-01-25 at 08.17.26.png",
