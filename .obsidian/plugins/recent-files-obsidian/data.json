@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Index",
+      "path": "output/Index.md"
+    },
+    {
       "basename": "learning domain driven design",
       "path": "zettelkasten/learning domain driven design.md"
     },
@@ -25,10 +29,6 @@
       "path": "zettelkasten/lddd - who are the domain experts.md"
     },
     {
-      "basename": "Index",
-      "path": "output/Index.md"
-    },
-    {
       "basename": "baby-graph",
       "path": "assets/baby-graph.png"
     },
@@ -47,10 +47,6 @@
     {
       "basename": "message queueing",
       "path": "zettelkasten/message queueing.md"
-    },
-    {
-      "basename": "map of content",
-      "path": "zettelkasten/map of content.md"
     },
     {
       "basename": "observability",

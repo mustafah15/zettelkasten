@@ -5,6 +5,8 @@ type:
   - permanent
 dg-home: true
 dg-publish: true
+aliases:
+  - Map Of Content
 ---
 - book notes
 	- [[philosophy of software design]]
@@ -23,4 +25,5 @@ dg-publish: true
 	- [[kafka]]
 - infra
 	- [[Site Reliability Engineering|SRE]]
+	- [[observability]]
 - 
