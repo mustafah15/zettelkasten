@@ -40,9 +40,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2f65db71052c304a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/lddd - managing domain complexity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "zettelkasten/learning domain driven design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "zettelkasten/learning domain driven design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "zettelkasten/learning domain driven design.md"
+              }
             }
           },
           {
@@ -181,7 +197,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "zettelkasten/learning domain driven design.md"
+              }
             }
           }
         ]
@@ -200,12 +218,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ee78f3e906dc9b8c",
+  "active": "a07fe85603bccbab",
   "lastOpenFiles": [
-    "output/Index.md",
-    "zettelkasten/map of content.md",
+    "zettelkasten/lddd - managing domain complexity.md",
     "zettelkasten/learning domain driven design.md",
     "zettelkasten/lddd - discovering domain knowledge.md",
+    "output/Index.md",
+    "zettelkasten/map of content.md",
     "zettelkasten/lddd - converting business domain to a model.md",
     "zettelkasten/lddd - using the ubiquitous language.md",
     "zettelkasten/ubiquitous language.md",
@@ -229,7 +248,6 @@
     "zettelkasten/database non-repeatable reads.md",
     "zettelkasten/reactive principles.md",
     "zettelkasten/the reactive manifesto.md",
-    "zettelkasten/why reactive.md",
     "assets/Screenshot 2024-01-25 at 09.17.59.png",
     "assets/Screenshot 2024-01-25 at 08.41.01.png",
     "assets/Screenshot 2024-01-25 at 08.17.26.png",

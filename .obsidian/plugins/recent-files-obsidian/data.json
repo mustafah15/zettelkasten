@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Index",
-      "path": "output/Index.md"
-    },
-    {
       "basename": "learning domain driven design",
       "path": "zettelkasten/learning domain driven design.md"
     },
     {
+      "basename": "lddd - managing domain complexity",
+      "path": "zettelkasten/lddd - managing domain complexity.md"
+    },
+    {
       "basename": "lddd - discovering domain knowledge",
       "path": "zettelkasten/lddd - discovering domain knowledge.md"
+    },
+    {
+      "basename": "Index",
+      "path": "output/Index.md"
     },
     {
       "basename": "lddd - converting business domain to a model",
