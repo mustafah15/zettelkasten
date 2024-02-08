@@ -22,7 +22,29 @@
             }
           },
           {
+            "id": "aed12dd65e5ed339",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/learning domain driven design.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "231c80e61bc64a87",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "400dddd7f681f7bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/lddd - managing domain complexity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/lddd - managing domain complexity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +167,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "zettelkasten/lddd - managing domain complexity.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,9 +195,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "zettelkasten/lddd - managing domain complexity.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -200,11 +216,12 @@
   },
   "active": "231c80e61bc64a87",
   "lastOpenFiles": [
+    "output/Index.md",
+    "zettelkasten/lddd - managing domain complexity.md",
+    "zettelkasten/learning domain driven design.md",
     "assets/Screenshot 2024-02-08 at 08.31.31.png",
     "assets/Screenshot 2024-02-08 at 07.37.09.png",
     "assets/Screenshot 2024-02-07 at 07.57.18.png",
-    "zettelkasten/learning domain driven design.md",
-    "output/Index.md",
     "zettelkasten/command design pattern.md",
     "zettelkasten/amdahl's law.md",
     "output/Why Code Comments Is More Important Than You Think.md",
@@ -213,7 +230,6 @@
     "zettelkasten/reactive distributed systems.md",
     "zettelkasten/lddd - discovering domain knowledge.md",
     "zettelkasten/lddd -  analyzing business domains.md",
-    "zettelkasten/lddd - managing domain complexity.md",
     "zettelkasten/lddd - integrating bounded contexts.md",
     "zettelkasten/SOLID.md",
     "zettelkasten/object oriented design.md",
@@ -235,7 +251,6 @@
     "assets/Screenshot 2024-01-25 at 08.17.26.png",
     "assets/Screenshot 2023-12-24 at 15.14.18.png",
     "assets/Screenshot 2023-12-24 at 15.13.01.png",
-    "assets/Screenshot 2023-12-17 at 20.19.38.png",
     "output",
     "zettelkasten",
     "assets",

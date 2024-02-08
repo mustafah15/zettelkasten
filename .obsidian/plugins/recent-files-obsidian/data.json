@@ -5,12 +5,12 @@
       "path": "zettelkasten/lddd - managing domain complexity.md"
     },
     {
-      "basename": "learning domain driven design",
-      "path": "zettelkasten/learning domain driven design.md"
-    },
-    {
       "basename": "Index",
       "path": "output/Index.md"
+    },
+    {
+      "basename": "learning domain driven design",
+      "path": "zettelkasten/learning domain driven design.md"
     },
     {
       "basename": "command design pattern",
