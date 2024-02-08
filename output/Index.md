@@ -12,6 +12,7 @@ aliases:
 	- [[philosophy of software design]]
 	- [[learning domain driven design]]
 - architecture notes 
+	- [[object oriented design]]
 	- [[SOLID]]
 	- [[design patterns]]
 	- [[domain driven design]]

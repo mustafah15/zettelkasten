@@ -5,6 +5,7 @@ tags:
   - oop
 type:
   - permanent
+related:
 ---
 
 - Object-oriented programming (OOP) is a style of programming that focuses on using objects to design and build applications. Contrary to procedure-oriented programming where programs are designed as blocks of statements to manipulate data, OOP organizes the program to combine data and functionality and wrap it inside something called an “Object”.

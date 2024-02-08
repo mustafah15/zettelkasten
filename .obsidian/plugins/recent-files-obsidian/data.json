@@ -1,20 +1,64 @@
 {
   "recentFiles": [
     {
+      "basename": "lddd - managing domain complexity",
+      "path": "zettelkasten/lddd - managing domain complexity.md"
+    },
+    {
       "basename": "learning domain driven design",
       "path": "zettelkasten/learning domain driven design.md"
     },
     {
-      "basename": "lddd - managing domain complexity",
-      "path": "zettelkasten/lddd - managing domain complexity.md"
+      "basename": "Index",
+      "path": "output/Index.md"
+    },
+    {
+      "basename": "command design pattern",
+      "path": "zettelkasten/command design pattern.md"
+    },
+    {
+      "basename": "amdahl's law",
+      "path": "zettelkasten/amdahl's law.md"
+    },
+    {
+      "basename": "Why Code Comments Is More Important Than You Think",
+      "path": "output/Why Code Comments Is More Important Than You Think.md"
+    },
+    {
+      "basename": "Zettelkasten with obsidian",
+      "path": "output/Zettelkasten with obsidian.md"
+    },
+    {
+      "basename": "single responsibility",
+      "path": "zettelkasten/single responsibility.md"
+    },
+    {
+      "basename": "reactive distributed systems",
+      "path": "zettelkasten/reactive distributed systems.md"
     },
     {
       "basename": "lddd - discovering domain knowledge",
       "path": "zettelkasten/lddd - discovering domain knowledge.md"
     },
     {
-      "basename": "Index",
-      "path": "output/Index.md"
+      "basename": "lddd -  analyzing business domains",
+      "path": "zettelkasten/lddd -  analyzing business domains.md"
+    },
+    {
+      "basename": "lddd - integrating bounded contexts",
+      "path": "zettelkasten/lddd - integrating bounded contexts.md"
+    },
+    {
+      "basename": "SOLID",
+      "path": "zettelkasten/SOLID.md"
+    },
+    {
+      "basename": "object oriented design",
+      "path": "zettelkasten/object oriented design.md"
+    },
+    {
+      "basename": "Complexity In Software Design",
+      "path": "output/Complexity In Software Design.md"
     },
     {
       "basename": "lddd - converting business domain to a model",
@@ -69,10 +113,6 @@
       "path": "zettelkasten/vertical scaling.md"
     },
     {
-      "basename": "reactive distributed systems",
-      "path": "zettelkasten/reactive distributed systems.md"
-    },
-    {
       "basename": "database phantom reads",
       "path": "zettelkasten/database phantom reads.md"
     },
@@ -87,10 +127,6 @@
     {
       "basename": "database internals",
       "path": "zettelkasten/database internals.md"
-    },
-    {
-      "basename": "Zettelkasten with obsidian",
-      "path": "output/Zettelkasten with obsidian.md"
     },
     {
       "basename": "database non-repeatable reads",
@@ -153,14 +189,6 @@
       "path": "zettelkasten/strong consistency.md"
     },
     {
-      "basename": "Complexity In Software Design",
-      "path": "output/Complexity In Software Design.md"
-    },
-    {
-      "basename": "Why Code Comments Is More Important Than You Think",
-      "path": "output/Why Code Comments Is More Important Than You Think.md"
-    },
-    {
       "basename": "key characteristics of distributed systems",
       "path": "zettelkasten/key characteristics of distributed systems.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "Domain Driven Design a Practical Guide",
       "path": "zettelkasten/Domain Driven Design a Practical Guide.md"
-    },
-    {
-      "basename": "horizontal scaling",
-      "path": "zettelkasten/horizontal scaling.md"
-    },
-    {
-      "basename": "scalability vs performance",
-      "path": "zettelkasten/scalability vs performance.md"
-    },
-    {
-      "basename": "consistency",
-      "path": "zettelkasten/consistency.md"
-    },
-    {
-      "basename": "eventual consistency",
-      "path": "zettelkasten/eventual consistency.md"
-    },
-    {
-      "basename": "design patterns",
-      "path": "zettelkasten/design patterns.md"
-    },
-    {
-      "basename": "behavioural design patterns",
-      "path": "zettelkasten/behavioural design patterns.md"
-    },
-    {
-      "basename": "observer design pattern",
-      "path": "zettelkasten/observer design pattern.md"
     }
   ],
   "omittedPaths": [],

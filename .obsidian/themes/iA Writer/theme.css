@@ -1,0 +1,181 @@
+@font-face {
+  font-style: normal;
+}
+
+@font-face {
+  font-style: italic;
+}
+
+@font-face {
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  font-style: italic;
+  font-weight: bold;
+}
+
+body {
+  --h1-size: 28px;
+  --h2-size: 24px;
+  --h3-size: 20px;
+  --h4-size: 18px;
+  --h5-size: var(--font-text-size);
+  --h6-size: var(--font-text-size);
+  --vault-name-font-weight: 600;
+
+  --file-line-width: min(800px, 98vw);
+  --file-margins: 64px 32px 32px 32px;
+
+  --h1-color: var(--text-normal);
+  --link-color: var(--text-normal);
+  --text-faint: var(--text-muted);
+  --callout-title-color: var(--text-normal);
+  --link-unresolved-color: var(--text-normal);
+  --link-external-color: var(--text-normal);
+  --link-external-color-hover: var(--color-accent);
+  --checkbox-color: var(--text-muted);
+  --checkbox-border-color: var(--text-muted);
+  --list-marker-color: var(--text-muted);
+  --tab-text-color: var(--text-normal);
+  --tab-text-color-focused: var(--text-normal);
+  --tab-text-color-focused-active: var(--text-normal);
+  --tab-text-color-active: var(--text-normal);
+  --nav-item-color: var(--text-normal);
+  --nav-item-background-active: transparent;
+  --nav-item-background-hover: transparent;
+  --link-unresolved-opacity: 1;
+  --list-marker-color: var(--text-normal);
+  --titlebar-background-focused: var(--background-secondary);
+}
+
+.theme-light,
+.theme-dark {
+  --line-height-normal: 1.7;
+  --link-decoration: underline;
+  --link-unresolved-decoration-color: var(--text-muted);
+  --link-external-decoration-color: var(--text-muted);
+  --checklist-done-decoration: line-through;
+  --checkbox-color: transparent;
+  --checkbox-color-hover: transparent;
+  --checkbox-marker-color: transparent;
+}
+
+.theme-light {
+  --background-primary: #F7F7F7;
+  --background-secondary: #FCFCFC;
+  --text-normal: #1A1A1A;
+  --text-muted: #B5B3B1;
+  --text-highlight-bg: #FCEA95;
+  --text-highlight-border: 4px solid #FFD700;
+  --text-highlight-color: var(--text-normal);
+}
+
+.theme-dark {
+  --background-primary: #1B1B1B;
+  --background-secondary: #141414;
+  --text-normal: #CCC;
+  --text-muted: #707070;
+  --text-highlight-bg: #494113;
+  --text-highlight-border: 4px solid #D4B000;
+  --text-highlight-color: #DCCF99;
+}
+
+.inline-title {
+  margin-bottom: 20px;
+}
+
+.markdown-source-view.mod-cm6 .cm-content {
+  caret-color: var(--color-accent);
+}
+
+.cm-s-obsidian span.cm-hmd-internal-link:hover,
+.markdown-source-view.mod-cm6 .is-unresolved .cm-underline,
+.markdown-source-view.mod-cm6 .cm-underline,
+.cm-s-obsidian span.cm-url,
+.cm-underline {
+  text-decoration-style: dotted;
+  text-decoration-color: var(--text-muted);
+}
+
+.cm-highlight {
+  border-bottom: var(--text-highlight-border);
+}
+.cm-s-obsidian span.cm-formatting-highlight, .cm-s-obsidian span.cm-highlight {
+  color: var(--text-highlight-color);
+}
+
+.nav-file-title.is-active {
+  border-left: 5px solid var(--color-accent);
+  border-radius: 0;
+  margin-left: -10px;
+  padding-left: calc(var(--size-4-2) + 5px);
+}
+
+input[type=checkbox] {
+  border: 0;
+}
+input[type=checkbox]:checked::after,
+input[type=checkbox]:not(:checked)::after {
+  -webkit-mask-image: none;
+  font-size: var(--font-text-size);
+  width: 40px;
+  font-family: var(--font-text);
+  white-space: nowrap;
+  top: -4px;
+  left: -8px;
+  position: absolute;
+  display: block;
+}
+input[type=checkbox]:not(:checked)::after {
+  content: "[  ]";
+  color: var(--text-normal);
+}
+input[type=checkbox]:checked::after {
+  content: "[x]";
+  color: var(--text-muted);
+}
+.markdown-source-view.mod-cm6 .task-list-item-checkbox {
+  margin-left: 10px;
+}
+
+.list-bullet {
+  color: var(--list-marker-color);
+}
+.list-bullet::after {
+  display: none;
+}
+.markdown-rendered ul.has-list-bullet {
+  list-style-type: '- ';
+}
+.markdown-rendered ul.has-list-bullet > li::marker {
+  color: var(--list-marker-color);
+}
+.canvas-node-container input[type=checkbox]:checked::after,
+.canvas-node-container input[type=checkbox]:not(:checked)::after {
+  left: -12px;
+}
+
+
+.nav-buttons-container {
+  justify-content: flex-start;
+  margin-left: 8px;
+}
+
+.markdown-source-view.mod-cm6 .cm-highlight .is-unresolved {
+  color: var(--text-normal);
+}
+
+.theme-dark .cm-s-obsidian .cm-hmd-frontmatter.cm-atom {
+  color: var(--color-accent);
+}
+
+.cm-line {
+  letter-spacing: 0.02em;
+}
+
+.ͼ1 .cm-cursor {
+  /* hide the fake cursor when selecting text */
+  display: none !important;
+}

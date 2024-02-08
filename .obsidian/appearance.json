@@ -1,8 +1,11 @@
 {
-  "accentColor": "#a68af9",
-  "cssTheme": "Lemons Theme",
+  "accentColor": "#8f8f8f",
+  "cssTheme": "iA Writer",
   "textFontFamily": "Geist Mono,Monaspace Argon,Monaspace Radon,Apple SD Gothic Neo",
   "theme": "obsidian",
   "interfaceFontFamily": "",
-  "monospaceFontFamily": "Geist Mono"
+  "monospaceFontFamily": "Geist Mono",
+  "showViewHeader": false,
+  "nativeMenus": true,
+  "translucency": true
 }

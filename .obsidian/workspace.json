@@ -22,27 +22,7 @@
             }
           },
           {
-            "id": "ee78f3e906dc9b8c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "a07fe85603bccbab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/learning domain driven design.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f65db71052c304a",
+            "id": "231c80e61bc64a87",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.50247192382812
+    "width": 330.5
   },
   "right": {
     "id": "c8977f1bcbee25c3",
@@ -128,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/learning domain driven design.md",
+                "file": "zettelkasten/lddd - managing domain complexity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/learning domain driven design.md",
+                "file": "zettelkasten/lddd - managing domain complexity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/learning domain driven design.md"
+                "file": "zettelkasten/lddd - managing domain complexity.md"
               }
             }
           },
@@ -198,7 +178,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zettelkasten/learning domain driven design.md"
+                "file": "zettelkasten/lddd - managing domain complexity.md"
               }
             }
           }
@@ -218,12 +198,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a07fe85603bccbab",
+  "active": "231c80e61bc64a87",
   "lastOpenFiles": [
-    "zettelkasten/lddd - managing domain complexity.md",
+    "assets/Screenshot 2024-02-08 at 08.31.31.png",
+    "assets/Screenshot 2024-02-08 at 07.37.09.png",
+    "assets/Screenshot 2024-02-07 at 07.57.18.png",
     "zettelkasten/learning domain driven design.md",
-    "zettelkasten/lddd - discovering domain knowledge.md",
     "output/Index.md",
+    "zettelkasten/command design pattern.md",
+    "zettelkasten/amdahl's law.md",
+    "output/Why Code Comments Is More Important Than You Think.md",
+    "output/Zettelkasten with obsidian.md",
+    "zettelkasten/single responsibility.md",
+    "zettelkasten/reactive distributed systems.md",
+    "zettelkasten/lddd - discovering domain knowledge.md",
+    "zettelkasten/lddd -  analyzing business domains.md",
+    "zettelkasten/lddd - managing domain complexity.md",
+    "zettelkasten/lddd - integrating bounded contexts.md",
+    "zettelkasten/SOLID.md",
+    "zettelkasten/object oriented design.md",
+    "output/Complexity In Software Design.md",
     "zettelkasten/map of content.md",
     "zettelkasten/lddd - converting business domain to a model.md",
     "zettelkasten/lddd - using the ubiquitous language.md",
@@ -236,26 +230,12 @@
     "zettelkasten/distributed systems - async communication.md",
     "zettelkasten/message queueing.md",
     "zettelkasten/observability.md",
-    "zettelkasten/Site Reliability Engineering.md",
-    "zettelkasten/designing reactive distributed systems.md",
-    "zettelkasten/vertical scaling.md",
-    "zettelkasten/reactive distributed systems.md",
-    "zettelkasten/database phantom reads.md",
-    "zettelkasten/database read phenomenas.md",
-    "zettelkasten/database engineering.md",
-    "zettelkasten/database internals.md",
-    "output/Zettelkasten with obsidian.md",
-    "zettelkasten/database non-repeatable reads.md",
-    "zettelkasten/reactive principles.md",
-    "zettelkasten/the reactive manifesto.md",
     "assets/Screenshot 2024-01-25 at 09.17.59.png",
     "assets/Screenshot 2024-01-25 at 08.41.01.png",
     "assets/Screenshot 2024-01-25 at 08.17.26.png",
     "assets/Screenshot 2023-12-24 at 15.14.18.png",
     "assets/Screenshot 2023-12-24 at 15.13.01.png",
     "assets/Screenshot 2023-12-17 at 20.19.38.png",
-    "assets/Screenshot 2023-12-17 at 20.18.56.png",
-    "assets/Screenshot 2023-12-17 at 19.20.11.png",
     "output",
     "zettelkasten",
     "assets",
