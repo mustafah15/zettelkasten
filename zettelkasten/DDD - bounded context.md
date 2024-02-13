@@ -19,3 +19,7 @@ Bounded Context encourages an object-model-first strategy for developing service
 Also, by defining clear boundaries between bounded contexts, teams can work independently on their respective microservices without interfering with each other. This promotes better isolation and encapsulation, making it easier to maintain and modify individual microservices without impacting the rest of the system.
 
 Bounded contexts establish clear boundaries around a cohesive area of the business domain, and smaller, focused teams can own these discrete parts of business responsibilities instead of whole projects.
+
+### [[What is a Bounded Context?]]
+
+### [[lddd - scope and sizing of a bounded context|Scope and Sizing of a Bounded Context]]

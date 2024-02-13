@@ -27,4 +27,5 @@ aliases:
 - infra
 	- [[Site Reliability Engineering|SRE]]
 	- [[observability]]
-- 
+
+#system-design #book #book-notes 

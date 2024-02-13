@@ -7,8 +7,6 @@ type:
   - literature
 ---
 
---- 
-
 Domain Driven design originates from a book called Domain Driven Design by Eric Evans.
 One of the key goals of the book is to try **to create a software implementation that is based on an evolving model that is understood by the domain experts.** so largely about creating a communication channel between the domain experts and the software developers.
 As far as goals go for domain driven design one of the key goals within it is to take a large system, or a large domain and to break it down to smaller pieces. the problem that we have the larger domain you have the more harder you can deal with it and harder to model a a large singe coherent model.
@@ -22,14 +20,14 @@ thats where the DDD will help us it give us a set of guidelines and a set of tec
 	- the model represents our understanding of the domain.
 	- the software is an implementation of the model.
 
-Business domain:  business domain define a company's main area of activity, it's the service the company provides to its clients for example. 
+Business domain: The business domain define a company's main area of activity, it's the service the company provides to its clients for example. 
 	- FedEx provides courier delivery
 	- walmart is a retail establishment 
 a company can operate in multiple business domains for example amazon, it's also important to note that companies can change their business domains 
 
 ### Decomposing the domain
 - take the large domain and separate them into subdomains, our subdomains are created by grouping related ideas and actions and rules into separate domains.
-- because of that each subdomain essentially ends up having its own ubiquitous language and model. The language and model for a subdomain is what we call a [[DDD - bounded context|bounded context]],** subdomain or Bounded contexts are good starting points for building reactive microservices.
+- because of that each subdomain essentially ends up having its own [[ubiquitous language]] and model. The language and model for a subdomain is what we call a [[DDD - bounded context|bounded context]],** subdomain or Bounded contexts are good starting points for building reactive microservices.
 - from one Bounded context to the next the meaning of a word may change dramatically.
 	- in restaurant, when talking to a server, an order, has a very specific meaning.
 	- when we speaking to the person who manage inventory for the restaurant order means something completely different.
@@ -77,7 +75,6 @@ It prevents your domain from dealing with the mess of the legacy system.
 - Bounded Contexts are drawn as simple shapes
 - lines connect the Bounded Contexts to indicate relationships
 - Lines may be labeled to indicate the nature of the relationships
-
 
 
 ## [[DDD - bounded context]]

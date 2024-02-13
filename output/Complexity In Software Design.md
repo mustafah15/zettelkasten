@@ -7,8 +7,6 @@ type:
   - permanent
 dg-publish: true
 ---
->Disclaimer:
->This post is part of my notes from the [Philosophy Of Software Design](https://amzn.eu/d/3kkI2bb) book by John Ousterhout a book that I would highly recommend for every Software Engineer.
 
 Have you ever tried to change a small simple piece of code and ended up crashing the whole application, or introducing new bugs? personally, I have faced such situations many times before the codebase I was trying to fix or to change was too complex to fix or to add new simple features to it. 
 
@@ -36,4 +34,4 @@ There are two main ways that complexity can be introduced into your codebase:
 - eliminate complexity by making code simpler and more obvious, for example, complexity can be reduced by eliminating special cases or using identifiers in a function. 
 - encapsulate complexity, programmers can work on a system without being exposed to all of its complexity at once by embracing  *modular design*
 
-Finally, complexity can sneak into every codebase and it's important to know what complexity symptoms, causes, and how to fight against it in every technical decision you take during your day-to-day work to prevent complex code from building up incrementally. 
+Finally, complexity can sneak into every codebase and it's important to know what complexity symptoms, causes, and how to fight against it in every technical decision you take during your day-to-day work to prevent complex code from building up incrementally.

@@ -9,8 +9,56 @@
       "path": "output/Index.md"
     },
     {
+      "basename": "lddd - building boundaries with bounded context",
+      "path": "zettelkasten/lddd - building boundaries with bounded context.md"
+    },
+    {
+      "basename": "DDD - bounded context",
+      "path": "zettelkasten/DDD - bounded context.md"
+    },
+    {
+      "basename": "lddd - bounded context vs subdomains",
+      "path": "zettelkasten/lddd - bounded context vs subdomains.md"
+    },
+    {
+      "basename": "What is a Bounded Context?",
+      "path": "zettelkasten/What is a Bounded Context?.md"
+    },
+    {
+      "basename": "lddd - scope and sizing of a bounded context",
+      "path": "zettelkasten/lddd - scope and sizing of a bounded context.md"
+    },
+    {
+      "basename": "domain driven design",
+      "path": "zettelkasten/domain driven design.md"
+    },
+    {
+      "basename": "lddd - ubiquitous language refined",
+      "path": "zettelkasten/lddd - ubiquitous language refined.md"
+    },
+    {
+      "basename": "Domain Driven Design a Practical Guide",
+      "path": "zettelkasten/Domain Driven Design a Practical Guide.md"
+    },
+    {
       "basename": "learning domain driven design",
       "path": "zettelkasten/learning domain driven design.md"
+    },
+    {
+      "basename": "lddd - discovering domain knowledge",
+      "path": "zettelkasten/lddd - discovering domain knowledge.md"
+    },
+    {
+      "basename": "ubiquitous language",
+      "path": "zettelkasten/ubiquitous language.md"
+    },
+    {
+      "basename": "lddd - inconsistent models",
+      "path": "zettelkasten/lddd - inconsistent models.md"
+    },
+    {
+      "basename": "Complexity In Software Design",
+      "path": "output/Complexity In Software Design.md"
     },
     {
       "basename": "command design pattern",
@@ -37,10 +85,6 @@
       "path": "zettelkasten/reactive distributed systems.md"
     },
     {
-      "basename": "lddd - discovering domain knowledge",
-      "path": "zettelkasten/lddd - discovering domain knowledge.md"
-    },
-    {
       "basename": "lddd -  analyzing business domains",
       "path": "zettelkasten/lddd -  analyzing business domains.md"
     },
@@ -57,20 +101,12 @@
       "path": "zettelkasten/object oriented design.md"
     },
     {
-      "basename": "Complexity In Software Design",
-      "path": "output/Complexity In Software Design.md"
-    },
-    {
       "basename": "lddd - converting business domain to a model",
       "path": "zettelkasten/lddd - converting business domain to a model.md"
     },
     {
       "basename": "lddd - using the ubiquitous language",
       "path": "zettelkasten/lddd - using the ubiquitous language.md"
-    },
-    {
-      "basename": "ubiquitous language",
-      "path": "zettelkasten/ubiquitous language.md"
     },
     {
       "basename": "lddd - who are the domain experts",
@@ -163,42 +199,6 @@
     {
       "basename": "visitor design pattern",
       "path": "zettelkasten/visitor design pattern.md"
-    },
-    {
-      "basename": "what is a messaging system?",
-      "path": "zettelkasten/what is a messaging system?.md"
-    },
-    {
-      "basename": "what is new in PHP 8.0",
-      "path": "zettelkasten/what is new in PHP 8.0.md"
-    },
-    {
-      "basename": "what is new in PHP 8.1",
-      "path": "zettelkasten/what is new in PHP 8.1.md"
-    },
-    {
-      "basename": "what is new in PHP 8.2",
-      "path": "zettelkasten/what is new in PHP 8.2.md"
-    },
-    {
-      "basename": "what is new in PHP 8.3",
-      "path": "zettelkasten/what is new in PHP 8.3.md"
-    },
-    {
-      "basename": "strong consistency",
-      "path": "zettelkasten/strong consistency.md"
-    },
-    {
-      "basename": "key characteristics of distributed systems",
-      "path": "zettelkasten/key characteristics of distributed systems.md"
-    },
-    {
-      "basename": "contention in distributed systems",
-      "path": "zettelkasten/contention in distributed systems.md"
-    },
-    {
-      "basename": "Domain Driven Design a Practical Guide",
-      "path": "zettelkasten/Domain Driven Design a Practical Guide.md"
     }
   ],
   "omittedPaths": [],
