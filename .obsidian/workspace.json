@@ -46,24 +46,6 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "92a41710edd0b801",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "43027c612f97eca9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/lddd - managing domain complexity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           },
           {
             "id": "c22a10f01e28ff35",
@@ -73,7 +55,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -147,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/lddd - managing domain complexity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/lddd - managing domain complexity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,9 +167,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "zettelkasten/lddd - managing domain complexity.md"
-              }
+              "state": {}
             }
           },
           {
@@ -216,9 +195,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "zettelkasten/lddd - managing domain complexity.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -237,11 +214,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "43027c612f97eca9",
+  "active": "c22a10f01e28ff35",
   "lastOpenFiles": [
+    "zettelkasten/lddd - managing domain complexity.md",
     "output/Index.md",
     "zettelkasten/lddd - building boundaries with bounded context.md",
-    "zettelkasten/lddd - managing domain complexity.md",
     "zettelkasten/DDD - bounded context.md",
     "zettelkasten/lddd - bounded context vs subdomains.md",
     "zettelkasten/What is a Bounded Context?.md",
