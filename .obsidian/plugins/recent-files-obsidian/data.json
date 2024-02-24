@@ -5,6 +5,22 @@
       "path": "zettelkasten/lddd - integrating bounded contexts.md"
     },
     {
+      "basename": "bounded context - context map",
+      "path": "zettelkasten/bounded context - context map.md"
+    },
+    {
+      "basename": "lddd - integrating bounded context with separate-ways or duplication",
+      "path": "zettelkasten/lddd - integrating bounded context with separate-ways or duplication.md"
+    },
+    {
+      "basename": "lddd - integrating bounded context with customer-supplier pattern",
+      "path": "zettelkasten/lddd - integrating bounded context with customer-supplier pattern.md"
+    },
+    {
+      "basename": "lddd - integrating bounded context with cooperation pattern",
+      "path": "zettelkasten/lddd - integrating bounded context with cooperation pattern.md"
+    },
+    {
       "basename": "conformist pattern",
       "path": "zettelkasten/conformist pattern.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "amdahl's law",
       "path": "zettelkasten/amdahl's law.md"
-    },
-    {
-      "basename": "Why Code Comments Is More Important Than You Think",
-      "path": "output/Why Code Comments Is More Important Than You Think.md"
-    },
-    {
-      "basename": "Zettelkasten with obsidian",
-      "path": "output/Zettelkasten with obsidian.md"
-    },
-    {
-      "basename": "single responsibility",
-      "path": "zettelkasten/single responsibility.md"
-    },
-    {
-      "basename": "reactive distributed systems",
-      "path": "zettelkasten/reactive distributed systems.md"
     }
   ],
   "omittedPaths": [],
