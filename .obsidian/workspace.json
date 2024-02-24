@@ -36,27 +36,39 @@
             }
           },
           {
-            "id": "400dddd7f681f7bc",
+            "id": "3ec8b0d49280ca3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/lddd - building boundaries with bounded context.md",
+                "file": "zettelkasten/conjoined methods.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c22a10f01e28ff35",
+            "id": "a4a4144795eb014f",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "cff7e63eadeb7100",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/lddd - integrating bounded contexts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ubiquitous",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "zettelkasten/lddd - integrating bounded contexts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "zettelkasten/lddd - integrating bounded contexts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "zettelkasten/lddd - integrating bounded contexts.md"
+              }
             }
           },
           {
@@ -195,7 +211,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "zettelkasten/lddd - integrating bounded contexts.md"
+              }
             }
           }
         ]
@@ -214,44 +232,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c22a10f01e28ff35",
+  "active": "cff7e63eadeb7100",
   "lastOpenFiles": [
-    "zettelkasten/lddd - managing domain complexity.md",
-    "output/Index.md",
-    "zettelkasten/lddd - building boundaries with bounded context.md",
+    "assets/Screenshot 2024-02-21 at 08.34.43.png",
     "zettelkasten/DDD - bounded context.md",
-    "zettelkasten/lddd - bounded context vs subdomains.md",
-    "zettelkasten/What is a Bounded Context?.md",
-    "zettelkasten/lddd - scope and sizing of a bounded context.md",
-    "zettelkasten/domain driven design.md",
-    "zettelkasten/lddd - ubiquitous language refined.md",
-    "zettelkasten/Domain Driven Design a Practical Guide.md",
+    "zettelkasten/lddd - integrating bounded contexts.md",
+    "assets/Screenshot 2024-02-20 at 21.02.33.png",
+    "assets/Screenshot 2024-02-20 at 20.43.59.png",
     "zettelkasten/learning domain driven design.md",
-    "zettelkasten/lddd - discovering domain knowledge.md",
-    "zettelkasten/ubiquitous language.md",
-    "zettelkasten/lddd - inconsistent models.md",
-    "output/Complexity In Software Design.md",
+    "output/Index.md",
+    "README.md",
+    "zettelkasten/availability and reliability.md",
+    "zettelkasten/adapter design pattern.md",
+    "zettelkasten/cognitive load.md",
+    "zettelkasten/consistency.md",
+    "zettelkasten/classitis.md",
+    "zettelkasten/ACID.md",
+    "zettelkasten/chain of responsibility design pattern.md",
+    "zettelkasten/POSD - information leakage.md",
+    "zettelkasten/unknown unknowns.md",
+    "zettelkasten/SOLID.md",
+    "zettelkasten/reactive principles.md",
+    "zettelkasten/SLIs.md",
+    "zettelkasten/strategy design pattern.md",
+    "zettelkasten/application performance management.md",
+    "zettelkasten/SLAs.md",
+    "zettelkasten/POSD - how to write better comments - don't repeat the code.md",
+    "zettelkasten/POSD - how to write better comments.md",
+    "zettelkasten/TypeScript.md",
+    "zettelkasten/lddd - supporting subdomain.md",
+    "zettelkasten/lddd - types of subdomains.md",
     "assets/Screenshot 2024-02-08 at 08.31.31.png",
     "assets/Screenshot 2024-02-08 at 07.37.09.png",
     "assets/Screenshot 2024-02-07 at 07.57.18.png",
-    "zettelkasten/command design pattern.md",
-    "zettelkasten/amdahl's law.md",
-    "output/Why Code Comments Is More Important Than You Think.md",
-    "output/Zettelkasten with obsidian.md",
-    "zettelkasten/single responsibility.md",
-    "zettelkasten/reactive distributed systems.md",
-    "zettelkasten/lddd -  analyzing business domains.md",
-    "zettelkasten/lddd - integrating bounded contexts.md",
-    "zettelkasten/SOLID.md",
-    "zettelkasten/object oriented design.md",
-    "zettelkasten/map of content.md",
     "assets/baby-graph.png",
     "assets/Screenshot 2024-01-27 at 12.02.14.png",
     "assets/Screenshot 2024-01-25 at 09.17.59.png",
     "assets/Screenshot 2024-01-25 at 08.41.01.png",
     "assets/Screenshot 2024-01-25 at 08.17.26.png",
-    "assets/Screenshot 2023-12-24 at 15.14.18.png",
-    "assets/Screenshot 2023-12-24 at 15.13.01.png",
     "output",
     "zettelkasten",
     "assets",
