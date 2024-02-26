@@ -58,17 +58,49 @@
           {
             "id": "cff7e63eadeb7100",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/lddd - integrating bounded contexts.md",
+                "file": "zettelkasten/lddd - integrating bounded context with customer-supplier pattern.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "213513e33b9a8609",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/bounded contexts context map.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
+      },
+      {
+        "id": "3390560dab20028e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18a29f58b49aa7bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/lddd - integrating bounded context with separate-ways or duplication.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/lddd - integrating bounded contexts.md",
+                "file": "zettelkasten/bounded contexts context map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/lddd - integrating bounded contexts.md",
+                "file": "zettelkasten/bounded contexts context map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/lddd - integrating bounded contexts.md"
+                "file": "zettelkasten/bounded contexts context map.md"
               }
             }
           },
@@ -212,7 +244,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zettelkasten/lddd - integrating bounded contexts.md"
+                "file": "zettelkasten/bounded contexts context map.md"
               }
             }
           }
@@ -232,13 +264,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cff7e63eadeb7100",
+  "active": "213513e33b9a8609",
   "lastOpenFiles": [
-    "zettelkasten/bounded context - context map.md",
     "zettelkasten/lddd - integrating bounded contexts.md",
     "zettelkasten/lddd - integrating bounded context with separate-ways or duplication.md",
     "zettelkasten/lddd - integrating bounded context with customer-supplier pattern.md",
     "zettelkasten/lddd - integrating bounded context with cooperation pattern.md",
+    "zettelkasten/integrating bounded contexts with open-host service.md",
+    "zettelkasten/integrating bounded contexts with anticorruption layer.md",
+    "zettelkasten/integrating bounded contexts with conformist pattern.md",
+    "zettelkasten/customer-supplier.md",
+    "zettelkasten/bounded contexts context map.md",
+    "zettelkasten/bounded context shared kernel.md",
+    "zettelkasten/lddd - integrating bounded contexts with partnership.md",
     "assets/Screenshot 2024-02-24 at 08.56.42.png",
     "assets/Screenshot 2024-02-24 at 08.05.09.png",
     "assets/Screenshot 2024-02-24 at 07.56.18.png",
@@ -262,12 +300,6 @@
     "zettelkasten/chain of responsibility design pattern.md",
     "zettelkasten/POSD - information leakage.md",
     "zettelkasten/unknown unknowns.md",
-    "zettelkasten/SOLID.md",
-    "zettelkasten/reactive principles.md",
-    "zettelkasten/SLIs.md",
-    "zettelkasten/strategy design pattern.md",
-    "zettelkasten/application performance management.md",
-    "zettelkasten/SLAs.md",
     "assets/Screenshot 2024-02-08 at 08.31.31.png",
     "assets/Screenshot 2024-02-08 at 07.37.09.png",
     "output",

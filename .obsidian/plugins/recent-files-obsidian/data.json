@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "lddd - integrating bounded contexts",
-      "path": "zettelkasten/lddd - integrating bounded contexts.md"
+      "basename": "bounded contexts context map",
+      "path": "zettelkasten/bounded contexts context map.md"
     },
     {
-      "basename": "bounded context - context map",
-      "path": "zettelkasten/bounded context - context map.md"
+      "basename": "lddd - integrating bounded contexts",
+      "path": "zettelkasten/lddd - integrating bounded contexts.md"
     },
     {
       "basename": "lddd - integrating bounded context with separate-ways or duplication",
@@ -19,6 +19,30 @@
     {
       "basename": "lddd - integrating bounded context with cooperation pattern",
       "path": "zettelkasten/lddd - integrating bounded context with cooperation pattern.md"
+    },
+    {
+      "basename": "integrating bounded contexts with open-host service",
+      "path": "zettelkasten/integrating bounded contexts with open-host service.md"
+    },
+    {
+      "basename": "integrating bounded contexts with anticorruption layer",
+      "path": "zettelkasten/integrating bounded contexts with anticorruption layer.md"
+    },
+    {
+      "basename": "integrating bounded contexts with conformist pattern",
+      "path": "zettelkasten/integrating bounded contexts with conformist pattern.md"
+    },
+    {
+      "basename": "customer-supplier",
+      "path": "zettelkasten/customer-supplier.md"
+    },
+    {
+      "basename": "bounded context shared kernel",
+      "path": "zettelkasten/bounded context shared kernel.md"
+    },
+    {
+      "basename": "lddd - integrating bounded contexts with partnership",
+      "path": "zettelkasten/lddd - integrating bounded contexts with partnership.md"
     },
     {
       "basename": "conformist pattern",
@@ -175,30 +199,6 @@
     {
       "basename": "Domain Driven Design a Practical Guide",
       "path": "zettelkasten/Domain Driven Design a Practical Guide.md"
-    },
-    {
-      "basename": "lddd - discovering domain knowledge",
-      "path": "zettelkasten/lddd - discovering domain knowledge.md"
-    },
-    {
-      "basename": "ubiquitous language",
-      "path": "zettelkasten/ubiquitous language.md"
-    },
-    {
-      "basename": "lddd - inconsistent models",
-      "path": "zettelkasten/lddd - inconsistent models.md"
-    },
-    {
-      "basename": "Complexity In Software Design",
-      "path": "output/Complexity In Software Design.md"
-    },
-    {
-      "basename": "command design pattern",
-      "path": "zettelkasten/command design pattern.md"
-    },
-    {
-      "basename": "amdahl's law",
-      "path": "zettelkasten/amdahl's law.md"
     }
   ],
   "omittedPaths": [],

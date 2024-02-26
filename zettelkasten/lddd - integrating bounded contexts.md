@@ -17,10 +17,10 @@ DDD Patterns for defining relationships and integration between bounded contexts
 
 Cooperation, Customer-Supplier, and Separate Ways.
 
-## [[lddd - integrating bounded context with cooperation pattern]]
+## [[lddd - integrating bounded context with cooperation pattern|cooperation patterns]]
 
-## [[lddd - integrating bounded context with customer-supplier pattern]]
+## [[lddd - integrating bounded context with customer-supplier pattern|customer-supplier pattern]]
 
-## [[lddd - integrating bounded context with separate-ways or duplication]]
+## [[lddd - integrating bounded context with separate-ways or duplication|separate-ways pattern]]
 
-## [[bounded context - context map]]
+## [[bounded contexts context map]]
