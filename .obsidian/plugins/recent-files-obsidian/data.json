@@ -1,6 +1,106 @@
 {
   "recentFiles": [
     {
+      "basename": "Index",
+      "path": "output/Index.md"
+    },
+    {
+      "basename": "building knowledge base",
+      "path": "output/building knowledge base.md"
+    },
+    {
+      "basename": "lddd - integrating bounded contexts",
+      "path": "zettelkasten/lddd - integrating bounded contexts.md"
+    },
+    {
+      "basename": "bounded contexts context map",
+      "path": "zettelkasten/bounded contexts context map.md"
+    },
+    {
+      "basename": "lddd - integrating bounded context with separate-ways or duplication",
+      "path": "zettelkasten/lddd - integrating bounded context with separate-ways or duplication.md"
+    },
+    {
+      "basename": "lddd - integrating bounded context with customer-supplier pattern",
+      "path": "zettelkasten/lddd - integrating bounded context with customer-supplier pattern.md"
+    },
+    {
+      "basename": "lddd - integrating bounded contexts with anticorruption layer",
+      "path": "zettelkasten/lddd - integrating bounded contexts with anticorruption layer.md"
+    },
+    {
+      "basename": "lddd - integrating bounded contexts with open-host service",
+      "path": "zettelkasten/lddd - integrating bounded contexts with open-host service.md"
+    },
+    {
+      "basename": "lddd - integrating bounded contexts with conformist pattern",
+      "path": "zettelkasten/lddd - integrating bounded contexts with conformist pattern.md"
+    },
+    {
+      "basename": "lddd - integrating bounded context with cooperation pattern",
+      "path": "zettelkasten/lddd - integrating bounded context with cooperation pattern.md"
+    },
+    {
+      "basename": "bounded context shared kernel",
+      "path": "zettelkasten/bounded context shared kernel.md"
+    },
+    {
+      "basename": "lddd - integrating bounded contexts with partnership",
+      "path": "zettelkasten/lddd - integrating bounded contexts with partnership.md"
+    },
+    {
+      "basename": "learning domain driven design",
+      "path": "zettelkasten/learning domain driven design.md"
+    },
+    {
+      "basename": "lddd - managing domain complexity",
+      "path": "zettelkasten/lddd - managing domain complexity.md"
+    },
+    {
+      "basename": "lddd - what is a bounded context?",
+      "path": "zettelkasten/lddd - what is a bounded context?.md"
+    },
+    {
+      "basename": "lddd - building boundaries with bounded context",
+      "path": "zettelkasten/lddd - building boundaries with bounded context.md"
+    },
+    {
+      "basename": "lddd - bounded context ownership boundaries",
+      "path": "zettelkasten/lddd - bounded context ownership boundaries.md"
+    },
+    {
+      "basename": "lddd - bounded context physical boundaries",
+      "path": "zettelkasten/lddd - bounded context physical boundaries.md"
+    },
+    {
+      "basename": "lddd - bounded context vs subdomains",
+      "path": "zettelkasten/lddd - bounded context vs subdomains.md"
+    },
+    {
+      "basename": "lddd - model boundaries",
+      "path": "zettelkasten/lddd - model boundaries.md"
+    },
+    {
+      "basename": "lddd - scope of a bounded context",
+      "path": "zettelkasten/lddd - scope of a bounded context.md"
+    },
+    {
+      "basename": "lddd - semantic domains",
+      "path": "zettelkasten/lddd - semantic domains.md"
+    },
+    {
+      "basename": "lddd - size of a bounded context",
+      "path": "zettelkasten/lddd - size of a bounded context.md"
+    },
+    {
+      "basename": "lddd - inconsistent models",
+      "path": "zettelkasten/lddd - inconsistent models.md"
+    },
+    {
+      "basename": "lddd - bounded contexts in real life",
+      "path": "zettelkasten/lddd - bounded contexts in real life.md"
+    },
+    {
       "basename": "lddd - discovering domain knowledge",
       "path": "zettelkasten/lddd - discovering domain knowledge.md"
     },
@@ -45,10 +145,6 @@
       "path": "zettelkasten/lddd - business problem discovery.md"
     },
     {
-      "basename": "learning domain driven design",
-      "path": "zettelkasten/learning domain driven design.md"
-    },
-    {
       "basename": "lddd -  analyzing business domains",
       "path": "zettelkasten/lddd -  analyzing business domains.md"
     },
@@ -73,60 +169,12 @@
       "path": "zettelkasten/lddd - subdomain.md"
     },
     {
-      "basename": "Index",
-      "path": "output/Index.md"
-    },
-    {
-      "basename": "building knowledge base",
-      "path": "output/building knowledge base.md"
-    },
-    {
-      "basename": "lddd - integrating bounded contexts",
-      "path": "zettelkasten/lddd - integrating bounded contexts.md"
-    },
-    {
-      "basename": "lddd - integrating bounded context with cooperation pattern",
-      "path": "zettelkasten/lddd - integrating bounded context with cooperation pattern.md"
-    },
-    {
       "basename": "domain driven design",
       "path": "zettelkasten/domain driven design.md"
     },
     {
-      "basename": "lddd - integrating bounded contexts with partnership",
-      "path": "zettelkasten/lddd - integrating bounded contexts with partnership.md"
-    },
-    {
-      "basename": "lddd - integrating bounded context with customer-supplier pattern",
-      "path": "zettelkasten/lddd - integrating bounded context with customer-supplier pattern.md"
-    },
-    {
-      "basename": "integrating bounded contexts with conformist pattern",
-      "path": "zettelkasten/integrating bounded contexts with conformist pattern.md"
-    },
-    {
-      "basename": "bounded contexts context map",
-      "path": "zettelkasten/bounded contexts context map.md"
-    },
-    {
-      "basename": "lddd - integrating bounded context with separate-ways or duplication",
-      "path": "zettelkasten/lddd - integrating bounded context with separate-ways or duplication.md"
-    },
-    {
-      "basename": "integrating bounded contexts with open-host service",
-      "path": "zettelkasten/integrating bounded contexts with open-host service.md"
-    },
-    {
-      "basename": "integrating bounded contexts with anticorruption layer",
-      "path": "zettelkasten/integrating bounded contexts with anticorruption layer.md"
-    },
-    {
       "basename": "customer-supplier",
       "path": "zettelkasten/customer-supplier.md"
-    },
-    {
-      "basename": "bounded context shared kernel",
-      "path": "zettelkasten/bounded context shared kernel.md"
     },
     {
       "basename": "conformist pattern",
@@ -151,54 +199,6 @@
     {
       "basename": "adapter design pattern",
       "path": "zettelkasten/adapter design pattern.md"
-    },
-    {
-      "basename": "cognitive load",
-      "path": "zettelkasten/cognitive load.md"
-    },
-    {
-      "basename": "consistency",
-      "path": "zettelkasten/consistency.md"
-    },
-    {
-      "basename": "classitis",
-      "path": "zettelkasten/classitis.md"
-    },
-    {
-      "basename": "ACID",
-      "path": "zettelkasten/ACID.md"
-    },
-    {
-      "basename": "chain of responsibility design pattern",
-      "path": "zettelkasten/chain of responsibility design pattern.md"
-    },
-    {
-      "basename": "POSD - information leakage",
-      "path": "zettelkasten/POSD - information leakage.md"
-    },
-    {
-      "basename": "unknown unknowns",
-      "path": "zettelkasten/unknown unknowns.md"
-    },
-    {
-      "basename": "SOLID",
-      "path": "zettelkasten/SOLID.md"
-    },
-    {
-      "basename": "reactive principles",
-      "path": "zettelkasten/reactive principles.md"
-    },
-    {
-      "basename": "SLIs",
-      "path": "zettelkasten/SLIs.md"
-    },
-    {
-      "basename": "strategy design pattern",
-      "path": "zettelkasten/strategy design pattern.md"
-    },
-    {
-      "basename": "application performance management",
-      "path": "zettelkasten/application performance management.md"
     }
   ],
   "omittedPaths": [],

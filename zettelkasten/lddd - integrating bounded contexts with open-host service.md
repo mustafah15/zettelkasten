@@ -15,7 +15,7 @@ to protect the consumers from changes in its implementation model the upstream s
 ![[Screenshot 2024-02-24 at 07.56.18.png]]
 
 the supplier public interface is not intended to conform to its ubiquitous language instead it is intended to expose a protocol convenient for the consumers expressed in an integration-oriented language as such the public protocol is called the published language
-in a sense, the open-host service pattern is a reversal of the [[integrating bounded contexts with anticorruption layer|anti-corruption layer]] instead of the consumer the supplier implements the translation of its internal model
+in a sense, the open-host service pattern is a reversal of the [[lddd - integrating bounded contexts with anticorruption layer|anti-corruption layer]] instead of the consumer the supplier implements the translation of its internal model
 
 Decoupling the bounded context's implementation and integration models gives the upstream bounded context the freedom to evolve its implementation without affecting the downstream contexts this is only possible if the modified implementation model can be translated into the published language the consumer already using. 
 

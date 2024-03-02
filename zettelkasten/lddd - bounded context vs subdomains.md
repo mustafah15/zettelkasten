@@ -8,18 +8,14 @@ aliases:
   - Bounded Contexts Vs Subdomains
 related: "[[lddd - managing domain complexity]]"
 ---
- 
 
 At first, the two methods of decomposing the business domain might seem redundant, however, that is not the case, we will show why we need both boundaries 
-
 ### subdomains 
 According to DDD methodology, the analysis phase involves identifying the different subdomains (core, supporting, and generic), that's how the organization works and plans its competitive strategy, a subdomain resembles a set of interrelated use cases the use case is defined by the business domain and the system's requirements. As software engineer, we don't define the requirement instead we are analysing the business domain to identify the subdomains. 
 ### Bounded Contexts
-
 Bounded Contexts on the other hand are designed, choosing models' boundaries is a strategic design decision. we decide how to divide the business domain into smaller manageable problem domains. 
 
 ### The interplay between subdomains and bounded context 
-
 Theoretically, though impractically a single model could span the entire business domain this strategy could work for a small system
 ![[Screenshot 2024-02-08 at 08.31.31.png]]
 when conflicting models arise, we can follow the domain experts' mental models and decompose the systems into bounded contexts

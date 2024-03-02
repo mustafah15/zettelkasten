@@ -20,6 +20,6 @@ Also, by defining clear boundaries between bounded contexts, teams can work inde
 
 Bounded contexts establish clear boundaries around a cohesive area of the business domain, and smaller, focused teams can own these discrete parts of business responsibilities instead of whole projects.
 
-### [[What is a Bounded Context?]]
+### [[lddd - what is a bounded context?]]
 
 ### [[lddd - scope and sizing of a bounded context|Scope and Sizing of a Bounded Context]]

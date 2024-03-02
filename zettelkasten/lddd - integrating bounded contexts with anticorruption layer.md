@@ -9,7 +9,7 @@ aliases:
   - anti-corruption layer
 ---
 ### Anticorruption Layer
-As we are still in the [[lddd - integrating bounded context with customer-supplier pattern|customer-supplier pattern]] and if the balance of power is still toward the upstream service as in the [[integrating bounded contexts with conformist pattern|conformist]] case, however, in this case, the downstream bounded context is not willing to conform instead it can translate the upstream bounded context's model into a model tailored to its own needs via an anticorruption layer as shown below 
+As we are still in the [[lddd - integrating bounded context with customer-supplier pattern|customer-supplier pattern]] and if the balance of power is still toward the upstream service as in the [[lddd - integrating bounded contexts with conformist pattern|conformist]] case, however, in this case, the downstream bounded context is not willing to conform instead it can translate the upstream bounded context's model into a model tailored to its own needs via an anticorruption layer as shown below 
 
 ![[Screenshot 2024-02-24 at 07.34.56.png]]
 
