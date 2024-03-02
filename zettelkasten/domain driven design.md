@@ -27,7 +27,7 @@ a company can operate in multiple business domains for example amazon, it's also
 
 ### Decomposing the domain
 - take the large domain and separate them into subdomains, our subdomains are created by grouping related ideas and actions and rules into separate domains.
-- because of that each subdomain essentially ends up having its own [[ubiquitous language]] and model. The language and model for a subdomain is what we call a [[DDD - bounded context|bounded context]],** subdomain or Bounded contexts are good starting points for building reactive microservices.
+- because of that each subdomain essentially ends up having its own [[lddd - ubiquitous language]] and model. The language and model for a subdomain is what we call a [[DDD - bounded context|bounded context]],** subdomain or Bounded contexts are good starting points for building reactive microservices.
 - from one Bounded context to the next the meaning of a word may change dramatically.
 	- in restaurant, when talking to a server, an order, has a very specific meaning.
 	- when we speaking to the person who manage inventory for the restaurant order means something completely different.

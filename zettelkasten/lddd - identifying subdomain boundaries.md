@@ -21,5 +21,5 @@ on the other hand, we cannot drill down indefinitely looking for insights at low
 
 ### Focus on the essentials
 subdomains are a tool that alleviates the process of making software design decisions. All organizations likely have a quite few business functionalities that drive their competitive advantage but have nothing to do with software.
-When looking for subdomains it's important to identify business functions that re not related to software, acknowledge them as such, and focus on aspects of the business that re relevant to the software system you are working on.
+When looking for subdomains it's important to identify business functions that are not related to software, acknowledge them as such, and focus on aspects of the business that are relevant to the software system you are working on.
 

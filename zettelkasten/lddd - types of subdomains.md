@@ -10,9 +10,9 @@ aliases:
 ---
 ## types of subdomains
 
+subdomains bear different business values, domain-driven design distinguishes between three types of subdomains: core, generic, and supporting. 
 
-subdomains bear different business values, domain-driven design distinguishes between three types of subdomains: core, generic and supporting. 
+## 1- [[lddd - core subdomain]]
+## 2- [[lddd - generic subdomain]]
+## 3- [[lddd - supporting subdomain]]
 
-[[lddd - core subdomain]]
-[[lddd - generic subdomain]]
-[[lddd - supporting subdomain]]

@@ -1,24 +1,116 @@
 {
   "recentFiles": [
     {
-      "basename": "bounded contexts context map",
-      "path": "zettelkasten/bounded contexts context map.md"
+      "basename": "lddd - discovering domain knowledge",
+      "path": "zettelkasten/lddd - discovering domain knowledge.md"
+    },
+    {
+      "basename": "lddd - converting business domain to a model",
+      "path": "zettelkasten/lddd - converting business domain to a model.md"
+    },
+    {
+      "basename": "lddd - what is a model",
+      "path": "zettelkasten/lddd - what is a model.md"
+    },
+    {
+      "basename": "lddd - effective modeling",
+      "path": "zettelkasten/lddd - effective modeling.md"
+    },
+    {
+      "basename": "lddd - modeling the business domain",
+      "path": "zettelkasten/lddd - modeling the business domain.md"
+    },
+    {
+      "basename": "lddd - communication",
+      "path": "zettelkasten/lddd - communication.md"
+    },
+    {
+      "basename": "lddd - ubiquitous language",
+      "path": "zettelkasten/lddd - ubiquitous language.md"
+    },
+    {
+      "basename": "lddd - using the ubiquitous language",
+      "path": "zettelkasten/lddd - using the ubiquitous language.md"
+    },
+    {
+      "basename": "lddd - knowledge discovery",
+      "path": "zettelkasten/lddd - knowledge discovery.md"
+    },
+    {
+      "basename": "lddd - who are the domain experts",
+      "path": "zettelkasten/lddd - who are the domain experts.md"
+    },
+    {
+      "basename": "lddd - business problem discovery",
+      "path": "zettelkasten/lddd - business problem discovery.md"
+    },
+    {
+      "basename": "learning domain driven design",
+      "path": "zettelkasten/learning domain driven design.md"
+    },
+    {
+      "basename": "lddd -  analyzing business domains",
+      "path": "zettelkasten/lddd -  analyzing business domains.md"
+    },
+    {
+      "basename": "lddd - identifying subdomain boundaries",
+      "path": "zettelkasten/lddd - identifying subdomain boundaries.md"
+    },
+    {
+      "basename": "lddd - subdomains as coherent use cases",
+      "path": "zettelkasten/lddd - subdomains as coherent use cases.md"
+    },
+    {
+      "basename": "lddd - types of subdomains",
+      "path": "zettelkasten/lddd - types of subdomains.md"
+    },
+    {
+      "basename": "lddd - comparing subdomains",
+      "path": "zettelkasten/lddd - comparing subdomains.md"
+    },
+    {
+      "basename": "lddd - subdomain",
+      "path": "zettelkasten/lddd - subdomain.md"
+    },
+    {
+      "basename": "Index",
+      "path": "output/Index.md"
+    },
+    {
+      "basename": "building knowledge base",
+      "path": "output/building knowledge base.md"
     },
     {
       "basename": "lddd - integrating bounded contexts",
       "path": "zettelkasten/lddd - integrating bounded contexts.md"
     },
     {
-      "basename": "lddd - integrating bounded context with separate-ways or duplication",
-      "path": "zettelkasten/lddd - integrating bounded context with separate-ways or duplication.md"
+      "basename": "lddd - integrating bounded context with cooperation pattern",
+      "path": "zettelkasten/lddd - integrating bounded context with cooperation pattern.md"
+    },
+    {
+      "basename": "domain driven design",
+      "path": "zettelkasten/domain driven design.md"
+    },
+    {
+      "basename": "lddd - integrating bounded contexts with partnership",
+      "path": "zettelkasten/lddd - integrating bounded contexts with partnership.md"
     },
     {
       "basename": "lddd - integrating bounded context with customer-supplier pattern",
       "path": "zettelkasten/lddd - integrating bounded context with customer-supplier pattern.md"
     },
     {
-      "basename": "lddd - integrating bounded context with cooperation pattern",
-      "path": "zettelkasten/lddd - integrating bounded context with cooperation pattern.md"
+      "basename": "integrating bounded contexts with conformist pattern",
+      "path": "zettelkasten/integrating bounded contexts with conformist pattern.md"
+    },
+    {
+      "basename": "bounded contexts context map",
+      "path": "zettelkasten/bounded contexts context map.md"
+    },
+    {
+      "basename": "lddd - integrating bounded context with separate-ways or duplication",
+      "path": "zettelkasten/lddd - integrating bounded context with separate-ways or duplication.md"
     },
     {
       "basename": "integrating bounded contexts with open-host service",
@@ -29,10 +121,6 @@
       "path": "zettelkasten/integrating bounded contexts with anticorruption layer.md"
     },
     {
-      "basename": "integrating bounded contexts with conformist pattern",
-      "path": "zettelkasten/integrating bounded contexts with conformist pattern.md"
-    },
-    {
       "basename": "customer-supplier",
       "path": "zettelkasten/customer-supplier.md"
     },
@@ -41,24 +129,12 @@
       "path": "zettelkasten/bounded context shared kernel.md"
     },
     {
-      "basename": "lddd - integrating bounded contexts with partnership",
-      "path": "zettelkasten/lddd - integrating bounded contexts with partnership.md"
-    },
-    {
       "basename": "conformist pattern",
       "path": "zettelkasten/conformist pattern.md"
     },
     {
-      "basename": "learning domain driven design",
-      "path": "zettelkasten/learning domain driven design.md"
-    },
-    {
       "basename": "conjoined methods",
       "path": "zettelkasten/conjoined methods.md"
-    },
-    {
-      "basename": "Index",
-      "path": "output/Index.md"
     },
     {
       "basename": "DDD - bounded context",
@@ -123,82 +199,6 @@
     {
       "basename": "application performance management",
       "path": "zettelkasten/application performance management.md"
-    },
-    {
-      "basename": "SLAs",
-      "path": "zettelkasten/SLAs.md"
-    },
-    {
-      "basename": "POSD - how to write better comments - don't repeat the code",
-      "path": "zettelkasten/POSD - how to write better comments - don't repeat the code.md"
-    },
-    {
-      "basename": "POSD - how to write better comments",
-      "path": "zettelkasten/POSD - how to write better comments.md"
-    },
-    {
-      "basename": "TypeScript",
-      "path": "zettelkasten/TypeScript.md"
-    },
-    {
-      "basename": "lddd - supporting subdomain",
-      "path": "zettelkasten/lddd - supporting subdomain.md"
-    },
-    {
-      "basename": "lddd - types of subdomains",
-      "path": "zettelkasten/lddd - types of subdomains.md"
-    },
-    {
-      "basename": "lddd -  analyzing business domains",
-      "path": "zettelkasten/lddd -  analyzing business domains.md"
-    },
-    {
-      "basename": "Site Reliability Engineering",
-      "path": "zettelkasten/Site Reliability Engineering.md"
-    },
-    {
-      "basename": "how SLOs help businesses make decisions",
-      "path": "zettelkasten/how SLOs help businesses make decisions.md"
-    },
-    {
-      "basename": "philosophy of software design",
-      "path": "zettelkasten/philosophy of software design.md"
-    },
-    {
-      "basename": "change amplification",
-      "path": "zettelkasten/change amplification.md"
-    },
-    {
-      "basename": "lddd - managing domain complexity",
-      "path": "zettelkasten/lddd - managing domain complexity.md"
-    },
-    {
-      "basename": "lddd - building boundaries with bounded context",
-      "path": "zettelkasten/lddd - building boundaries with bounded context.md"
-    },
-    {
-      "basename": "lddd - bounded context vs subdomains",
-      "path": "zettelkasten/lddd - bounded context vs subdomains.md"
-    },
-    {
-      "basename": "What is a Bounded Context?",
-      "path": "zettelkasten/What is a Bounded Context?.md"
-    },
-    {
-      "basename": "lddd - scope and sizing of a bounded context",
-      "path": "zettelkasten/lddd - scope and sizing of a bounded context.md"
-    },
-    {
-      "basename": "domain driven design",
-      "path": "zettelkasten/domain driven design.md"
-    },
-    {
-      "basename": "lddd - ubiquitous language refined",
-      "path": "zettelkasten/lddd - ubiquitous language refined.md"
-    },
-    {
-      "basename": "Domain Driven Design a Practical Guide",
-      "path": "zettelkasten/Domain Driven Design a Practical Guide.md"
     }
   ],
   "omittedPaths": [],

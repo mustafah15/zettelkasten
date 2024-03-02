@@ -22,85 +22,41 @@
             }
           },
           {
-            "id": "aed12dd65e5ed339",
+            "id": "213513e33b9a8609",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/learning domain driven design.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "graph",
+              "state": {},
               "pinned": true
             }
           },
           {
-            "id": "3ec8b0d49280ca3d",
+            "id": "6b5260ac3f1c4f82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/conjoined methods.md",
+                "file": "output/building knowledge base.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a4a4144795eb014f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "cff7e63eadeb7100",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/lddd - integrating bounded context with customer-supplier pattern.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "213513e33b9a8609",
+            "id": "7f396ee4acd7a9c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/bounded contexts context map.md",
+                "file": "zettelkasten/lddd - discovering domain knowledge.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
-      },
-      {
-        "id": "3390560dab20028e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "18a29f58b49aa7bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/lddd - integrating bounded context with separate-ways or duplication.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -154,11 +110,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 330.5,
+    "collapsed": true
   },
   "right": {
     "id": "c8977f1bcbee25c3",
@@ -174,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/bounded contexts context map.md",
+                "file": "zettelkasten/lddd - discovering domain knowledge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/bounded contexts context map.md",
+                "file": "zettelkasten/lddd - discovering domain knowledge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zettelkasten/bounded contexts context map.md"
+                "file": "zettelkasten/lddd - discovering domain knowledge.md"
               }
             }
           },
@@ -244,7 +202,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "zettelkasten/bounded contexts context map.md"
+                "file": "zettelkasten/lddd - discovering domain knowledge.md"
               }
             }
           }
@@ -264,42 +222,42 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "213513e33b9a8609",
+  "active": "7f396ee4acd7a9c5",
   "lastOpenFiles": [
+    "zettelkasten/lddd - converting business domain to a model.md",
+    "zettelkasten/lddd - what is a model.md",
+    "zettelkasten/lddd - effective modeling.md",
+    "zettelkasten/lddd - modeling the business domain.md",
+    "zettelkasten/lddd - discovering domain knowledge.md",
+    "zettelkasten/lddd - communication.md",
+    "zettelkasten/lddd - ubiquitous language.md",
+    "zettelkasten/lddd - using the ubiquitous language.md",
+    "zettelkasten/lddd - knowledge discovery.md",
+    "zettelkasten/lddd - who are the domain experts.md",
+    "zettelkasten/lddd - business problem discovery.md",
+    "zettelkasten/learning domain driven design.md",
+    "zettelkasten/lddd -  analyzing business domains.md",
+    "zettelkasten/lddd - identifying subdomain boundaries.md",
+    "zettelkasten/lddd - subdomains as coherent use cases.md",
+    "zettelkasten/lddd - types of subdomains.md",
+    "zettelkasten/lddd - comparing subdomains.md",
+    "zettelkasten/lddd - subdomain.md",
+    "output/Index.md",
+    "output/building knowledge base.md",
     "zettelkasten/lddd - integrating bounded contexts.md",
-    "zettelkasten/lddd - integrating bounded context with separate-ways or duplication.md",
-    "zettelkasten/lddd - integrating bounded context with customer-supplier pattern.md",
     "zettelkasten/lddd - integrating bounded context with cooperation pattern.md",
-    "zettelkasten/integrating bounded contexts with open-host service.md",
-    "zettelkasten/integrating bounded contexts with anticorruption layer.md",
-    "zettelkasten/integrating bounded contexts with conformist pattern.md",
-    "zettelkasten/customer-supplier.md",
-    "zettelkasten/bounded contexts context map.md",
-    "zettelkasten/bounded context shared kernel.md",
+    "zettelkasten/domain driven design.md",
     "zettelkasten/lddd - integrating bounded contexts with partnership.md",
+    "zettelkasten/lddd - integrating bounded context with customer-supplier pattern.md",
+    "zettelkasten/integrating bounded contexts with conformist pattern.md",
     "assets/Screenshot 2024-02-24 at 08.56.42.png",
     "assets/Screenshot 2024-02-24 at 08.05.09.png",
     "assets/Screenshot 2024-02-24 at 07.56.18.png",
     "assets/Screenshot 2024-02-24 at 07.34.56.png",
-    "zettelkasten/conformist pattern.md",
-    "zettelkasten/learning domain driven design.md",
-    "zettelkasten/conjoined methods.md",
-    "output/Index.md",
     "assets/Screenshot 2024-02-24 at 07.12.32.png",
     "assets/Screenshot 2024-02-21 at 08.34.43.png",
-    "zettelkasten/DDD - bounded context.md",
     "assets/Screenshot 2024-02-20 at 21.02.33.png",
     "assets/Screenshot 2024-02-20 at 20.43.59.png",
-    "README.md",
-    "zettelkasten/availability and reliability.md",
-    "zettelkasten/adapter design pattern.md",
-    "zettelkasten/cognitive load.md",
-    "zettelkasten/consistency.md",
-    "zettelkasten/classitis.md",
-    "zettelkasten/ACID.md",
-    "zettelkasten/chain of responsibility design pattern.md",
-    "zettelkasten/POSD - information leakage.md",
-    "zettelkasten/unknown unknowns.md",
     "assets/Screenshot 2024-02-08 at 08.31.31.png",
     "assets/Screenshot 2024-02-08 at 07.37.09.png",
     "output",
