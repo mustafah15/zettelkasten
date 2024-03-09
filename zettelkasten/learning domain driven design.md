@@ -15,5 +15,7 @@ aliases:
 	- [[lddd - discovering domain knowledge]]
 	- [[lddd - managing domain complexity]]
 	- [[lddd - integrating bounded contexts]]
+	- [[lddd - implementing simple business logic]]
 	- 
 
+[book mindmap](https://miro.com/app/board/uXjVNlhm7aY=/?share_link_id=251848206241)

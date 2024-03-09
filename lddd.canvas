@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"883004e5697b7a84","x":-173,"y":632,"width":400,"height":400,"type":"file","file":"zettelkasten/lddd - effective modeling.md"},
+		{"id":"188763bc5e11b328","x":-329,"y":-234,"width":345,"height":50,"color":"1","type":"text","text":"learning domain driven design "},
+		{"id":"d750936bd4b77000","x":-393,"y":196,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"04c511ce86d2eb8a","fromNode":"188763bc5e11b328","fromSide":"right","toNode":"d750936bd4b77000","toSide":"left"},
+		{"id":"0c7212248e420ac5","fromNode":"d750936bd4b77000","fromSide":"bottom","toNode":"883004e5697b7a84","toSide":"top"}
+	]
+}

@@ -19,6 +19,14 @@ aliases:
 	- [[distributed systems]]
 	- [[reactive distributed systems]]
 	- [[database engineering]]
+	- [[common distributed system patterns]]
+		- Backend for front end (BFF)
+		- SAGA pattern
+		- circuit breaker pattern
+		- bulkhead pattern
+		- sidecar pattern
+		- outbox pattern
+		- CQRS
 - tools
 	- [[PHP]]
 	- [[TypeScript]]

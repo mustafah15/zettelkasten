@@ -1,16 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "lddd - implementing simple business logic",
+      "path": "zettelkasten/lddd - implementing simple business logic.md"
+    },
+    {
+      "basename": "transaction script pattern",
+      "path": "zettelkasten/transaction script pattern.md"
+    },
+    {
+      "basename": "lddd - supporting subdomain",
+      "path": "zettelkasten/lddd - supporting subdomain.md"
+    },
+    {
+      "basename": "3 ways to corrupt your data when using transaction script",
+      "path": "zettelkasten/3 ways to corrupt your data when using transaction script.md"
+    },
+    {
+      "basename": "learning domain driven design",
+      "path": "zettelkasten/learning domain driven design.md"
+    },
+    {
       "basename": "Index",
       "path": "output/Index.md"
     },
     {
-      "basename": "building knowledge base",
-      "path": "output/building knowledge base.md"
+      "basename": "How Building a Personal Knowledge Base Helping me as a Software Engineer",
+      "path": "output/How Building a Personal Knowledge Base Helping me as a Software Engineer.md"
+    },
+    {
+      "basename": "lddd",
+      "path": "lddd.canvas"
+    },
+    {
+      "basename": "lddd - discovering domain knowledge",
+      "path": "zettelkasten/lddd - discovering domain knowledge.md"
+    },
+    {
+      "basename": "lddd - communication",
+      "path": "zettelkasten/lddd - communication.md"
+    },
+    {
+      "basename": "lddd - effective modeling",
+      "path": "zettelkasten/lddd - effective modeling.md"
     },
     {
       "basename": "lddd - integrating bounded contexts",
       "path": "zettelkasten/lddd - integrating bounded contexts.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "bounded contexts context map",
@@ -47,10 +87,6 @@
     {
       "basename": "lddd - integrating bounded contexts with partnership",
       "path": "zettelkasten/lddd - integrating bounded contexts with partnership.md"
-    },
-    {
-      "basename": "learning domain driven design",
-      "path": "zettelkasten/learning domain driven design.md"
     },
     {
       "basename": "lddd - managing domain complexity",
@@ -101,10 +137,6 @@
       "path": "zettelkasten/lddd - bounded contexts in real life.md"
     },
     {
-      "basename": "lddd - discovering domain knowledge",
-      "path": "zettelkasten/lddd - discovering domain knowledge.md"
-    },
-    {
       "basename": "lddd - converting business domain to a model",
       "path": "zettelkasten/lddd - converting business domain to a model.md"
     },
@@ -113,16 +145,8 @@
       "path": "zettelkasten/lddd - what is a model.md"
     },
     {
-      "basename": "lddd - effective modeling",
-      "path": "zettelkasten/lddd - effective modeling.md"
-    },
-    {
       "basename": "lddd - modeling the business domain",
       "path": "zettelkasten/lddd - modeling the business domain.md"
-    },
-    {
-      "basename": "lddd - communication",
-      "path": "zettelkasten/lddd - communication.md"
     },
     {
       "basename": "lddd - ubiquitous language",
@@ -175,30 +199,6 @@
     {
       "basename": "customer-supplier",
       "path": "zettelkasten/customer-supplier.md"
-    },
-    {
-      "basename": "conformist pattern",
-      "path": "zettelkasten/conformist pattern.md"
-    },
-    {
-      "basename": "conjoined methods",
-      "path": "zettelkasten/conjoined methods.md"
-    },
-    {
-      "basename": "DDD - bounded context",
-      "path": "zettelkasten/DDD - bounded context.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "availability and reliability",
-      "path": "zettelkasten/availability and reliability.md"
-    },
-    {
-      "basename": "adapter design pattern",
-      "path": "zettelkasten/adapter design pattern.md"
     }
   ],
   "omittedPaths": [],

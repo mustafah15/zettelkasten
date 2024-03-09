@@ -2,9 +2,8 @@
 tags:
   - output
 ---
-## Building a Personal Knowledge base
----
-## Why?
+
+## The Problem
 ---
 ## Taking Smart Notes Can Help
 ---
@@ -15,6 +14,18 @@ tags:
 
 ---
 ## How I use obsidian to build My Knowledge base
+--- 
+### File structure
+--- 
+### Namespacing 
+--- 
+### Tags
+--- 
+### Related To
+--- 
+### Note Type
+--- 
+
 
 
 
