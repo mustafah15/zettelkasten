@@ -5,28 +5,40 @@
       "path": "zettelkasten/lddd - implementing simple business logic.md"
     },
     {
-      "basename": "transaction script pattern",
-      "path": "zettelkasten/transaction script pattern.md"
-    },
-    {
-      "basename": "lddd - supporting subdomain",
-      "path": "zettelkasten/lddd - supporting subdomain.md"
-    },
-    {
-      "basename": "3 ways to corrupt your data when using transaction script",
-      "path": "zettelkasten/3 ways to corrupt your data when using transaction script.md"
+      "basename": "active record pattern",
+      "path": "zettelkasten/active record pattern.md"
     },
     {
       "basename": "learning domain driven design",
       "path": "zettelkasten/learning domain driven design.md"
     },
     {
-      "basename": "Index",
-      "path": "output/Index.md"
+      "basename": "lddd -  analyzing business domains",
+      "path": "zettelkasten/lddd -  analyzing business domains.md"
     },
     {
       "basename": "How Building a Personal Knowledge Base Helping me as a Software Engineer",
       "path": "output/How Building a Personal Knowledge Base Helping me as a Software Engineer.md"
+    },
+    {
+      "basename": "Index",
+      "path": "output/Index.md"
+    },
+    {
+      "basename": "lddd - managing domain complexity",
+      "path": "zettelkasten/lddd - managing domain complexity.md"
+    },
+    {
+      "basename": "transaction script pattern",
+      "path": "zettelkasten/transaction script pattern.md"
+    },
+    {
+      "basename": "3 ways to corrupt your data when using transaction script",
+      "path": "zettelkasten/3 ways to corrupt your data when using transaction script.md"
+    },
+    {
+      "basename": "lddd - supporting subdomain",
+      "path": "zettelkasten/lddd - supporting subdomain.md"
     },
     {
       "basename": "lddd",
@@ -87,10 +99,6 @@
     {
       "basename": "lddd - integrating bounded contexts with partnership",
       "path": "zettelkasten/lddd - integrating bounded contexts with partnership.md"
-    },
-    {
-      "basename": "lddd - managing domain complexity",
-      "path": "zettelkasten/lddd - managing domain complexity.md"
     },
     {
       "basename": "lddd - what is a bounded context?",
@@ -169,10 +177,6 @@
       "path": "zettelkasten/lddd - business problem discovery.md"
     },
     {
-      "basename": "lddd -  analyzing business domains",
-      "path": "zettelkasten/lddd -  analyzing business domains.md"
-    },
-    {
       "basename": "lddd - identifying subdomain boundaries",
       "path": "zettelkasten/lddd - identifying subdomain boundaries.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "domain driven design",
       "path": "zettelkasten/domain driven design.md"
-    },
-    {
-      "basename": "customer-supplier",
-      "path": "zettelkasten/customer-supplier.md"
     }
   ],
   "omittedPaths": [],

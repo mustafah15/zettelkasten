@@ -2,7 +2,9 @@
 tags:
   - output
 ---
+## How Building a Personal Knowledge Base Helping me as a Software Engineer
 
+----
 ## The Problem
 ---
 ## Taking Smart Notes Can Help
@@ -15,9 +17,11 @@ tags:
 ---
 ## How I use obsidian to build My Knowledge base
 --- 
+### Index 
+---
 ### File structure
 --- 
-### Namespacing 
+### Title & Namespacing 
 --- 
 ### Tags
 --- 

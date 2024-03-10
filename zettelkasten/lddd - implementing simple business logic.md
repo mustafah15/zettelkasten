@@ -10,4 +10,5 @@ since not all business subdomains are created equal, different subdomains have d
 
 ## [[transaction script pattern]]
 
-### [[active record pattern]]
+## [[active record pattern]]
+
