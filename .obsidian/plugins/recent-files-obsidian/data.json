@@ -1,28 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "lddd - implementing simple business logic",
-      "path": "zettelkasten/lddd - implementing simple business logic.md"
+      "basename": "Index",
+      "path": "output/Index.md"
     },
     {
-      "basename": "active record pattern",
-      "path": "zettelkasten/active record pattern.md"
-    },
-    {
-      "basename": "learning domain driven design",
-      "path": "zettelkasten/learning domain driven design.md"
-    },
-    {
-      "basename": "lddd -  analyzing business domains",
-      "path": "zettelkasten/lddd -  analyzing business domains.md"
+      "basename": "object oriented design",
+      "path": "zettelkasten/object oriented design.md"
     },
     {
       "basename": "How Building a Personal Knowledge Base Helping me as a Software Engineer",
       "path": "output/How Building a Personal Knowledge Base Helping me as a Software Engineer.md"
     },
     {
-      "basename": "Index",
-      "path": "output/Index.md"
+      "basename": "Why Code Comments Is More Important Than You Think",
+      "path": "output/Why Code Comments Is More Important Than You Think.md"
+    },
+    {
+      "basename": "Complexity In Software Design",
+      "path": "output/Complexity In Software Design.md"
+    },
+    {
+      "basename": "active record pattern",
+      "path": "zettelkasten/active record pattern.md"
+    },
+    {
+      "basename": "lddd - knowledge discovery",
+      "path": "zettelkasten/lddd - knowledge discovery.md"
+    },
+    {
+      "basename": "lddd - business problem discovery",
+      "path": "zettelkasten/lddd - business problem discovery.md"
+    },
+    {
+      "basename": "lddd - discovering domain knowledge",
+      "path": "zettelkasten/lddd - discovering domain knowledge.md"
+    },
+    {
+      "basename": "lddd - communication",
+      "path": "zettelkasten/lddd - communication.md"
+    },
+    {
+      "basename": "lddd - ubiquitous language",
+      "path": "zettelkasten/lddd - ubiquitous language.md"
+    },
+    {
+      "basename": "lddd - using the ubiquitous language",
+      "path": "zettelkasten/lddd - using the ubiquitous language.md"
+    },
+    {
+      "basename": "learning domain driven design",
+      "path": "zettelkasten/learning domain driven design.md"
+    },
+    {
+      "basename": "lddd - implementing simple business logic",
+      "path": "zettelkasten/lddd - implementing simple business logic.md"
+    },
+    {
+      "basename": "lddd -  analyzing business domains",
+      "path": "zettelkasten/lddd -  analyzing business domains.md"
     },
     {
       "basename": "lddd - managing domain complexity",
@@ -43,14 +79,6 @@
     {
       "basename": "lddd",
       "path": "lddd.canvas"
-    },
-    {
-      "basename": "lddd - discovering domain knowledge",
-      "path": "zettelkasten/lddd - discovering domain knowledge.md"
-    },
-    {
-      "basename": "lddd - communication",
-      "path": "zettelkasten/lddd - communication.md"
     },
     {
       "basename": "lddd - effective modeling",
@@ -157,24 +185,8 @@
       "path": "zettelkasten/lddd - modeling the business domain.md"
     },
     {
-      "basename": "lddd - ubiquitous language",
-      "path": "zettelkasten/lddd - ubiquitous language.md"
-    },
-    {
-      "basename": "lddd - using the ubiquitous language",
-      "path": "zettelkasten/lddd - using the ubiquitous language.md"
-    },
-    {
-      "basename": "lddd - knowledge discovery",
-      "path": "zettelkasten/lddd - knowledge discovery.md"
-    },
-    {
       "basename": "lddd - who are the domain experts",
       "path": "zettelkasten/lddd - who are the domain experts.md"
-    },
-    {
-      "basename": "lddd - business problem discovery",
-      "path": "zettelkasten/lddd - business problem discovery.md"
     },
     {
       "basename": "lddd - identifying subdomain boundaries",
@@ -183,22 +195,6 @@
     {
       "basename": "lddd - subdomains as coherent use cases",
       "path": "zettelkasten/lddd - subdomains as coherent use cases.md"
-    },
-    {
-      "basename": "lddd - types of subdomains",
-      "path": "zettelkasten/lddd - types of subdomains.md"
-    },
-    {
-      "basename": "lddd - comparing subdomains",
-      "path": "zettelkasten/lddd - comparing subdomains.md"
-    },
-    {
-      "basename": "lddd - subdomain",
-      "path": "zettelkasten/lddd - subdomain.md"
-    },
-    {
-      "basename": "domain driven design",
-      "path": "zettelkasten/domain driven design.md"
     }
   ],
   "omittedPaths": [],

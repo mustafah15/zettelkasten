@@ -12,6 +12,7 @@ Like the [[transaction script pattern]] active record supports cases where the b
 
 operating on such data structure via a simple transaction script would result in lots of repetitive code the mapping of the data to an in-memory representation would be duplicated all over
 
+
 ### Implementation 
 Consequently, this pattern uses dedicated objects known as active records to represent a complicated data structure, Apart from the data structure, these objects also implement data access methods for creating, reading updating, and deleting records as a result the active record objects are coupled to an ORM or some other data access framework, the pattern name is derived from the fact that each data structure is "active" that is it implements the data access logic
 

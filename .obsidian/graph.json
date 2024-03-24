@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
-  "search": "",
-  "showTags": true,
+  "search": "doma",
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
@@ -17,6 +17,6 @@
   "repelStrength": 9.76318359375,
   "linkStrength": 0.283976236979167,
   "linkDistance": 205,
-  "scale": 0.5480414366402597,
+  "scale": 1.2541025474399554,
   "close": false
 }
