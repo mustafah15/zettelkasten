@@ -14,6 +14,7 @@ related: "[[domain driven design]]"
     - the action has not yet happened and it can be rejected.
     - Usually delivers to aa specific destination causes a change to the state of the domain.
     - Eg. Add an item to an order, pay a bill.
+
 - Events
     - Events are another type of activities in the domain.
     - They represent an action that happened in the past.

@@ -9,6 +9,9 @@ Transaction is a collection of queries that form a transaction ref: [[database t
 
 - A transaction is a collection of instructions. to maintain the integrity of a database, all transactions must obey ACID properties. ACID stands for atomicity, consistency, isolation and durability.
 
+ACID is important 
+
+
 - **Atomicity**
 	- **A transaction is an atomic unit; as all the instructions within a transaction will successfully execute, or none of them will execute.** The following transaction transfers 20 dollars from a bank account to another bank account. if any of the instructions fail, the entire transaction should abort and roll back. an atomic transaction is a transaction that will rollback all queries if one or more queries failed.
 - **Consistency**
