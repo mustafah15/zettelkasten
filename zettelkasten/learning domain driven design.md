@@ -15,7 +15,10 @@ aliases:
 	- [[lddd - discovering domain knowledge]]
 	- [[lddd - managing domain complexity]]
 	- [[lddd - integrating bounded contexts]]
+- Tactical Design
 	- [[lddd - implementing simple business logic]]
+	- [[lddd - tackling complex business logic]]
+- DDD In Practice 
 	- 
 
-[book mindmap](https://miro.com/app/board/uXjVNlhm7aY=/?share_link_id=251848206241)
+[[mindmap - learning domain driven design]]

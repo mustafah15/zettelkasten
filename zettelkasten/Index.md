@@ -8,10 +8,10 @@ dg-publish: true
 aliases:
   - Map Of Content
 ---
-- book notes
+- Books Notes
 	- [[philosophy of software design]]
 	- [[learning domain driven design]]
-- architecture notes 
+- Architecture Notes 
 	- [[object oriented design]]
 	- [[SOLID]]
 	- [[design patterns]]
@@ -25,14 +25,14 @@ aliases:
 		- circuit breaker pattern
 		- bulkhead pattern
 		- sidecar pattern
-		- outbox pattern
+		- [[outbox pattern]]
 		- CQRS
-- tools
+- Tools
 	- [[PHP]]
 	- [[TypeScript]]
 	- [[Go Lang]]
 	- [[kafka]]
-- infra
+- Infra
 	- [[Site Reliability Engineering|SRE]]
 	- [[observability]]
 

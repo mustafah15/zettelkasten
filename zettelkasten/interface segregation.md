@@ -4,7 +4,7 @@ tags:
   - oop
 related: "[[SOLID]]"
 type:
-  - fleeting
+  - literature
 ---
 
 

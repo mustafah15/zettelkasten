@@ -70,5 +70,13 @@ mindmap-plugin: basic
         - implementation
         - when to use
 - tackling complex business logic
+    - domain model pattern
+        - implementation
+        - 3 building blocks
+            - value object
+            - aggregates
+            - domain service
+        - managing complexity
+- modeling the dimension of time
 
 ## DDD In Practice

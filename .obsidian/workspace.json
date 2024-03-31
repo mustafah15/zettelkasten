@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "output/Index.md",
+                "file": "zettelkasten/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "output/Index.md",
+                "file": "zettelkasten/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "output/Index.md",
+                "file": "zettelkasten/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "output/Index.md"
+                "file": "zettelkasten/Index.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "output/Index.md"
+                "file": "zettelkasten/Index.md"
               }
             }
           }
@@ -184,10 +184,10 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "466093033ce9702e",
+  "active": "00358b6c1458fa23",
   "lastOpenFiles": [
     "output/Untitled.md",
-    "output/Index.md",
+    "zettelkasten/Index.md",
     "zettelkasten/object oriented design.md",
     "output/Index 1.md",
     "output/How Building a Personal Knowledge Base Helping me as a Software Engineer.md",

@@ -2,7 +2,7 @@
 tags:
   - database
 type:
-  - fleeting
+  - literature
 aliases:
 ---
 - Consistency in Data
