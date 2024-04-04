@@ -10,8 +10,8 @@ related: "[[philosophy of software design]]"
 
 It's all about complexity 
 
-**but what is complexity**? complexity is anything related to the structure of a software system that makes it hard to understand and modify the system
-
+### **but what is complexity**? 
+[[Complexity]] is anything related to the structure of a software system that makes it hard to understand and modify the system
 
 Complexity can take many forms for example it might be hard to understand how a new piece of code works, and it might take a lot of effort to implement a small improvement, you also can think of complexity in terms of cost and benefit. complex systems it takes a lot of work to implement even small improvements. in a simple system, larger improvements can be implemented with less effort.
 
