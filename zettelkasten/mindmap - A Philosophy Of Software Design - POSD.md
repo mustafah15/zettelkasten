@@ -56,3 +56,12 @@ mindmap-plugin: basic
 - [[pass-through variables]]
     - why do pass-through variables add complexity?
 - [[POSD - When is interface duplication okay?]]
+
+## [[POSD - better together or better apart]]
+- [[POSD - Bring Modules Together If]]
+- [[POSD - separate general-purpose and special-purpose code]]
+- [[POSD - Module Division and Complexity]]
+- [[POSD - Splitting and Joining Methods]]
+- [[POSD - Code Repetition]]
+
+## [[POSD - pull complexity downwards]]
