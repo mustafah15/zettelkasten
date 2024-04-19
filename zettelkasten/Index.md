@@ -1,6 +1,7 @@
 ---
 tags:
   - writing
+  - Index
 type:
   - permanent
 dg-home: true
@@ -8,10 +9,10 @@ dg-publish: true
 aliases:
   - Map Of Content
 ---
-- Books Notes
+- book notes
 	- [[philosophy of software design]]
 	- [[learning domain driven design]]
-- Architecture Notes 
+- architecture notes 
 	- [[object oriented design]]
 	- [[SOLID]]
 	- [[design patterns]]
@@ -20,19 +21,14 @@ aliases:
 	- [[reactive distributed systems]]
 	- [[database engineering]]
 	- [[common distributed system patterns]]
-		- Backend for front end (BFF)
-		- SAGA pattern
-		- circuit breaker pattern
-		- bulkhead pattern
-		- sidecar pattern
-		- [[outbox pattern]]
-		- CQRS
-- Tools
+- tools
 	- [[PHP]]
 	- [[TypeScript]]
 	- [[Go Lang]]
 	- [[kafka]]
-- Infra
+- infrastructure
 	- [[Site Reliability Engineering|SRE]]
 	- [[observability]]
+	- [[Kubernetes]]
+	- 
 
