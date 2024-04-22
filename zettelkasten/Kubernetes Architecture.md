@@ -16,8 +16,10 @@ What if a node that is running your application fails => and your application go
 ## Cluster 
 A cluster is a set of nodes grouped together, this way if one node fails you have your application still accessible from the other nodes, having more nodes helps to share the load as well 
 
-## Master
+## Master Node
 the master is another node with Kubernetes installed on it and it's configured as a master, the master watches over the other nodes in the cluster and is responsible for the actual orchestration of containers on the worker nodes.
+
+## [[Kubernetes Pod]]
 
 
 ## Components 

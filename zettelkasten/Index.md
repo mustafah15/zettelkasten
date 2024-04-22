@@ -30,5 +30,5 @@ aliases:
 	- [[Site Reliability Engineering|SRE]]
 	- [[observability]]
 	- [[Kubernetes]]
-	- 
-
+- soft skills
+	- [staff engineer path](https://www.ebooks.com/en-de/book/210670147/the-staff-engineer-s-path/tanya-reilly/) 

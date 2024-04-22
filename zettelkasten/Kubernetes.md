@@ -8,6 +8,7 @@ type:
 ---
 
 - [[Kubernetes Architecture]]
+- 
 - [[Kubernetes Configuration]]
 - Kubernetes Multi-Container Pods
 - Kubernetes Observability 
