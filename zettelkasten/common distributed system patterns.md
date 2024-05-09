@@ -1,0 +1,12 @@
+---
+tags:
+  - system-design
+  - distributed-systems
+---
+- Backend for front end (BFF)
+- SAGA pattern
+- circuit breaker pattern
+- bulkhead pattern
+- sidecar pattern
+- [[outbox pattern]]
+- CQRS

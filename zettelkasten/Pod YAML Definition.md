@@ -21,4 +21,4 @@ these are the top-level or root-level properties these are also required fields 
 to create a pod from a def file you can run this command 
 ```bash
 	kubectl create -f pod-definition.ymls
-```
+- [ ] ```
