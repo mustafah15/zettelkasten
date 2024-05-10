@@ -3,6 +3,7 @@ tags:
   - kubernetes
   - infrastructure
 ---
+[[Kubernetes YAML Definition Files]]
 
 A Kubernetes definition file always contains 
 four top-level fields 
