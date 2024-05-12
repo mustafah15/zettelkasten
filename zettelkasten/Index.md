@@ -26,6 +26,7 @@ aliases:
 	- [[TypeScript]]
 	- [[Go Lang]]
 	- [[kafka]]
+- [[platform engineering]]
 - infrastructure
 	- [[Site Reliability Engineering|SRE]]
 	- [[observability]]
