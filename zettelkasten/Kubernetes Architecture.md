@@ -7,15 +7,18 @@ type:
 related: "[[Kubernetes]]"
 ---
 
-## [[Kubernetes Node]]
+### [[Kubernetes Node]]
 
-## [[Kubernetes Cluster]] 
+### [[Kubernetes Cluster]] 
 
-## [[Kubernetes Pod]]
+### [[Kubernetes Pod]]
 
-## [[Kubernetes - replication controller and replicaSets]]
+### [[Kubernetes - replication controller and replicaSets]]
 
-## [[Kubernetes Components]]
+### [[Kubernetes Components]]
 
-## [[Kubernetes - Master vs Worker Nodes]]
+### [[Kubernetes - Master vs Worker Nodes]]
 
+### [[Kubernetes deployments]]
+
+### [[Kubernetes Namespaces]]

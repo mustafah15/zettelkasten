@@ -1,7 +1,7 @@
 ---
 tags:
   - platform-engineering
-type: fleeting
+type: literature
 ---
 
 ## What is Platform Engineering 
@@ -28,20 +28,21 @@ platform engineering is the discipline of designing and building toolchains and 
 - Why Internal Platform?
 	- Providing Developers with self-service option and at the same time driving standardization IDPs boost developer productivity and developer experience through a reduction in waiting time or manual work for operations. 
 	- Every company/team has their own needs for IDP
-- How IDP help teams to build innovate faster
+- How IDP help teams to build and **innovate** faster
 	- DEVEOPER CONTROL PLANE
 	- INTEGRATION DELIVERY PLANE
 	- RESOURCE PLANE
 	- SECURITY PLANE
 	- OBSERVABILITY PLANE
 	- 
-	- building a platform layer on top of the infrastructure that product teams can use without going deep into infra ca
+	- building a platform layer on top of the infrastructure that product teams can use without going deep into
 	- having a shared solution for common problems. 
 	- Building a base for Product teams to use so they can kick-start their work directly without starting from scratch.
  
-
-- platform as a product 
-	- thoughtworks tech radar 2017 and then was popularized among the broader audiencece in team topolgies book 
+- platform as a product (PAAP)
+	- thoughtworks tech radar 2017 and then was popularized among the broader audiencece in team topologies book
+	- in this context platform as a product means building a platform that is customer focused with product teams as the primary customers of the platform having platform engineering teams take ownership of the core functionality of the platform layer. 
+	- following a (PAAP) mindset, the platform built by the internal platform team competes against other solutions, platform teams needs to start everything based on user research check engineers pain points and figure out what they really need, you need to identify what tasks that causes most pain and try to fix these issue to have better developer experience 
 
 resources and links:
 - https://www.youtube.com/@PlatformEngineering
