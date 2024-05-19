@@ -22,3 +22,5 @@ related: "[[Kubernetes]]"
 ### [[Kubernetes deployments]]
 
 ### [[Kubernetes Namespaces]]
+
+[[Kubernetes Commands]]

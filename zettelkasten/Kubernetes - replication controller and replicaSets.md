@@ -61,4 +61,7 @@ spec:
         image: us-docker.pkg.dev/google-samples/containers/gke/gb-frontend:v5
 ```
 
-in a replica set a selector is required however in a replication controller it is not the case the controller will pick up the labels that were provided under the pod template section also in a replica set situation the replica set can control pods that were already created before even not by the replica set itself as long the label are matched 
+
+> [!NOTE] replica set vs replication controller
+> in a replica set a selector is required however in a replication controller it is not the case the controller will pick up the labels that were provided under the pod template section also in a replica set situation the replica set can control pods that were already created before even not by the replica set itself as long the label are matched 
+
