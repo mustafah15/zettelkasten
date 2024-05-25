@@ -8,5 +8,5 @@ tags:
 - circuit breaker pattern
 - bulkhead pattern
 - sidecar pattern
-- [[outbox pattern]]
+- [[transactional outbox pattern]]
 - CQRS
