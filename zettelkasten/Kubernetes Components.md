@@ -12,4 +12,4 @@ when you are installing Kubernetes on the system you are actually installing the
 - **kubelet**: is the agent that runs on each node in the cluster, the agent is responsible for making sure that the containers are running on the node as expected
 - **container runtime**: the underlying software that is used to run containers (docker)
 - **controller**: the brain behind or orchestration they're responsible for noticing and responding when nodes, containers, or endpoints go down.
-- **scheduler**: is responsible for distributing work or containers across multiple nodes. 
+- **[[Kubernetes scheduler]]**: is responsible for distributing work or containers across multiple nodes. 

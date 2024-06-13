@@ -9,5 +9,6 @@ related: "[[Kubernetes]]"
 - ### [[Kubernetes - env variables]]
 - ### [[Kubernetes - configMaps]]
 - ### [[Kubernetes - secrets]]
-- [[Kubernetes - security contexts]]
-- 
+- ### [[Kubernetes - security contexts]]
+- ### [[Kubernetes - Service Accounts]]
+- ### [[Kubernetes - Resource Requirements]]
