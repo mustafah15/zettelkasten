@@ -12,3 +12,6 @@ tmux
 - https://www.youtube.com/watch?v=DzNmUNvnB04
 see also for vscode
 - https://www.youtube.com/watch?v=aPTv60w1upk
+keymaps
+- https://www.youtube.com/watch?v=5BU2gBOe9RU
+- https://www.youtube.com/watch?v=nBjEzQlJLHE

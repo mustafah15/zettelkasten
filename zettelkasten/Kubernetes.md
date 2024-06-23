@@ -11,7 +11,7 @@ type:
 - [[Kubernetes Configuration]]
 - [[Kubernetes YAML Definition Files]]
 - Kubernetes Multi-Container Pods
-- Kubernetes Observability 
+- Kubernetes Observability
 - Kubernetes POD Design
 - Kubernetes Service and Networking
 - Kubernetes State

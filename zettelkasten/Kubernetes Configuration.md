@@ -12,3 +12,5 @@ related: "[[Kubernetes]]"
 - ### [[Kubernetes - security contexts]]
 - ### [[Kubernetes - Service Accounts]]
 - ### [[Kubernetes - Resource Requirements]]
+- ### [[Kubernetes - Taints and Tolerations]]
+- 
