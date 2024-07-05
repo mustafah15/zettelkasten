@@ -5,6 +5,7 @@ tags:
 related: "[[learning domain driven design|lddd]]"
 type:
   - literature
+aliases: []
 ---
 not only does the bounded context protect the consistency of a ubiquitous language but it also enables modeling, you can't build a model without specifying its purpose and its boundary the boundary divides the responsibility of languages as A language in one bounded context can model the business domain to solve a particular problem another bounded context can represent the same business entities but model them to solve a different problem. 
 

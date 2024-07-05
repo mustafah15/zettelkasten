@@ -13,4 +13,6 @@ related: "[[Kubernetes]]"
 - ### [[Kubernetes - Service Accounts]]
 - ### [[Kubernetes - Resource Requirements]]
 - ### [[Kubernetes - Taints and Tolerations]]
+- ### [[Kubernetes - Node Selectors]]
+- ### [[Kubernetes - Node Affinity]]
 - 

@@ -18,4 +18,4 @@ this problem can be solved by implementing the outbox pattern which works as fol
 - when the message is successfully sent this event record should marked as done or to be deleted from the outbox table to avoid sending it again
 ![](https://miro.medium.com/v2/resize:fit:700/0*Ac8lQUigqikXPIVF.png)
 
-
+[[Outbox Pattern vs Two-Phase Commit]]
