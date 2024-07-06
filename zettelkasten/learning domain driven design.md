@@ -9,6 +9,8 @@ type:
   - literature
 aliases:
   - lddd
+author:
+  - Vlad Khononov
 ---
 - Strategic Design
 	- [[lddd -  analyzing business domains]]

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0748f6285fca2b4d",
+        "id": "9ab5d1f8ad5a1cfe",
         "type": "tabs",
         "children": [
           {
-            "id": "466093033ce9702e",
+            "id": "3bd7f21b6cbbaf7e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/Index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zettelkasten/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zettelkasten/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "zettelkasten/Index.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,9 +154,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "zettelkasten/Index.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -184,7 +174,7 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "00358b6c1458fa23",
+  "active": "3bd7f21b6cbbaf7e",
   "lastOpenFiles": [
     "output/Untitled.md",
     "zettelkasten/Index.md",

@@ -4,10 +4,15 @@ tags:
   - book
 type:
   - literature
-related:
+author:
+  - John Ousterhout
 ---
 - How to use this book 
 	- the best way to use this book is in conjunction with code reviews when you read other people's code, think about whether it conforms to the concepts discussed here and how that relates to the complexity of the code.
+### [[mindmap - A Philosophy Of Software Design - POSD]]
+
+### Content 
+
 - [[POSD - complexity in software design]]
 - [[POSD - strategic vs tactical programming]]
 - [[POSD - modules should be deep]]
@@ -25,6 +30,4 @@ related:
 - [[POSD - modifying existing code]]
 - [[POSD - consistency]]
 - [[POSD - could be more obvious]]
-
-
 
