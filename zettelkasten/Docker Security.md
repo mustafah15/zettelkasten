@@ -2,7 +2,7 @@
 tags:
   - docker
   - infrastructure
-type: fleeting
+type: permanent
 related: "[[Kubernetes]]"
 ---
 

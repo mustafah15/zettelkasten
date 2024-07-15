@@ -2,6 +2,7 @@
 tags:
   - tools
   - goLang
+type: permanent
 ---
 - A package is a collection of files located in the same folder that all share the same package name. Each Go file starts with the package declaration.
 - It is customary to name the package after the name of the directory.

@@ -2,7 +2,7 @@
 tags:
   - infrastructure
 related: 
-type: fleeting
+type: permanent
 ---
 ### building a new docker image from a file 
 

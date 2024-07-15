@@ -2,7 +2,7 @@
 tags:
   - kubernetes
   - infrastructure
-type: fleeting
+type: permanent
 related: "[[Kubernetes]]"
 ---
 ![[kubernetes components.png]]

@@ -3,6 +3,7 @@ tags:
   - distributed-systems
   - system-design
 parent: "[[distributed systems]]"
+type: permanent
 ---
 
 ## [[distributed systems - event sourcing]]
@@ -15,7 +16,6 @@ parent: "[[distributed systems]]"
 
 ## [[distributed systems - outbox pattern]]
 
-
-[[distributed systems - Back Pressure Pattern]]
+## [[distributed systems - Back Pressure Pattern]]
 
 

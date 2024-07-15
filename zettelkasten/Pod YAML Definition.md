@@ -2,6 +2,7 @@
 tags:
   - kubernetes
   - infrastructure
+type: permanent
 ---
 [[Kubernetes YAML Definition Files]]
 

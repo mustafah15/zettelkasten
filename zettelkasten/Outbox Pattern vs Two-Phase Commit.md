@@ -2,8 +2,8 @@
 tags:
   - distributed-systems
   - software-engineering
-type: fleeting
-related: "[[transactional outbox pattern]]"
+type: permanent
+parent: "[[transactional outbox pattern]]"
 ---
 
 outbox pattern vs Two-Phase commit to solving dual write problem

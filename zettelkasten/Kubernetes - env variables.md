@@ -2,7 +2,8 @@
 tags:
   - kubernetes
   - infrastructure
-related: "[[Kubernetes Configuration]]"
+parent: "[[Kubernetes Configuration]]"
+type: permanent
 ---
 how to setup env variables in kubernetes 
 

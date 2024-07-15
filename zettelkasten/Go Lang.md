@@ -2,6 +2,7 @@
 tags:
   - tools
 index: true
+type: permanent
 ---
 ## Main Use Case of Go
 

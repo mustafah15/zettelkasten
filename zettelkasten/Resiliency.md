@@ -1,7 +1,7 @@
 ---
 tags:
   - distributed-systems
-type: fleeting
+type: permanent
 ---
 Resiliency is a measure of the system's ability to **self-recover** from problems
 

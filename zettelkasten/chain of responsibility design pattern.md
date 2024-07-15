@@ -4,10 +4,9 @@ tags:
   - software-design
   - oop
 related: "[[behavioural design patterns]]"
-type:
-  - fleeting
 aliases:
   - chain of responsibility
+type: permanent
 ---
 - What is the chain of responsibility pattern?
 

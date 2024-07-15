@@ -3,10 +3,9 @@ tags:
   - book-notes
   - software-design
 related: "[[POSD - complexity in software design]]"
-type:
-  - fleeting
 aliases:
   - complexity is incremental
+type: reference
 ---
 complexity is incremental 
 
