@@ -1,9 +1,8 @@
 ---
 tags:
   - tools
-type:
-  - literature
-related: "[[TypeScript|TS]]"
+parent: "[[TypeScript|TS]]"
+type: permanent
 ---
 
 

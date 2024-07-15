@@ -3,8 +3,7 @@ tags:
   - ddd
   - book-notes
 related: "[[transaction script pattern]]"
-type:
-  - literature
+type: reference
 ---
 
 ### lack of transactional behavior

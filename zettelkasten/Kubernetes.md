@@ -3,8 +3,7 @@ tags:
   - distributed-systems
   - kubernetes
   - infrastructure
-type:
-  - literature
+type: permanent
 ---
 
 - [[Kubernetes Architecture]]

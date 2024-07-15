@@ -3,7 +3,7 @@ tags:
   - kubernetes
   - infrastructure
 related: "[[Kubernetes Configuration]]"
-type: literature
+type: permanent
 ---
 taints and tolerations tend to set restrictions on what pods can be scheduled on a node. 
 ### taints are set on nodes

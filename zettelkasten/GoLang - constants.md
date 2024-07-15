@@ -3,8 +3,7 @@ tags:
   - tools
   - goLang
 related: "[[Go Lang]]"
-type:
-  - literature
+type: permanent
 ---
 ## Naming Convention 
 just need to use const word instead of using naming convention like `MY_CONST`

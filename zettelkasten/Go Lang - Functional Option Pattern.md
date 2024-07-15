@@ -1,9 +1,8 @@
 ---
 tags:
   - goLang
-type:
-  - literature
 related: "[[Go Lang]]"
+type: permanent
 ---
 In Go, the functional options pattern is a powerful and flexible design pattern used to configure and customize objects or functions during initialization. It is a cleaner and more idiomatic way to handle configuration parameters, especially when dealing with structs and complex APIs. In this blog post, we'll explore the functional options pattern in Go and provide code examples to help you understand how to implement it effectively.
 

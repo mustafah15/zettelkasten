@@ -2,9 +2,8 @@
 tags:
   - ddd
   - software-design
-type:
-  - literature
 related: "[[domain driven design]]"
+type: permanent
 ---
 
 

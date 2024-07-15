@@ -1,10 +1,9 @@
 ---
 tags:
   - tools
-type:
-  - literature
 aliases:
   - TS
+type: permanent
 ---
 
 

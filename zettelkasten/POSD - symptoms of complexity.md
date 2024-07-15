@@ -1,13 +1,12 @@
 ---
 tags:
   - system-design
-type:
-  - literature
-related: "[[POSD - complexity in software design]]"
+parent: "[[POSD - complexity in software design]]"
 aliases:
   - symptoms of complexity
+type: reference
 ---
-# ![[change amplification]]
-# ![[cognitive load]]
+# ![[POSD - change amplification]]
+# ![[POSD - Cognitive Load]]
 # ![[unknown unknowns]]
 

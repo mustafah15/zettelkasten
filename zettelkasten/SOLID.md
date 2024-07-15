@@ -3,8 +3,7 @@ tags:
   - software-design
   - oop
   - literature
-type:
-  - literature
+type: permanent
 ---
 
 

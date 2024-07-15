@@ -2,8 +2,8 @@
 tags:
   - kubernetes
   - infrastructure
-related: "[[Kubernetes Configuration]]"
-type: literature
+parent: "[[Kubernetes Configuration]]"
+type: permanent
 ---
 it's the [[Kubernetes scheduler]] that decides which node a pod goes to, the schedular takes on consideration the amount of resources required by a pod and those available on the nodes and identifies the best node to place a pod on.
 

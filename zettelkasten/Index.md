@@ -2,16 +2,15 @@
 tags:
   - writing
   - Index
-type:
-  - permanent
 dg-home: true
 dg-publish: true
 aliases:
   - Map Of Content
+index: true
 ---
 - book notes
 	- [[philosophy of software design]]
-	- [[learning domain driven design]]
+	- [[Learning Domain Driven Design]]
 - architecture notes 
 	- [[object oriented design]]
 	- [[SOLID]]

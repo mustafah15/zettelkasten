@@ -3,6 +3,7 @@ tags:
   - output
   - distributed-systems
 related: "[[transactional outbox pattern]]"
+type: permanent
 ---
 
 

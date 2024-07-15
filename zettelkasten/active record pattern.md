@@ -2,9 +2,8 @@
 tags:
   - book-notes
   - ddd
-related: "[[lddd - implementing simple business logic]]"
-type:
-  - literature
+parent: "[[lddd - implementing simple business logic]]"
+type: reference
 ---
 "An Object that wraps a row in a database table or view encapsulates the database access and adds domain logic on that data" -Martin Fowler
 

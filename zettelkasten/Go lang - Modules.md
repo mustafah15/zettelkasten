@@ -1,8 +1,7 @@
 ---
 tags:
   - goLang
-type:
-  - literature
+type: permanent
 ---
 GO MODULES
 

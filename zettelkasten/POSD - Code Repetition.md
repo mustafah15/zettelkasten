@@ -3,8 +3,7 @@ tags:
   - book-notes
   - software-design
 related: "[[POSD - better together or better apart]]"
-type:
-  - literature
+type: reference
 ---
 
 if the same piece of code (or code that is almost the same) appears over and over again that's a red flag that you haven't found the right abstractions.

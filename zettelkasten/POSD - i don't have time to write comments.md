@@ -3,8 +3,7 @@ tags:
   - book-notes
   - system-design
 related: "[[philosophy of software design]]"
-type:
-  - literature
+type: reference
 ---
 - Given a choice between adding a new feature and documenting an existing feature, it seems logical to choose the new feature however, software projects are almost always under time pressure, and there will always be things that seem higher priority than writing comments. thus if you allow documentation to be de-prioritized you will end up with no documentation at all
 - The counter-argument to this excuse is the [[POSD - strategic programming]] and its investment mindset if you want a clean software structure, which will allow you to work efficiently over the long-term, then you must take some extra time upfront in order to create that structure.

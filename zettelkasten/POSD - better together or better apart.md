@@ -2,9 +2,8 @@
 tags:
   - book-notes
   - software-design
-type:
-  - literature
 related: "[[philosophy of software design]]"
+type: reference
 ---
 
 ## [[POSD - Module Division and Complexity]] 
@@ -16,5 +15,3 @@ related: "[[philosophy of software design]]"
 ## [[POSD - Splitting and Joining Methods]]
 
 ## [[POSD - Code Repetition]]
-
-

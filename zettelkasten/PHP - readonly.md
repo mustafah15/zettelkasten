@@ -1,9 +1,8 @@
 ---
 tags:
   - tools
-type:
-  - fleeting
 related: "[[PHP]]"
+type: permanent
 ---
 
 PHP 8.1 introduced the feature of readonly property & PHP 8.2 introduced the new feature of `readonly` classes

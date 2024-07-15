@@ -1,9 +1,8 @@
 ---
 tags:
   - tools
-type:
-  - fleeting
 related: "[[PHP]]"
+type: permanent
 ---
 implementing an array of objects can be tricky in PHP since it does not support generics, 
 

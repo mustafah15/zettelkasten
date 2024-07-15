@@ -3,8 +3,7 @@ tags:
   - ddd
   - software-design
 related: "[[domain driven design]]"
-type:
-  - literature
+type: permanent
 ---
 
 - Value Objects

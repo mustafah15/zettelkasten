@@ -3,8 +3,7 @@ tags:
   - book-notes
   - software-design
 related: "[[POSD - information leakage|information leakage]]"
-type:
-  - literature
+type: reference
 ---
 ## information leakage types
 - **interface leakage**: a piece of information is reflected in the interface for a module then by definition, it has been leaked

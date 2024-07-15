@@ -2,9 +2,8 @@
 tags:
   - ddd
   - software-design
-type:
-  - literature
 related: "[[domain driven design]]"
+type: permanent
 ---
 
 Also known as ports and adapters, it's an alternative to the layered or N-tier architecture

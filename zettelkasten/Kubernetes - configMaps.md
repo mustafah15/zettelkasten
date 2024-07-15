@@ -3,7 +3,7 @@ tags:
   - kubernetes
   - infrastructure
 related: "[[Kubernetes Configuration]]"
-type: literature
+type: permanent
 ---
 
 Defining a ConfigMap 

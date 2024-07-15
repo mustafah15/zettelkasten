@@ -2,9 +2,8 @@
 tags:
   - book-notes
   - software-design
-related: "[[POSD - how to write better comments]]"
-type:
-  - literature
+parent: "[[POSD - how to write better comments]]"
+type: reference
 ---
 - the first step in writing comments is to decide on conventions for commenting, such as what you will comment on and the format you will use for comments. if you are programming in a language for which there exists a document compilation tool such as Javadoc for java the author recommends following the conventions of those tools. None of these conventions is perfect, but the tools provide enough benefits to make up for that. if you are programming where there are no existing conventions to follow, try to adopt the conventions from some other language or project that is similar, this will make it easier for other developers to understand and adhere to your conventions.
 - conventions serve two purposes.

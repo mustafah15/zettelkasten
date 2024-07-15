@@ -2,8 +2,7 @@
 tags:
   - software-design
   - distributed-systems
-type:
-  - fleeting
+type: permanent
 ---
 
 

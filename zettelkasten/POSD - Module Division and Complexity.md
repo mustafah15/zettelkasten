@@ -2,9 +2,8 @@
 tags:
   - book-notes
   - software-design
-type:
-  - literature
 related: "[[POSD - better together or better apart]]"
+type: reference
 ---
 
 **when** deciding whether to combine or separate, the goal is to reduce the complexity of the system as a whole and improve its modularity.

@@ -3,8 +3,7 @@ tags:
   - tools
   - goLang
 related: "[[Go Lang]]"
-type:
-  - literature
+type: permanent
 ---
 
 ## Go Primitive types

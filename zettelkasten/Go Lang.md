@@ -1,8 +1,7 @@
 ---
 tags:
   - tools
-type:
-  - literature
+index: true
 ---
 ## Main Use Case of Go
 

@@ -2,9 +2,8 @@
 tags:
   - software-design
   - book-notes
-type:
-  - literature
 related: "[[philosophy of software design]]"
+type: reference
 ---
 [[POSD - information hiding]]
 [[POSD - information leakage]]

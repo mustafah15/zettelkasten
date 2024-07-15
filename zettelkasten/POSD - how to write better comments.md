@@ -2,9 +2,8 @@
 tags:
   - book-notes
   - software-design
-related: "[[philosophy of software design]]"
-type:
-  - literature
+parent: "[[philosophy of software design]]"
+type: reference
 ---
 - first, a reason for writing comments is that statements in a programming language can't capture all of the important information that was in the mind of the developer when the code was written. comments should record this information so that developers who come along later can easily understand and modify the code.
 	- the guiding principle for comments is that **comments should describe things that aren't obvious from the code**

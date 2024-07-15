@@ -2,9 +2,8 @@
 tags:
   - book-notes
   - software-design
-related: "[[philosophy of software design]]"
-type:
-  - literature
+parent: "[[philosophy of software design]]"
+type: reference
 ---
 ## why exceptions add complexity
 - the author uses the term exception to refer to any uncommon condition that alters the normal flow of control in a program. many programming languages include a formal exception mechanism that allows exceptions to be thrown by lower-level code and caught by enclosing code. however, exceptions can happen without using a formal exception reporting mechanism, such as when a method returns a special value indicating that it didn't complete its normal behavior. All of these forms of exceptions contribute to complexity.

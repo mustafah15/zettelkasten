@@ -1,11 +1,10 @@
 ---
 tags:
   - SRE
-type:
-  - fleeting
 related: "[[observability]]"
 aliases:
   - service level indicators
+type: permanent
 ---
 ## What is an SLI?
 

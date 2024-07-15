@@ -2,11 +2,10 @@
 tags:
   - book-notes
   - software-design
-related: "[[POSD - causes of complexity]]"
-type:
-  - literature
+parent: "[[POSD - causes of complexity]]"
 aliases:
   - obscurity
+type: reference
 ---
 
 ## obscurity

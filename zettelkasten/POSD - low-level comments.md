@@ -2,9 +2,8 @@
 tags:
   - book-notes
   - software-design
-related: "[[POSD - how to write better comments]]"
-type:
-  - literature
+parent: "[[POSD - how to write better comments]]"
+type: reference
 ---
 - lower level comments add precision
 - precision is most useful when commenting variable declarations such as class instance variables, method arguments and return values. the name and type in a variable declaration are typically not very precise comments can fill in missing details such

@@ -1,9 +1,8 @@
 ---
 tags:
   - SRE
-related: "[[Site Reliability Engineering|SRE]]"
-type:
-  - fleeting
+parent: "[[Site Reliability Engineering|SRE]]"
+type: permanent
 ---
 There are many tradeoffs you have to consider when setting a reliability target
 if you are trying to run your service much more reliably than it needs to be you are slowing down development velocity for features that will make your customers happier for a minor increase in reliability. 100% is the wrong reliability target for everything 

@@ -1,11 +1,10 @@
 ---
 tags:
   - SRE
-type:
-  - fleeting
-related: "[[observability]]"
+parent: "[[observability]]"
 aliases:
   - service level objectives
+type: permanent
 ---
 An SLO (service level objective) is an agreement within  [[SLAs]] about a specific metric like uptime or response time. So, if the [[SLAs]] is the formal agreement between you and your customer, SLOs are the individual promises you’re making to that customer. SLOs are what set customer expectations and tell IT and DevOps teams.
 

@@ -2,9 +2,8 @@
 tags:
   - book-notes
   - software-design
-type:
-  - literature
 related: "[[POSD - different layer different abstraction]]"
+type: reference
 ---
 ## When is interface duplication okay?
 - having methods with the same signature is not always bad. the important thing is that each new method should contribute significant functionality. [[pass-through methods]] are bad because they contribute no new functionality.

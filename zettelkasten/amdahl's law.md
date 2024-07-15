@@ -2,9 +2,9 @@
 tags:
   - software-design
   - distributed-systems
-type:
-  - fleeting
-related: "[[scalability]]"
+parent: "[[contention in distributed systems]]"
+related: "[[gunther's universal law]]"
+type: permanent
 ---
 
 

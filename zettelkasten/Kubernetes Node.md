@@ -2,8 +2,8 @@
 tags:
   - kubernetes
   - infrastructure
-related: "[[Kubernetes]]"
-type: literature
+parent: "[[Kubernetes]]"
+type: permanent
 ---
 
 A Node may be a virtual or physical machine on which Kubernetes is installed a node is a worker machine and that is where containers will be launched by Kubernetes

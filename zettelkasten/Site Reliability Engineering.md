@@ -2,14 +2,13 @@
 tags:
   - distributed-systems
   - SRE
-type:
-  - fleeting
 aliases:
   - SRE
 related: "[[observability]]"
+type: permanent
 ---
 - [[DevOps Vs SRE]]
-- [[Customer  Reliability Engineering]]
+- [[Customer Reliability Engineering]]
 - [[SLOs]]
 - [[how SLOs help businesses make decisions]]
 - [[how SLOs help build features faster]]

@@ -2,8 +2,8 @@
 tags:
   - kubernetes
   - infrastructure
-related: "[[Kubernetes]]"
-type: literature
+type: permanent
+parent: "[[Kubernetes]]"
 ---
 A Kubernetes definition file always contains 
 four top-level fields 

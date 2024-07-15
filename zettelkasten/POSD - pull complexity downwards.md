@@ -2,9 +2,8 @@
 tags:
   - book-notes
   - software-design
-type:
-  - literature
-related: "[[philosophy of software design]]"
+parent: "[[philosophy of software design]]"
+type: reference
 ---
 Its more important for a module to have a simple interface than a simple implementation
 

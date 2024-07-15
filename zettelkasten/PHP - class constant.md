@@ -1,9 +1,8 @@
 ---
 tags:
   - tools
-type:
-  - fleeting
-related: "[[PHP]]"
+parent: "[[PHP]]"
+type: permanent
 ---
 
 Sometimes, you need to [define a constant](https://www.phptutorial.net/php-tutorial/php-constants/) that is specific to a [class](https://www.phptutorial.net/php-oop/php-objects/). In this case, you can use the PHP class constants.

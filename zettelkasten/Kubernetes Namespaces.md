@@ -2,7 +2,7 @@
 tags:
   - kubernetes
   - infrastructure
-type: literature
+type: permanent
 ---
 Namespaces are intended for use in environments with many users spread across multiple teams, or projects. For clusters with a few to tens of users, you should not need to create or think about namespaces at all. Start using namespaces when you need the features they provide.
 

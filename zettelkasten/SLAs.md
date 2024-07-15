@@ -1,11 +1,10 @@
 ---
 tags:
   - "#SRE"
-related: "[[observability]]"
-type:
-  - fleeting
+parent: "[[observability]]"
 aliases:
   - service level agreements
+type: permanent
 ---
 
 ### What is an SLA?

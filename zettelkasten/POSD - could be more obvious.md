@@ -2,9 +2,8 @@
 tags:
   - book-notes
   - software-design
-related: "[[philosophy of software design]]"
-type:
-  - literature
+parent: "[[philosophy of software design]]"
+type: reference
 ---
 [[POSD - obscurity|obscurity]] is one of the two main causes of complexity which occurs when important information about the system is not obvious to a new developer the solution to the obscurity problem is to write code in a way that makes it obvious.
 

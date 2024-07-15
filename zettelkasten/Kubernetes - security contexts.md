@@ -3,7 +3,7 @@ tags:
   - kubernetes
   - infrastructure
 related: "[[Kubernetes Configuration]]"
-type: literature
+type: permanent
 ---
 since we can configure some [[Docker Security]] options for docker images during the docker run command these options can be configured through Kubernetes as well. 
 

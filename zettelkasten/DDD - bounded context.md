@@ -2,11 +2,10 @@
 tags:
   - system-design
   - ddd
-type:
-  - fleeting
 aliases:
   - bounded context
 related: "[[domain driven design]]"
+type: permanent
 ---
 In domain-driven design (DDD), a bounded context is a linguistic and organizational boundary defining a specific business domain area. A bounded context defines a specific set of concepts, terminology, and business rules that apply within that context while excluding concepts and rules that apply in other contexts.
 

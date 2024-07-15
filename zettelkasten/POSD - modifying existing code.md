@@ -2,11 +2,10 @@
 tags:
   - book-notes
   - software-design
-related: "[[philosophy of software design]]"
-type:
-  - literature
+parent: "[[philosophy of software design]]"
 aliases:
   - modifying existing code
+type: reference
 ---
 we discussed the difference between [[POSD - tactical programming]] and [[POSD - strategic programming]]
 

@@ -2,11 +2,10 @@
 tags:
   - system-design
   - book-notes
-type:
-  - literature
-related: "[[POSD - information hiding and information leakage]]"
 aliases:
   - information hiding
+parent: "[[POSD - information hiding and information leakage]]"
+type: reference
 ---
 ## Information Hiding 
 
@@ -17,7 +16,7 @@ the most important technique for achieving deep modules is information hiding. t
 the hidden information includes data structures and algorithms related to the mechanism it can also include lower level details such as the size of a page, and it can include higher-level concepts that are more abstract such as an assumption that most files are small.
 
 information hiding reduces complexity in two ways.
-- first, it simplifies the interface to a module so the interface reflects a simpler more abstract view of the module's functionality and hides the details this reduces the [[cognitive load]] on developers who use the module.
+- first, it simplifies the interface to a module so the interface reflects a simpler more abstract view of the module's functionality and hides the details this reduces the [[POSD - Cognitive Load]] on developers who use the module.
 - second, information hiding makes it easier to evolve the system. If a piece of information is hidden, there are no dependencies on that information outside the module, so a design change related to that information will affect only one module.
 when designing a new module, you should think carefully about what information can be hidden in that module. if you can hide more information, you should also be able to simplify the module's interface, and this makes the module deeper.
 

@@ -1,9 +1,8 @@
 ---
-type:
-  - fleeting
 tags:
   - tools
 related: "[[TypeScript]]"
+type: permanent
 ---
 
 

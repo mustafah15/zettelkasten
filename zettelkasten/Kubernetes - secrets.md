@@ -3,7 +3,7 @@ tags:
   - kubernetes
   - infrastructure
 related: "[[Kubernetes Configuration]]"
-type: literature
+type: permanent
 ---
 since [[Kubernetes - configMaps]] store config data in un-encrypted format that's where the need for the secrets comes from the need to store passwords and sensitive info in encoded files format 
 

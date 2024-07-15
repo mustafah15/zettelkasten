@@ -2,9 +2,8 @@
 tags:
   - oop
   - design-patterns
-related: "[[creational design patterns]]"
-type:
-  - literature
+parent: "[[creational design patterns]]"
+type: permanent
 ---
 The builder is a type of creational pattern that helps in building complex objects as It provides a flexible and step-by-step approach towards making these objects. It also keeps the representation and process of creation shielded.
 

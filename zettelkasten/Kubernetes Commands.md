@@ -3,7 +3,7 @@ tags:
   - kubernetes
   - infrastructure
 related: "[[Kubernetes]]"
-type: literature
+type: permanent
 ---
 - running a pod from image 
 ```bash

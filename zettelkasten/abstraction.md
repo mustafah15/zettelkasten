@@ -1,9 +1,8 @@
 ---
 tags:
   - software-design
-type:
-  - fleeting
-related:
+related: 
+type: permanent
 ---
 
 - What Is Abstraction?

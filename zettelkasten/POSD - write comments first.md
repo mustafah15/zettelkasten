@@ -2,11 +2,10 @@
 tags:
   - book-notes
   - software-design
-type:
-  - literature
 aliases:
   - write comments first
-related: "[[philosophy of software design]]"
+parent: "[[philosophy of software design]]"
+type: reference
 ---
 one of the surest ways to produce poor-quality documentation is to write documentation at the end of the development process. writing the comments first makes documentation part of the design process, not only does this produce better documentation but it also produces better designs and it makes the process of writing documentation more enjoyable.
 ### A different way to write comments

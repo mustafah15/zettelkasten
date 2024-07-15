@@ -1,9 +1,8 @@
 ---
 tags:
   - software-design
-type:
-  - permanent
 related: "[[domain driven design]]"
+type: permanent
 ---
 
 ## Introduction

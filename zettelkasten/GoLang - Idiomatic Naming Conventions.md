@@ -2,9 +2,8 @@
 tags:
   - tools
   - goLang
-related: "[[Go Lang]]"
-type:
-  - literature
+parent: "[[Go Lang]]"
+type: permanent
 ---
 ## Variables
 a common abbreviation used in go

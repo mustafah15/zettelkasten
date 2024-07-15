@@ -3,7 +3,7 @@ tags:
   - kubernetes
   - infrastructure
 related: "[[Kubernetes]]"
-type: literature
+type: permanent
 ---
 There are two types of accounts in Kubernetes
 - a user account for humans 

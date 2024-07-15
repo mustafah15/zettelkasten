@@ -1,9 +1,8 @@
 ---
 tags:
   - tools
-type:
-  - literature
 related: "[[TypeScript|TS]]"
+type: permanent
 ---
 An `enum` is a structure that proposes several allowed values for a variable. It is a way to constrain variable values by defining specific possible entries.
 

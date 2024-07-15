@@ -2,11 +2,10 @@
 tags:
   - book-notes
   - software-design
-related: "[[POSD - choosing names]]"
-type:
-  - literature
+parent: "[[POSD - choosing names]]"
 aliases:
   - names should be precise
+type: reference
 ---
 the most common problem with names is that they are too generic or vague; as a result, it's hard for threaders to tell what the name refers to; the reader may assume that the name refers to something different from reality, consider the following method declaration
 

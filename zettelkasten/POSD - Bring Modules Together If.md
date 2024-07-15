@@ -2,9 +2,8 @@
 tags:
   - book-notes
   - software-design
-type:
-  - literature
 related: "[[POSD - better together or better apart]]"
+type: reference
 ---
 ### Bringing pieces of code together is most beneficial if they are closely related. if the pieces are unrelated, they are probably better off apart
 Here are a few indications that the two pieces of code are related:

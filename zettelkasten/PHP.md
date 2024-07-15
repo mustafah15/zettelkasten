@@ -1,8 +1,7 @@
 ---
 tags:
   - tools
-type:
-  - fleeting
+type: permanent
 ---
 
 [[PHP - readonly]]

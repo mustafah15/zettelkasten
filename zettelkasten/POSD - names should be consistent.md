@@ -2,11 +2,10 @@
 tags:
   - book-notes
   - software-design
-related: "[[POSD - choosing names]]"
-type:
-  - literature
+parent: "[[POSD - choosing names]]"
 aliases:
   - names should be consistent
+type: reference
 ---
 - the second important property of good names is consistency, in any program, there are certain variables that are used over and over again. for example, a file system manipulates block numbers repeatedly. foreach of these common usages, pick a name to use for that purpose and use the same name everywhere for example a file system might always use fileBlock to hold the index of a block within a file.
 - consistent naming reduces the cognitive load in much the same way as reusing a common class once the reader has seen the name in one context they can reuse their knowledge and instantly make assumptions when they see the name in a different context.

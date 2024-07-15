@@ -2,7 +2,7 @@
 tags:
   - kubernetes
   - infrastructure
-type: literature
+type: permanent
 ---
 the deployment provides us with the capability to upgrade the underlying instances seamlessly using a rolling update, undo changes, pause and resume changes as required. 
 

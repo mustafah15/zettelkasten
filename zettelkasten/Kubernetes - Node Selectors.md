@@ -2,7 +2,7 @@
 tags:
   - infrastructure
   - kubernetes
-type: literature
+type: permanent
 related: "[[Kubernetes Configuration]]"
 ---
 in order to label a node you need to use the command 

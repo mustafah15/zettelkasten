@@ -3,10 +3,9 @@ tags:
   - distributed-systems
   - system-design
 related: "[[distributed systems]]"
-type:
-  - fleeting
 aliases:
   - distributed systems communication and coordination
+type: permanent
 ---
 - interprocess communication between system nodes over the network is at the heart of distributed systems.
 - In this part, we will focus on the communication styles so we start getting the grasp of what communication style/technique suits our system better.

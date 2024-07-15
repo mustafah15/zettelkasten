@@ -2,9 +2,8 @@
 tags:
   - kubernetes
   - infrastructure
-type:
-  - literature
 related: "[[Kubernetes]]"
+type: permanent
 ---
 
 ### [[Kubernetes Node]]

@@ -2,9 +2,8 @@
 tags:
   - book-notes
   - software-design
-related: "[[philosophy of software design]]"
-type:
-  - literature
+parent: "[[philosophy of software design]]"
+type: reference
 ---
 - designing software is hard so it's unlikely that your first thoughts about how to structure a module or system will produce the best design. you will end up with a much better result if you consider multiple options for each major design decision.
 - suppose you are designing a class that will manage the next file for a GUI text editor the first step is to define the interface that the class will present to the rest of the editor; rather than picking the first idea that comes to mind, consider several possibilities. One choice is a line-oriented interface, with operations to insert, modify, and delete a whole line of text. Another option is an interface based on individual character insertion and deletions. A third choice is a string-oriented interface that operates on arbitrary ranges of characters that may cross line boundaries. you don't need to pin down every feature of each alternative it's sufficient at this point to sketch out a few of the most important methods.

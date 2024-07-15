@@ -2,7 +2,7 @@
 tags:
   - kubernetes
   - infrastructure
-type: literature
+type: permanent
 related: "[[Kubernetes]]"
 ---
 - ### [[Kubernetes -  pods - arguments and commands]]

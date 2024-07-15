@@ -1,9 +1,8 @@
 ---
 tags:
   - SRE
-type:
-  - fleeting
 related: "[[Site Reliability Engineering|SRE]]"
+type: permanent
 ---
 
 ## DevOps

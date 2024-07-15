@@ -1,9 +1,8 @@
 ---
 tags:
   - tools
-type:
-  - literature
 related: "[[TypeScript|TS]]"
+type: permanent
 ---
 Another common primitive is the number. Since TypeScript is a superset of JavaScript, numbers work the same way in both languages. The openness of JavaScript allows for a broad set of numbers. Integers, signed floats, or unsigned floats are permitted. By default, a number will be base 10.
 

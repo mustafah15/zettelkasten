@@ -1,11 +1,10 @@
 ---
 tags:
   - software-design
-type:
-  - literature
 related: "[[POSD - complexity in software design]]"
 aliases:
   - causes of complexity
+type: reference
 ---
 causes of complexity 
 

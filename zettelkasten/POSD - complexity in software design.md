@@ -2,9 +2,8 @@
 tags:
   - software-design
   - book-notes
-type:
-  - literature
-related: "[[philosophy of software design]]"
+parent: "[[philosophy of software design]]"
+type: reference
 ---
 ## complexity in software design 
 

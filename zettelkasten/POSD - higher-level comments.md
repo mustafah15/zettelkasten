@@ -2,9 +2,8 @@
 tags:
   - book-notes
   - system-design
-type:
-  - literature
-related: "[[POSD - how to write better comments]]"
+parent: "[[POSD - how to write better comments]]"
+type: reference
 ---
 a second way in which comments can argument the code by providing intuition. these comments are written at a higher level than the code itself; they omit the details and help the reader understand the code's overall intent and structure. this approach is commonly used for comments inside a method and for interface comments
 ```

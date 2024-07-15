@@ -2,9 +2,8 @@
 tags:
   - software-design
   - book
-type:
-  - literature
-related: "[[philosophy of software design]]"
+parent: "[[philosophy of software design]]"
+type: reference
 ---
 - [[general purpose module]]
 - [[special purpose module]]

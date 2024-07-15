@@ -3,11 +3,10 @@ tags:
   - software-design
   - design-patterns
   - oop
-type:
-  - fleeting
-related: "[[structural design patterns]]"
+parent: "[[structural design patterns]]"
 aliases:
   - adapter design pattern
+type: permanent
 ---
 what is adapter pattern
 - The **adapter pattern** allows classes that have different interfaces (properties/methods of an object) to work together. It translates the interface for a class to make it compatible with another class.

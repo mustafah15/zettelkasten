@@ -1,11 +1,11 @@
 ---
 tags:
   - software-design
-type:
-  - literature
-related: "[[POSD - strategic vs tactical programming]]"
+  - book-notes
+parent: "[[POSD - strategic vs tactical programming]]"
 aliases:
   - tactical programming
+type: reference
 ---
 most programmers approach software development with a mindset I call tactical programming in this approach your main focus is to get something working such as a new feature or a bug fix. at first glance, this seems totally reasonable what could be more important than writing code that works?
 
