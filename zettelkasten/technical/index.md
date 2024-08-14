@@ -4,9 +4,10 @@ tags:
   - Index
 dg-home: true
 dg-publish: true
-aliases:
-  - Map Of Content
 index: true
+active: 
+aliases:
+  - Technical Index
 ---
 - book notes
 	- [[philosophy of software design]]

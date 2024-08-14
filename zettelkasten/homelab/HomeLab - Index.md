@@ -1,9 +1,11 @@
 ---
 tags:
   - homelab
+  - Index
 index: true
 aliases:
   - HomeLab
+type: permanent
 ---
 In this file, I will document my journey of running a personal homelab 
 

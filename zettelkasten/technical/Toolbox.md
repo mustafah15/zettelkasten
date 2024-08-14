@@ -1,6 +1,7 @@
 ---
 tags:
   - tools
+  - Index
 type: permanent
 index: true
 ---

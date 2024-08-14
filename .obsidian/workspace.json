@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "9ab5d1f8ad5a1cfe",
+        "id": "b63a8a8cb58b257a",
         "type": "tabs",
         "children": [
           {
-            "id": "3bd7f21b6cbbaf7e",
+            "id": "045e59f216c08857",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -174,7 +174,7 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "3bd7f21b6cbbaf7e",
+  "active": "045e59f216c08857",
   "lastOpenFiles": [
     "output/Untitled.md",
     "zettelkasten/Index.md",
