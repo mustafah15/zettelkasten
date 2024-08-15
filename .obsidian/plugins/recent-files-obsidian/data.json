@@ -1,6 +1,110 @@
 {
   "recentFiles": [
     {
+      "basename": "Building a Seconded Brain",
+      "path": "zettelkasten/PKM/Building a Seconded Brain.md"
+    },
+    {
+      "basename": "fleeting notes",
+      "path": "zettelkasten/PKM/fleeting notes.md"
+    },
+    {
+      "basename": "get laser-focused",
+      "path": "zettelkasten/PKM/get laser-focused.md"
+    },
+    {
+      "basename": "HTNS - nobody ever starts from scratch",
+      "path": "zettelkasten/PKM/HTNS - nobody ever starts from scratch.md"
+    },
+    {
+      "basename": "HTNS - note taking mistakes",
+      "path": "zettelkasten/PKM/HTNS - note taking mistakes.md"
+    },
+    {
+      "basename": "HTSN - Steps To Successful Writing",
+      "path": "zettelkasten/PKM/HTSN - Steps To Successful Writing.md"
+    },
+    {
+      "basename": "knowledge workers",
+      "path": "zettelkasten/PKM/knowledge workers.md"
+    },
+    {
+      "basename": "literature notes",
+      "path": "zettelkasten/PKM/literature notes.md"
+    },
+    {
+      "basename": "index notes",
+      "path": "zettelkasten/PKM/index notes.md"
+    },
+    {
+      "basename": "Niklas Luhmann",
+      "path": "zettelkasten/PKM/Niklas Luhmann.md"
+    },
+    {
+      "basename": "PARA",
+      "path": "zettelkasten/PKM/PARA.md"
+    },
+    {
+      "basename": "index",
+      "path": "zettelkasten/index.md"
+    },
+    {
+      "basename": "zettelkasten",
+      "path": "zettelkasten/PKM/zettelkasten.md"
+    },
+    {
+      "basename": "avoid multitasking",
+      "path": "zettelkasten/PKM/avoid multitasking.md"
+    },
+    {
+      "basename": "become an expert by practicing",
+      "path": "zettelkasten/PKM/become an expert by practicing.md"
+    },
+    {
+      "basename": "Folgezettel",
+      "path": "zettelkasten/PKM/Folgezettel.md"
+    },
+    {
+      "basename": "project notes",
+      "path": "zettelkasten/PKM/project notes.md"
+    },
+    {
+      "basename": "reduce the number of decisions",
+      "path": "zettelkasten/PKM/reduce the number of decisions.md"
+    },
+    {
+      "basename": "reference notes",
+      "path": "zettelkasten/PKM/reference notes.md"
+    },
+    {
+      "basename": "taking notes and quotes from content to your PKM",
+      "path": "zettelkasten/PKM/taking notes and quotes from content to your PKM.md"
+    },
+    {
+      "basename": "understand what you read",
+      "path": "zettelkasten/PKM/understand what you read.md"
+    },
+    {
+      "basename": "Writing To Learn",
+      "path": "zettelkasten/PKM/Writing To Learn.md"
+    },
+    {
+      "basename": "PKM - Index",
+      "path": "zettelkasten/PKM/PKM - Index.md"
+    },
+    {
+      "basename": "On Writing Well",
+      "path": "zettelkasten/PKM/On Writing Well.md"
+    },
+    {
+      "basename": "Luhmann's ZettelKasten",
+      "path": "zettelkasten/PKM/Luhmann's ZettelKasten.md"
+    },
+    {
+      "basename": "Rapid Logging",
+      "path": "zettelkasten/PKM/Rapid Logging.md"
+    },
+    {
       "basename": "Index",
       "path": "zettelkasten/technical/Index.md"
     },
@@ -95,106 +199,6 @@
     {
       "basename": "bounded contexts context map",
       "path": "zettelkasten/bounded contexts context map.md"
-    },
-    {
-      "basename": "lddd - integrating bounded context with separate-ways or duplication",
-      "path": "zettelkasten/lddd - integrating bounded context with separate-ways or duplication.md"
-    },
-    {
-      "basename": "lddd - integrating bounded context with customer-supplier pattern",
-      "path": "zettelkasten/lddd - integrating bounded context with customer-supplier pattern.md"
-    },
-    {
-      "basename": "lddd - integrating bounded contexts with anticorruption layer",
-      "path": "zettelkasten/lddd - integrating bounded contexts with anticorruption layer.md"
-    },
-    {
-      "basename": "lddd - integrating bounded contexts with open-host service",
-      "path": "zettelkasten/lddd - integrating bounded contexts with open-host service.md"
-    },
-    {
-      "basename": "lddd - integrating bounded contexts with conformist pattern",
-      "path": "zettelkasten/lddd - integrating bounded contexts with conformist pattern.md"
-    },
-    {
-      "basename": "lddd - integrating bounded context with cooperation pattern",
-      "path": "zettelkasten/lddd - integrating bounded context with cooperation pattern.md"
-    },
-    {
-      "basename": "bounded context shared kernel",
-      "path": "zettelkasten/bounded context shared kernel.md"
-    },
-    {
-      "basename": "lddd - integrating bounded contexts with partnership",
-      "path": "zettelkasten/lddd - integrating bounded contexts with partnership.md"
-    },
-    {
-      "basename": "lddd - what is a bounded context?",
-      "path": "zettelkasten/lddd - what is a bounded context?.md"
-    },
-    {
-      "basename": "lddd - building boundaries with bounded context",
-      "path": "zettelkasten/lddd - building boundaries with bounded context.md"
-    },
-    {
-      "basename": "lddd - bounded context ownership boundaries",
-      "path": "zettelkasten/lddd - bounded context ownership boundaries.md"
-    },
-    {
-      "basename": "lddd - bounded context physical boundaries",
-      "path": "zettelkasten/lddd - bounded context physical boundaries.md"
-    },
-    {
-      "basename": "lddd - bounded context vs subdomains",
-      "path": "zettelkasten/lddd - bounded context vs subdomains.md"
-    },
-    {
-      "basename": "lddd - model boundaries",
-      "path": "zettelkasten/lddd - model boundaries.md"
-    },
-    {
-      "basename": "lddd - scope of a bounded context",
-      "path": "zettelkasten/lddd - scope of a bounded context.md"
-    },
-    {
-      "basename": "lddd - semantic domains",
-      "path": "zettelkasten/lddd - semantic domains.md"
-    },
-    {
-      "basename": "lddd - size of a bounded context",
-      "path": "zettelkasten/lddd - size of a bounded context.md"
-    },
-    {
-      "basename": "lddd - inconsistent models",
-      "path": "zettelkasten/lddd - inconsistent models.md"
-    },
-    {
-      "basename": "lddd - bounded contexts in real life",
-      "path": "zettelkasten/lddd - bounded contexts in real life.md"
-    },
-    {
-      "basename": "lddd - converting business domain to a model",
-      "path": "zettelkasten/lddd - converting business domain to a model.md"
-    },
-    {
-      "basename": "lddd - what is a model",
-      "path": "zettelkasten/lddd - what is a model.md"
-    },
-    {
-      "basename": "lddd - modeling the business domain",
-      "path": "zettelkasten/lddd - modeling the business domain.md"
-    },
-    {
-      "basename": "lddd - who are the domain experts",
-      "path": "zettelkasten/lddd - who are the domain experts.md"
-    },
-    {
-      "basename": "lddd - identifying subdomain boundaries",
-      "path": "zettelkasten/lddd - identifying subdomain boundaries.md"
-    },
-    {
-      "basename": "lddd - subdomains as coherent use cases",
-      "path": "zettelkasten/lddd - subdomains as coherent use cases.md"
     }
   ],
   "omittedPaths": [],

@@ -33,3 +33,12 @@ aliases:
 	- [[Kubernetes]]
 - soft skills
 	- [staff engineer path](https://www.ebooks.com/en-de/book/210670147/the-staff-engineer-s-path/tanya-reilly/) 
+- Personal Knowledge Management
+	- [[zettelkasten]]
+		-  [[Folgezettel]]
+		- [[permanent notes]]
+		- [[literature notes]]
+		- [[reference notes]]
+		- [[fleeting notes]]
+	- [[Niklas Luhmann]]
+	- [[How to Take Smart Notes]]

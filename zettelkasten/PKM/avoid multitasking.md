@@ -1,6 +1,7 @@
 ---
 tags:
   - PKM
+  - writing
 type: permanent
 parent: "[[HTSN - Steps To Successful Writing]]"
 ---

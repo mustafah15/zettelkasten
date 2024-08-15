@@ -11,8 +11,12 @@
             "id": "045e59f216c08857",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/PKM/Building a Seconded Brain.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "zettelkasten/PKM/Building a Seconded Brain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "zettelkasten/PKM/Building a Seconded Brain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "zettelkasten/PKM/Building a Seconded Brain.md"
+              }
             }
           },
           {
@@ -154,7 +162,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "zettelkasten/PKM/Building a Seconded Brain.md"
+              }
             }
           }
         ]
@@ -174,36 +184,36 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "045e59f216c08857",
+  "active": "00358b6c1458fa23",
   "lastOpenFiles": [
-    "output/Untitled.md",
-    "zettelkasten/Index.md",
-    "zettelkasten/object oriented design.md",
-    "output/Index 1.md",
-    "output/How Building a Personal Knowledge Base Helping me as a Software Engineer.md",
-    "output/Why Code Comments Is More Important Than You Think.md",
-    "output/Complexity In Software Design.md",
-    "zettelkasten/active record pattern.md",
-    "zettelkasten/lddd - knowledge discovery.md",
-    "zettelkasten/lddd - business problem discovery.md",
-    "zettelkasten/lddd - discovering domain knowledge.md",
-    "zettelkasten/lddd - communication.md",
-    "zettelkasten/lddd - ubiquitous language.md",
-    "zettelkasten/lddd - using the ubiquitous language.md",
-    "zettelkasten/learning domain driven design.md",
-    "zettelkasten/lddd - implementing simple business logic.md",
-    "zettelkasten/lddd -  analyzing business domains.md",
-    "zettelkasten/lddd - managing domain complexity.md",
-    "zettelkasten/transaction script pattern.md",
-    "zettelkasten/3 ways to corrupt your data when using transaction script.md",
-    "zettelkasten/lddd - supporting subdomain.md",
+    "zettelkasten/PKM/fleeting notes.md",
+    "zettelkasten/PKM/get laser-focused.md",
+    "zettelkasten/PKM/HTNS - nobody ever starts from scratch.md",
+    "zettelkasten/PKM/HTNS - note taking mistakes.md",
+    "zettelkasten/PKM/HTSN - Steps To Successful Writing.md",
+    "zettelkasten/PKM/knowledge workers.md",
+    "zettelkasten/PKM/literature notes.md",
+    "zettelkasten/PKM/index notes.md",
+    "zettelkasten/PKM/Niklas Luhmann.md",
+    "zettelkasten/PKM/PARA.md",
+    "zettelkasten/index.md",
+    "zettelkasten/PKM/zettelkasten.md",
+    "zettelkasten/PKM/avoid multitasking.md",
+    "zettelkasten/PKM/become an expert by practicing.md",
+    "zettelkasten/PKM/Building a Seconded Brain.md",
+    "zettelkasten/PKM/Folgezettel.md",
+    "zettelkasten/PKM/project notes.md",
+    "zettelkasten/PKM/reduce the number of decisions.md",
+    "zettelkasten/PKM/reference notes.md",
+    "zettelkasten/PKM/taking notes and quotes from content to your PKM.md",
+    "zettelkasten/PKM/understand what you read.md",
+    "zettelkasten/PKM/Writing To Learn.md",
+    "zettelkasten/PKM/PKM - Index.md",
+    "zettelkasten/PKM/On Writing Well.md",
+    "zettelkasten/PKM/Luhmann's ZettelKasten.md",
+    "zettelkasten/PKM/Rapid Logging.md",
     "lddd.canvas",
-    "zettelkasten/lddd - integrating bounded contexts.md",
-    "README.md",
     "assets/baby-graph.png",
-    "zettelkasten/bounded contexts context map.md",
-    "zettelkasten/lddd - integrating bounded context with separate-ways or duplication.md",
-    "zettelkasten/lddd - integrating bounded context with customer-supplier pattern.md",
     "assets/Screenshot 2024-02-24 at 08.56.42.png",
     "assets/Screenshot 2024-02-24 at 08.05.09.png",
     "assets/Screenshot 2024-02-24 at 07.56.18.png",
