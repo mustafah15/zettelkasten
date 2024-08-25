@@ -18,4 +18,4 @@ Making [[literature notes]] this way is very different from the traditional way 
 
 while selectivity is the key to smart note-taking it's important to be selective in a smart way while we should seek out disconfirming arguments and facts that challenge our way of thinking we are naturally drawn to everything that makes us feel good with everything that confirms what we already believe we know (confirmation bias)
 
-[[how to avoid confirmation bias when taking notes]]
+[[how to avoid confirmation [bias when taking notes]]

@@ -11,6 +11,8 @@ type: reference
 - [[reduce the number of decisions]]
 - [[become an expert by practicing]]
 - [[understand what you read]]
+- [[make a career one note at a time]]
+- [[avoid cramming]]
 - take smart notes
 - develop ideas
 - Share your insight 
