@@ -11,8 +11,10 @@
             "id": "045e59f216c08857",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "assets/arch.png"
+              }
             }
           }
         ]
@@ -89,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "assets/arch.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "assets/arch.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "assets/arch.png"
+              }
             }
           },
           {
@@ -154,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "assets/arch.png"
+              }
             }
           }
         ]
@@ -176,6 +184,9 @@
   },
   "active": "045e59f216c08857",
   "lastOpenFiles": [
+    "assets/arch1.png",
+    "assets/arch.png",
+    "zettelkasten/technical/DDD - hexagonal architecture.md",
     "zettelkasten/PKM/Building a Seconded Brain.md",
     "zettelkasten/PKM/fleeting notes.md",
     "zettelkasten/PKM/get laser-focused.md",
@@ -200,8 +211,6 @@
     "zettelkasten/PKM/Writing To Learn.md",
     "zettelkasten/PKM/PKM - Index.md",
     "zettelkasten/PKM/On Writing Well.md",
-    "zettelkasten/PKM/Luhmann's ZettelKasten.md",
-    "zettelkasten/PKM/Rapid Logging.md",
     "lddd.canvas",
     "assets/baby-graph.png",
     "assets/Screenshot 2024-02-24 at 08.56.42.png",
@@ -212,7 +221,6 @@
     "assets/Screenshot 2024-02-21 at 08.34.43.png",
     "assets/Screenshot 2024-02-20 at 21.02.33.png",
     "assets/Screenshot 2024-02-20 at 20.43.59.png",
-    "assets/Screenshot 2024-02-08 at 08.31.31.png",
     "output",
     "zettelkasten",
     "assets",

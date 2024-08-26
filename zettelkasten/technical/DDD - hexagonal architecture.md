@@ -25,4 +25,4 @@ Also known as ports and adapters, it's an alternative to the layered or N-tier a
 example on the folder structure for the hexagon architecture
 the request is handled by a controller who use a mapper to map the request to a domain object and then pass it to the service which do the required job for the request and return the response to the controller to replay the request
 
-the service it self use the domain object and use other infra structure objects to be able to do it's job.![[arch1.png]]
+the service it self use the domain object and use other infra structure objects to be able to do it's job

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "arch",
+      "path": "assets/arch.png"
+    },
+    {
+      "basename": "DDD - hexagonal architecture",
+      "path": "zettelkasten/technical/DDD - hexagonal architecture.md"
+    },
+    {
       "basename": "Building a Seconded Brain",
       "path": "zettelkasten/PKM/Building a Seconded Brain.md"
     },
@@ -187,18 +195,6 @@
     {
       "basename": "lddd - effective modeling",
       "path": "zettelkasten/lddd - effective modeling.md"
-    },
-    {
-      "basename": "lddd - integrating bounded contexts",
-      "path": "zettelkasten/lddd - integrating bounded contexts.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "bounded contexts context map",
-      "path": "zettelkasten/bounded contexts context map.md"
     }
   ],
   "omittedPaths": [],
