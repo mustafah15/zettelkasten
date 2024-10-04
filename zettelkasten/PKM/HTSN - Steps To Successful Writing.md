@@ -13,7 +13,9 @@ type: reference
 - [[understand what you read]]
 - [[make a career one note at a time]]
 - [[avoid cramming]]
-- take smart notes
-- develop ideas
-- Share your insight 
+- [[building notes bottom-up]]
+- [[comparing notes]]
+
 - make it a habit
+"every note is just an element in the network of references and back references in the system, 
+from which it gains its quality" Luhmann 1922

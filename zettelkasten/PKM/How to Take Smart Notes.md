@@ -5,7 +5,7 @@ tags:
   - writing
 author:
   - Sönke Ahrens
-mindmap-link: "[[how to take smart notes.excalidraw]]"
+mindmap-link: "[[building a PKM for SEs]]"
 related: "[[Niklas Luhmann]]"
 aliases:
   - HTSN
