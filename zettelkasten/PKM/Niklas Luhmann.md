@@ -3,7 +3,7 @@ tags:
   - book-notes
   - PKM
 ---
-in the 19060s among the staff of the administration office Luhmann was there he want to law school but he as chosen to be a public servant <موظف حكومي> he didn't like the idea of having to work with multiple clients fully aware he is also not suited of a career in **administration as it involves a lot of socializing, to follow his interest in philosophy and sociology he was doing a lot of reading after his 9-5 shift. 
+**in** the 19060s among the staff of the administration office Luhmann was there he want to law school but he as chosen to be a public servant <موظف حكومي> he didn't like the idea of having to work with multiple clients fully aware he is also not suited of a career in **administration as it involves a lot of socializing, to follow his interest in philosophy and sociology he was doing a lot of reading after his 9-5 shift. 
 whenever he encountered something remarkable or had a thought about what he read he make a note. 
 
 after collecting notes for a whule in the way most people do - commenting in the margins of a text, Luhmann realised that his note-taking was not leading anywhere, so he turned note-taking on its head. instead of adding notes to existing categories or respective text he wrote them all on small paper cards, put a number in the corner and collect them in one place - the slip box aka [[zettelkasten]]

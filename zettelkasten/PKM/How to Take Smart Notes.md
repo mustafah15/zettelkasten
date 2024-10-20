@@ -19,7 +19,7 @@ type: reference
 
 #### A few things to keep in mind
 getting the tools ready shouldn't take more than 5-10 mins, but having the right tools is only part of the equation.
-### The Four Underlying Principles 
+### The Underlying Principles 
 
 - [[HTSN - writing is the only thing that matters]]
 - [[HTSN - simplicity is essential]]

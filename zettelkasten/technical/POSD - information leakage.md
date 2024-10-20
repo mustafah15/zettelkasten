@@ -5,6 +5,7 @@ tags:
 parent: "[[POSD - information hiding and information leakage]]"
 aliases:
   - information leakage
+  - Information Leakage
 type: reference
 ---
 the opposite of [[POSD - information hiding|information hiding]] is information leakage. 
