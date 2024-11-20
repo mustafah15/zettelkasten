@@ -18,3 +18,11 @@ aliases:
 
 ### [[Hexagonal Architecture Elements]]
 
+### [[How Hexagonal Architecture is Related to DDD]]
+
+### [[Hexagonal Architecture and DDD anti-corruption layer]]
+
+### [[Hexagonal Architecture vs Clean Architecture]]
+
+### [[Hexagonal Architecture & CQRS]]
+
