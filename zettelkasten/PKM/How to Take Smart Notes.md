@@ -11,7 +11,16 @@ aliases:
   - HTSN
 type: reference
 ---
-"Every intellectual endeavor starts with a note"
+
+#### what is this book about?
+This book aims to change the note-taking techniques that were usually taught without much regard for the overall workflow or the big picture.
+
+#### My Takes on the writer's style
+
+- the writer is using some difficult words for me as nonnative English speaker
+- mundane -> could be replaced by "usual"
+
+"Every intellectual endeavour starts with a note"
 
 ### [[HTSN - Everything You Need To Know]]
 
@@ -31,8 +40,3 @@ getting the tools ready shouldn't take more than 5-10 mins, but having the right
 [[HTSN - Steps To Successful Writing]]
 ### [[Luhmann's ZettelKasten]]
 
-
-my notes on the writer's style
-
-- the writer is using some difficult words for me as nonnative English speaker
-- mundane -> could be replaced by "usual"

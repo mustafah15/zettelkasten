@@ -19,7 +19,7 @@ In this step, you turn to your slip-box. Go through the notes you made in Litera
 
 
 > [!NOTE] take
->  my take here is that I don't put literature note in the inbox as I deal with them as fully processed notes maybe that should be revised.
+>  My take here is that I don't put literature notes in the inbox as I deal with them as fully processed notes maybe that should be revised.
 
 
 
@@ -33,7 +33,6 @@ make sure that you will able to find this note later by either link-ing to it fr
 
 4. develop your topics, questions, and research project bottom up
 from within the system. see what is there what is missing and what questions arise. read more to challenge, strengthen change, and develop your arguments according to the new information you are learning about. take more notes, develop ideas further and see the path that promises the most insight. build upon what you have even if you don't have anything in your zettelkasten you never start from scratch you have already ideas on your mind to be tested opinions to be challenged and questions to be answered.
-
 
 
 5 develop 

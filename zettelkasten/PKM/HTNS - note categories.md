@@ -14,4 +14,4 @@ a good indicator that a note has been not processed for a long time when you are
 
 also in contrast to the [[fleeting notes]] every [[permanent notes]] for the [[zettelkasten]] is elaborated enough to have the potential to become part of or inspire the written piece, as these notes are no longer reminders of thoughts but contain the actual thought or idea in a written format. 
 
-the standard format that enables the notes to build up a critical mass in one place, it is also the key facilitating the thinking and writing process by removing all unnecessary complications or decisions 
+the standard format that enables the notes to build up a critical mass in one place, it is also the key to facilitating the thinking and writing process by removing all unnecessary complications or decisions 
