@@ -29,9 +29,9 @@ write exactly one note for each idea and write as if you were writing for someon
 3.2 adding your atomic permanent note to the zettelkasten
 by filing each one behind one or more related notes look to which note the new one directly relates or if it does not relate directly to any other note yet just file it behind the last one in your train of thoughts 
 add links to related notes
-make sure that you will able to find this note later by either link-ing to it from your index or by making a link to it on a note that you use as an entry point to a discussion or topic and is itself linked to an index.
+make sure that you will able to find this note later by either link-ing to it from your index or by linking to it on a note that you use as an entry point to a discussion or topic and is itself linked to an index.
 
-4. develop your topics, questions, and research project bottom up
+4. develop your topics, questions, and research project bottom-[up
 from within the system. see what is there what is missing and what questions arise. read more to challenge, strengthen change, and develop your arguments according to the new information you are learning about. take more notes, develop ideas further and see the path that promises the most insight. build upon what you have even if you don't have anything in your zettelkasten you never start from scratch you have already ideas on your mind to be tested opinions to be challenged and questions to be answered.
 
 

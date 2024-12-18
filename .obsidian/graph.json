@@ -2,21 +2,57 @@
   "collapse-filter": false,
   "search": "",
   "showTags": true,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#PKM  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#software-design  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "tag:#ddd  ",
+      "color": {
+        "a": 1,
+        "rgb": 5402336
+      }
+    },
+    {
+      "query": "tag:#distributed-systems  ",
+      "color": {
+        "a": 1,
+        "rgb": 14718802
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1.3,
-  "nodeSizeMultiplier": 1.02290909090909,
-  "lineSizeMultiplier": 1.02181818181818,
-  "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 12.7525046382189,
-  "linkStrength": 0.690315398886828,
-  "linkDistance": 250,
-  "scale": 0.22422615321765468,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.590426716141002,
+  "repelStrength": 10.9387755102041,
+  "linkStrength": 0.579666048237477,
+  "linkDistance": 319,
+  "scale": 0.17957137791801575,
   "close": false
 }

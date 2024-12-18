@@ -23,3 +23,5 @@ related: "[[PKM - Index]]"
 - ### What To Write About and how not to do it. 
 - ### Writing for Readers 
 - ### Managing your writing projects
+- ### Managing your writing process. 
+

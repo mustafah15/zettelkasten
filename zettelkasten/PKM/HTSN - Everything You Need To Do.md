@@ -2,7 +2,7 @@
 tags:
   - book-notes
   - PKM
-type: fleeting
+type: permanent
 deeper: "[[HTSN - Writing a Paper step-by-step]]"
 parent: "[[How to Take Smart Notes|HTSN]]"
 ---
