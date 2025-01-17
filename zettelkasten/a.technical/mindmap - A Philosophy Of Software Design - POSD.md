@@ -92,7 +92,7 @@ mindmap-plugin: basic
 - [[names should be precise]]
 - [[names should be consistent]]
 
-## [[POSD - modifying existing code]]
+## [[modifying existing code]]
 
 ## [[benefits of code consistency]]
 - ensuring consistency

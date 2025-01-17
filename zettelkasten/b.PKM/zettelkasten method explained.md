@@ -1,7 +1,6 @@
 ---
 tags:
   - PKM
-  - output
 type: permanent
 ---
 - [[zettelkasten as an object]]

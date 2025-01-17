@@ -3,7 +3,8 @@ tags:
   - distributed-systems
   - kubernetes
   - infrastructure
-type: permanent
+type: index
+index: true
 ---
 
 - [[Kubernetes Architecture]]

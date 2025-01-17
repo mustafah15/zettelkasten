@@ -1,8 +1,7 @@
 ---
 tags:
-  - software-design
-  - design-patterns
   - oop
+  - software-design/design-patterns
 parent: "[[behavioural design patterns]]"
 type: permanent
 ---

@@ -1,10 +1,9 @@
 ---
 tags:
-  - software-design
-  - design-patterns
   - oop
-related: "[[design patterns]]"
+  - software-design/design-patterns
 type: permanent
+parent: "[[design patterns]]"
 ---
 - In this part, we will discuss behavioral patterns. These patterns ensure effective communication between different objects in a system, assign responsibilities to them, and make sure they all have synchronized information.
 - In plain words

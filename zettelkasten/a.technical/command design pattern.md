@@ -1,12 +1,11 @@
 ---
 tags:
-  - design-patterns
   - oop
-  - software-design
-related: "[[behavioural design patterns]]"
+  - software-design/design-patterns
 aliases:
   - command design pattern
 type: permanent
+parent: "[[behavioural design patterns]]"
 ---
 - The **command pattern** allows encapsulation of the requests or operations into separate objects. It decouples the objects that send requests from the objects responsible for executing those requests.
 - Consider an example where the client is accessing the methods of an API directly throughout the application. What will happen if the implementation of that API changes? The change will have to be made everywhere the API is being used. __To avoid this, we could make use of abstraction and separate the objects requesting from those implementing the request__. Now, if a change occurs, only the object making the call will need to change.

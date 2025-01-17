@@ -1,9 +1,9 @@
 ---
 tags:
   - oop
-  - design-patterns
-related: "[[design patterns]]"
+  - software-design/design-patterns
 type: permanent
+parent: "[[design patterns]]"
 ---
 As the name implies, these patterns provide optimized object-creation techniques. They help cater to the design and complexity problems that might occur when using the basic approach. They also help control the creation of objects.
 

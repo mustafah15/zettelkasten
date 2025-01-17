@@ -1,8 +1,7 @@
 ---
 tags:
-  - software-design
   - oop
-  - design-patterns
+  - software-design/design-patterns
 aliases:
   - facade design pattern
 related: "[[structural design patterns]]"

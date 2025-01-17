@@ -1,7 +1,7 @@
 ---
 tags:
   - software-design
-related: 
+related: "[[Object-oriented programming]]"
 type: permanent
 ---
 

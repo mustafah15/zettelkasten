@@ -26,7 +26,7 @@ type: literature
 - [[how to write better code comments]]
 - [[choosing names]]
 - [[write code comments first]]
-- [[POSD - modifying existing code]]
+- [[modifying existing code]]
 - [[benefits of code consistency]]
 - [[your code can be more obvious]]
 

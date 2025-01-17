@@ -1,9 +1,9 @@
 ---
 tags:
   - oop
-  - design-patterns
-related: "[[behavioural design patterns]]"
+  - software-design/design-patterns
 type: permanent
+parent: "[[behavioural design patterns]]"
 ---
 The visitor pattern allows the definition of new operations to the collection of objects without changing the structure of the objects themselves. This allows us to separate the class from the logic it implements.
 

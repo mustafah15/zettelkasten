@@ -1,10 +1,9 @@
 ---
 tags:
   - oop
-  - software-design
-  - design-patterns
-related: "[[design patterns]]"
+  - software-design/design-patterns
 type: permanent
+parent: "[[design patterns]]"
 ---
 
 

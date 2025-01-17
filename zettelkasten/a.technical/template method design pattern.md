@@ -1,7 +1,7 @@
 ---
 tags:
-  - design-patterns
   - oop
+  - software-design/design-patterns
 aliases:
   - template method design pattern
 related: "[[behavioural design patterns]]"

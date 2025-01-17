@@ -1,7 +1,7 @@
 ---
 tags:
   - oop
-  - design-patterns
+  - software-design/design-patterns
 parent: "[[creational design patterns]]"
 type: permanent
 ---

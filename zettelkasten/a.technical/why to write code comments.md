@@ -19,5 +19,5 @@ related: "[[write code comments first]]"
 
 deeper:
 
-- [[benefits of well-written comments]]
+- [[benefits of well-written code comments]]
 - [[developer excuses not to write code]]

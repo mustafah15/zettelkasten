@@ -1,11 +1,11 @@
 ---
 tags:
-  - design-patterns
   - oop
-related: "[[behavioural design patterns]]"
+  - software-design/design-patterns
 aliases:
   - strategy design pattern
 type: permanent
+parent: "[[behavioural design patterns]]"
 ---
 - what is sa trategy pattern?
 

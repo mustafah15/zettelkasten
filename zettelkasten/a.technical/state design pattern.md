@@ -1,11 +1,11 @@
 ---
 tags:
   - oop
-  - design-patterns
-related: "[[behavioural design patterns]]"
+  - software-design/design-patterns
 aliases:
   - state design pattern
 type: permanent
+parent: "[[behavioural design patterns]]"
 ---
 - what is the state pattern?
 
