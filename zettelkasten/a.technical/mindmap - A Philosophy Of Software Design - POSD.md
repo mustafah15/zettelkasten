@@ -55,7 +55,7 @@ mindmap-plugin: basic
     - why pass-through methods are bad?
 - [[pass-through variables]]
     - why do pass-through variables add complexity?
-- [[when is interface duplication okay?]]
+- [[when is interface duplication okay]]
 
 ## [[better together or better apart]]
 - [[when to bring modules together]]

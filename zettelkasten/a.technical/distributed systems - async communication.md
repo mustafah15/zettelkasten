@@ -56,4 +56,4 @@ It is also possible to **add a new microservice** that generates statistics wh
 		- **Event-driven**: When an order is placed, the Order service publishes a NewOrder event. Your Payment service subscribes to that type of event so it is triggered. Your service processes the request and either publishes an AuthorizationAccepted or an AuthorizationDeclined event. The Order service subscribes to those event types. All events are asynchronous.
 
 
-### [[what is a messaging system?]]
+### [[what is a messaging system]]
