@@ -2,7 +2,7 @@
 tags:
   - kubernetes
   - infrastructure
-related: "[[Kubernetes]]"
+related: "[[kubernetes]]"
 type: permanent
 ---
 - running a pod from image 

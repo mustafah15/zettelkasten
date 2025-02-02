@@ -2,7 +2,7 @@
 tags:
   - kubernetes
   - infrastructure
-related: "[[Kubernetes]]"
+related: "[[kubernetes]]"
 type: permanent
 ---
 There are two types of accounts in Kubernetes

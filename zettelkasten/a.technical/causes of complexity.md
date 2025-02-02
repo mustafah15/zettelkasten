@@ -4,7 +4,7 @@ tags:
 related: "[[complexity in software design]]"
 aliases:
   - causes of complexity
-type: reference
+type: literature
 ---
 causes of complexity 
 
@@ -12,5 +12,5 @@ The next step is to understand what causes complexity in the first place so that
 complexity is caused by two main things
 
 
-[[dependencies]]
-[[obscurity]]
+### [[dependencies]]
+### [[obscurity]]

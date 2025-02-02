@@ -9,16 +9,16 @@ aliases:
   - lddd
 author:
   - Vlad Khononov
-type: reference
+type: index
 ---
 - Strategic Design
-	- [[lddd -  analyzing business domains]]
-	- [[lddd - discovering domain knowledge]]
-	- [[lddd - managing domain complexity]]
+	- [[analyzing business domains]]
+	- [[discovering domain knowledge]]
+	- [[managing domain complexity]]
 	- [[lddd - integrating bounded contexts]]
 - Tactical Design
 	- [[lddd - implementing simple business logic]]
-	- [[lddd - tackling complex business logic]] <- start here
+	- [[tackling complex business logic]] <- start here
 - DDD In Practice 
 	- even sourcing
 	- architecture patterns

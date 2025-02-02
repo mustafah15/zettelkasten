@@ -3,7 +3,7 @@ tags:
   - kubernetes
   - infrastructure
 type: permanent
-related: "[[Kubernetes]]"
+related: "[[kubernetes]]"
 ---
 - ### [[Kubernetes -  pods - arguments and commands]]
 - ### [[Kubernetes - env variables]]

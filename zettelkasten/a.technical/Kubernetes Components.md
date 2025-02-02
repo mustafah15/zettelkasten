@@ -3,7 +3,7 @@ tags:
   - kubernetes
   - infrastructure
 type: permanent
-related: "[[Kubernetes]]"
+related: "[[kubernetes]]"
 ---
 ![[kubernetes components.png]]
 when you are installing Kubernetes on the system you are actually installing the following components 

@@ -3,7 +3,7 @@ tags:
   - docker
   - infrastructure
 type: permanent
-related: "[[Kubernetes]]"
+related: "[[kubernetes]]"
 ---
 
 ## process isolation 

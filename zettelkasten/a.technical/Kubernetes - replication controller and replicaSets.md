@@ -2,7 +2,7 @@
 tags:
   - kubernetes
   - infrastructure
-related: "[[Kubernetes]]"
+related: "[[kubernetes]]"
 type: permanent
 ---
 what is a replica and why do we need a replication controller?

@@ -2,7 +2,7 @@
 tags:
   - kubernetes
   - infrastructure
-parent: "[[Kubernetes]]"
+parent: "[[kubernetes]]"
 type: permanent
 ---
 

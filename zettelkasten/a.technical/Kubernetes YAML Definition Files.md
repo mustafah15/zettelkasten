@@ -3,7 +3,7 @@ tags:
   - kubernetes
   - infrastructure
 type: permanent
-parent: "[[Kubernetes]]"
+parent: "[[kubernetes]]"
 ---
 A Kubernetes definition file always contains 
 four top-level fields 
