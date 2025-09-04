@@ -3,7 +3,7 @@ tags:
   - book-notes
   - software-design
 parent: "[[different layer different abstraction]]"
-type: reference
+type: literature
 ---
 Another form of API duplication across layers is a pass-through variable which is a variable that is passed down through a long chain of methods.
 

@@ -2,8 +2,8 @@
 tags:
   - book-notes
   - ddd
-parent: "[[lddd - converting business domain to a model]]"
-type: reference
+parent: "[[converting business domain to a model]]"
+type: literature
 ---
 ## What is a model?
 A model is not a copy of the real world but a human contract that helps us make sense of real-world systems.

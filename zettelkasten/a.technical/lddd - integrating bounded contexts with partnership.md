@@ -4,8 +4,8 @@ tags:
   - ddd
 aliases:
   - bounded context partnership
-parent: "[[lddd - integrating bounded context with cooperation pattern]]"
-type: reference
+parent: "[[integrating bounded context with cooperation pattern]]"
+type: literature
 ---
 ### Partnership
 

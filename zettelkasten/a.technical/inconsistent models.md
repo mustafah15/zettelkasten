@@ -2,10 +2,10 @@
 tags:
   - book-notes
   - ddd
-parent: "[[lddd - managing domain complexity]]"
+parent: "[[managing domain complexity]]"
 aliases:
   - Inconsistent Models
-type: reference
+type: literature
 ---
 
 Imagine a telemarketing company can use the term "lead" in a different meaning in the marketing and sales departments:

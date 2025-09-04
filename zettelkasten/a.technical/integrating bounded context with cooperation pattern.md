@@ -5,7 +5,7 @@ tags:
 parent: "[[lddd - integrating bounded contexts]]"
 aliases:
   - cooperation patterns
-type: reference
+type: literature
 ---
 
 
@@ -17,6 +17,6 @@ There are two DDD patterns suitable for cooperating teams: the partnership and s
 
 ### [[lddd - integrating bounded contexts with partnership|bounded context partnership]]
 
-### [[lddd - bounded context shared kernel]]
+### [[integrating bounded contexts with shared kernel]]
 
 

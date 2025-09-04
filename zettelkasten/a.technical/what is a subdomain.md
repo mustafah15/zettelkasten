@@ -2,7 +2,7 @@
 tags:
   - book-notes
   - ddd
-related: "[[lddd -  analyzing business domains]]"
+related: "[[analyzing business domains]]"
 aliases:
   - subdomain
 type: permanent

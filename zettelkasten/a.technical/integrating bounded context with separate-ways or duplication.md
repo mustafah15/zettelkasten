@@ -5,7 +5,7 @@ tags:
 parent: "[[lddd - integrating bounded contexts]]"
 aliases:
   - separate-ways pattern
-type: reference
+type: literature
 ---
 
 ## Separate Ways

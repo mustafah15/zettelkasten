@@ -3,7 +3,7 @@ tags:
   - ddd
 aliases:
   - what is ubiquitous language
-parent: "[[lddd - communication]]"
+parent: "[[communication for software projects]]"
 type: literature
 deeper: "[[using the ubiquitous language|using the ubiquitous language]]"
 ---

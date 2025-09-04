@@ -2,8 +2,8 @@
 tags:
   - book-notes
   - ddd
-parent: "[[lddd - converting business domain to a model]]"
-type: reference
+parent: "[[converting business domain to a model]]"
+type: literature
 ---
 ### Modeling the business domain
 When cultivating a [[ubiquitous language]], we are effectively building a model of the business domain. The model should capture the domain experts' mental models about how the business works to implement its function.

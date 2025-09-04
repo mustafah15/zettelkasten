@@ -2,7 +2,7 @@
 tags:
   - book-notes
   - ddd
-parent: "[[lddd -  analyzing business domains]]"
+parent: "[[analyzing business domains]]"
 aliases:
   - types of subdomains
 type: permanent

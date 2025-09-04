@@ -2,14 +2,13 @@
 tags:
   - book-notes
   - ddd
-related: "[[lddd - integrating bounded context with cooperation pattern]]"
-aliases:
-  - integrating bounded contexts with shared kernel
-type: reference
+related: "[[integrating bounded context with cooperation pattern]]"
+type: literature
 ---
 ### Shared Kernel 
 Despite [[DDD - bounded context|bounded context]] being model boundaries there still can be cases when the same model of a subdomain or a part of it will be implemented in multiple bounded contexts, it's crucial to stress that the shared model is designed according to the needs of all the bounded contexts more over the shared model has to be consistent across all of the bounded contexts that are using it.
-- an example, consider an enterprise system that uses a model for managing user permissions each user can have their permissions granted directly or inherited from one of the organization models, more over each bounded context can modify the authorization model, and the changes each bounded context applies have to affect all the other bounded context using the model
+- an example, consider an enterprise system that uses a model for managing user permissions each user can have their permissions granted directly or inherited from one of the organization models, more over each bounded context can modify the authorization model, and the changes each bounded context applies have to affect all the other bounded context using the model.
+
 ![[Screenshot 2024-02-20 at 21.02.33.png]]
 
 #### Shared Scope

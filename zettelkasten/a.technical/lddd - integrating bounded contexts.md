@@ -3,7 +3,7 @@ tags:
   - book-notes
   - ddd
 parent: "[[Learning Domain Driven Design|lddd]]"
-type: reference
+type: literature
 ---
 not only does the bounded context protect the consistency of a ubiquitous language but it also enables modeling, you can't build a model without specifying its purpose and its boundary the boundary divides the responsibility of languages as A language in one bounded context can model the business domain to solve a particular problem another bounded context can represent the same business entities but model them to solve a different problem. 
 
@@ -16,10 +16,10 @@ DDD Patterns for defining relationships and integration between bounded contexts
 
 Cooperation, Customer-Supplier, and Separate Ways.
 
-## [[lddd - integrating bounded context with cooperation pattern|cooperation patterns]]
+## [[integrating bounded context with cooperation pattern|cooperation patterns]]
 
-## [[lddd - integrating bounded context with customer-supplier pattern|customer-supplier pattern]]
+## [[integrating bounded context with customer-supplier pattern|customer-supplier pattern]]
 
-## [[lddd - integrating bounded context with separate-ways or duplication|separate-ways pattern]]
+## [[integrating bounded context with separate-ways or duplication|separate-ways pattern]]
 
-## [[lddd - bounded contexts context map]]
+## [[bounded contexts context map]]

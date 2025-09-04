@@ -2,10 +2,10 @@
 tags:
   - book-notes
   - ddd
-parent: "[[lddd - Identifying Subdomain Boundaries]]"
+parent: "[[identifying subdomain boundaries]]"
 aliases:
   - subdomains as coherent use cases
-type: reference
+type: literature
 ---
 
 

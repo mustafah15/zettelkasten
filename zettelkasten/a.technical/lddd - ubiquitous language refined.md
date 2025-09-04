@@ -2,7 +2,7 @@
 tags:
   - book-notes
   - ddd
-parent: "[[lddd - managing domain complexity]]"
+parent: "[[managing domain complexity]]"
 type: literature
 ---
 

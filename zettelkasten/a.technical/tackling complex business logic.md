@@ -3,7 +3,7 @@ tags:
   - ddd
   - system-design
 parent: "[[Learning Domain Driven Design]]"
-type: reference
+type: literature
 ---
 we have been introduced to the [[lddd - implementing simple business logic]] in this part we will study a few patterns to help us tackle complex logic.
 
@@ -18,5 +18,3 @@ A domain model is an object model of the domain that incorporates both behavior 
 All of these patterns out the business logic first.
 #### Implementation Complexity 
 The domain business logic is already inherently complex so the objects used for modeling it should not introduce any additional accidental complexities. the model should be devoid of any infrastructure or technological concerns, this restriction requires the model's objects to be plain old objects, objects implementing business logic without relying on or directly incorporating any infrastructural components or frameworks.
-
-#### Implementation ubiquitous language 
