@@ -72,5 +72,5 @@ It prevents your domain from dealing with the mess of the legacy system.
 ## [[DDD - bounded context]]
 ## [[DDD - domain activities]] 
 ## [[DDD - domain abstraction]]
-## [[DDD - domain objects]]
+## [[DDD - tactical patterns]]
 ## [[DDD - hexagonal architecture]]

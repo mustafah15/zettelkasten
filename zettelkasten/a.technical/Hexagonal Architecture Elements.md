@@ -5,7 +5,7 @@ tags:
 type: permanent
 related: "[[Hexagonal Architecture Explained]]"
 ---
-there are four basic elements in this pattern 
+There are four basic elements in this pattern 
 
 1. the application or the system itself, which we call the "app"
 2. the ports.

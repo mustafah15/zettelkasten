@@ -50,22 +50,22 @@ In addition to primitive types, TypeScript also supports more complex types that
 
 Using these complex types, developers can create more sophisticated data structures that better reflect the needs of their application. 
 
-|Type|Description|
-|---|---|
-|boolean|A logical value that can be either true or false.|
-|number|A numeric value, which can be either an integer or a floating-point number.|
-|string|A sequence of characters that represents text.|
-|null|A special value that represents the absence of any object value.|
-|undefined|A special value that represents a variable that has not been assigned a value.|
-|any|A type that represents any value.|
-|void|A type that represents the absence of a value.|
-|object|A type that represents any non-primitive value.|
-|array|An ordered list of values, all of which must be of the same type.|
-|tuple|A type that represents an array with a fixed number of elements, each of which can be a different type.|
-|enum|A type that represents a set of named values.|
-|function|A type that represents a function.|
-|interface|A type that defines a contract for an object's properties and methods.|
-|class|A type that represents an object with properties and methods.|
+| Type      | Description                                                                                             |
+| --------- | ------------------------------------------------------------------------------------------------------- |
+| boolean   | A logical value that can be either true or false.                                                       |
+| number    | A numeric value, which can be either an integer or a floating-point number.                             |
+| string    | A sequence of characters that represents text.                                                          |
+| null      | A special value that represents the absence of any object value.                                        |
+| undefined | A special value that represents a variable that has not been assigned a value.                          |
+| any       | A type that represents any value.                                                                       |
+| void      | A type that represents the absence of a value.                                                          |
+| object    | A type that represents any non-primitive value.                                                         |
+| array     | An ordered list of values, all of which must be of the same type.                                       |
+| tuple     | A type that represents an array with a fixed number of elements, each of which can be a different type. |
+| enum      | A type that represents a set of named values.                                                           |
+| function  | A type that represents a function.                                                                      |
+| interface | A type that defines a contract for an object's properties and methods.                                  |
+| class     | A type that represents an object with properties and methods.                                           |
 
 
 ### TypeScript's Type System Is A Type Inference System

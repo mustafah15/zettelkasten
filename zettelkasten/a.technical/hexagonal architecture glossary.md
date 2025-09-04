@@ -14,7 +14,7 @@ The wider system includes adapters and immediately connected technology such as 
 
 - [[Hexagonal Architecture Port]]
 
-- [[Hexagonal Architecture Adapter]]
+- [[Hexagonal Architecture **Adapter**]]
 
 - [[Hexagonal Architecture Actor]]
 

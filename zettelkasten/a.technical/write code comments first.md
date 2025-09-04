@@ -18,7 +18,7 @@ one of the surest ways to produce poor-quality documentation is to write documen
 	- Iterate a bit over these comments until the basic structure feels about right.
 	- at this point write declaration and comments for the most important class instance variables in the class.
 	- finally fill in the bodies of the methods, adding implementation comments as needed.
-	- while writing method bodies you might discover the need for additional methods and instance variables. for each new method write the interface comment before the body of the method; for instance, variables fill in the comment at the same time that I write the variable declaration.
+	- while writing method bodies you might discover the need for additional methods and instance variables. for each new method write the interface comment before the body of the method; for instance, variables fill in the comment at the same time that I write the variable declaration. 
 - when the code is done the comments are also done there is never a backlog of unwritten comments.
 
 ### the comments-first approach has three benefits.
