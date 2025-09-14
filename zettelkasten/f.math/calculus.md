@@ -23,3 +23,6 @@ Why Calculus is important for me:
 ### [[trigonometric functions]]
 
 ### [[limits]] 
+
+
+[[derivatives]]

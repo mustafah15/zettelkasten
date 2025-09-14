@@ -16,8 +16,21 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "fddae1207358e203",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,7 +213,7 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "43a92e00adff4268",
+  "active": "fddae1207358e203",
   "lastOpenFiles": [
     "assets/arch.png",
     "assets/arch1.png",
