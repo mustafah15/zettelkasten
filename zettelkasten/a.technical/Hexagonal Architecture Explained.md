@@ -26,3 +26,4 @@ aliases:
 
 ### [[Hexagonal Architecture & CQRS]]
 
+[[implementing hexagonal architecture course]]

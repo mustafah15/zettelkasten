@@ -15,14 +15,15 @@ $$
 &\text{where } dy/du \text{ is evaluated at } u = g(x).
 \end{align}
 $$
+
 “Outside-Inside” Rule
 A difficulty with the Leibniz notation is that it doesn’t state specifically where the derivatives in the Chain Rule are supposed to be evaluated. So it sometimes helps to think about the Chain Rule using functional notation. If y= ƒ(g(x)).
 In words, differentiate the “outside” function ƒ and evaluate it at the “inside” function g(x) left alone; then multiply by the derivative of the “inside function.”
 
 $$
 \begin{align}
-&\textbf{\color{red}EXAMPLE} \quad \text{Differentiate } \sin(x^2 + x) \text{ with respect to } x. \\[1.5em]
-&\textbf{\color{red}Solution} \quad \text{We apply the Chain Rule directly and find} \\[1em]
+&\textbf{\color{blue}EXAMPLE} \quad \text{Differentiate } \sin(x^2 + x) \text{ with respect to } x. \\[1.5em]
+&\textbf{\color{blue}Solution} \quad \text{We apply the Chain Rule directly and find} \\[1em]
 &\qquad \frac{d}{dx} \sin(x^2 + x) = \cos(x^2 + x) \cdot (2x + 1). \\[0.5em]
 &\qquad\qquad \underbrace{\phantom{(x^2 + x)}}_{\color{blue}\text{inside}} \quad \underbrace{\phantom{(x^2 + x)}}_{\color{blue}\text{inside}} \quad \underbrace{\phantom{(2x + 1)}}_{\color{blue}\text{derivative of}} \\
 &\qquad\qquad\qquad\qquad\quad \color{blue}\text{left alone} \quad \color{blue}\text{the inside}

@@ -18,11 +18,15 @@ Why Calculus is important for me:
 
 #### [[math functions]]
 
-#### [[combining and composite functions]]
+### [[combining and composite functions]]
 
 ### [[trigonometric functions]]
 
 ### [[limits]] 
 
+### [[derivatives]]
+- [[differentiation rules]]
+- [[derivatives of trigonometric functions]]
+- [[derivatives chain rule]]
 
-[[derivatives]]
+[[integration techniques]]

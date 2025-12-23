@@ -5,8 +5,8 @@ tags:
 parent: "[[distributed systems]]"
 type: permanent
 ---
-
-## [[distributed systems - event sourcing]]
+ 
+## [[event sourcing]]
 
 ## [[distributed systems - CQRS]]
 
