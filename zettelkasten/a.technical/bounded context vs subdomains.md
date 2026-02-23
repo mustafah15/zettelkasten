@@ -12,7 +12,7 @@ At first, the two methods of decomposing the business domain might seem redundan
 ### subdomains 
 According to DDD methodology, the analysis phase involves identifying the different subdomains (core, supporting, and generic), that's how the organization works and plans its competitive strategy, a subdomain resembles a set of interrelated use cases the use case is defined by the business domain and the system's requirements. As software engineer, we don't define the requirement instead we are analysing the business domain to identify the subdomains. 
 ### Bounded Contexts
-Bounded Contexts on the other hand are designed, choosing models' boundaries is a strategic design decision. we decide how to divide the business domain into smaller manageable problem domains. 
+Bounded Contexts on the other hand are designed, choosing models' boundaries is a strategic design decision. we decide how to divide the business domain into smaller, manageable problem domains. 
 
 ### The interplay between subdomains and bounded context 
 Theoretically, though impractically a single model could span the entire business domain this strategy could work for a small system

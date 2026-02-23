@@ -24,6 +24,7 @@ aliases:
 
 ### [[Hexagonal Architecture vs Clean Architecture]]
 
-### [[Hexagonal Architecture & CQRS]]
+### [[hexagonal architecture and cqrs]]
 
-[[implementing hexagonal architecture course]]
+
+my own version of hexagonal architecture is here [[0.implementing ports and adapters architecture with nestjs]]

@@ -14,4 +14,4 @@ If the downstream team can accept the upstream model, the bounded contexts relat
 
 ![[Screenshot 2024-02-24 at 07.12.32.png]]
 
-the downstream team's decision to give up some of its autonomy can be justified in multiple ways. for example, the contract exposed by the upstream team may be an industry-standard model, or it may be just good enough for the downstream team's need
+The downstream team's decision to give up some of its autonomy can be justified in multiple ways. For example, the contract exposed by the upstream team may be an industry-standard model, or it may be just good enough for the downstream team's needs

@@ -9,7 +9,7 @@ type: literature
 ---
 
 ## Separate Ways
-This pattern can arise for different reasons in cases where the teams are unwilling to unable to collaborate due to the following:
+This pattern can arise for different reasons in cases where the teams are unwilling or unable to collaborate due to the following:
 ### 1. Communication issues
 A common reason for avoiding collaboration is communication difficulties driven by the organization's size or internal politics. When teams have a hard time collaborating and agreeing it may be more cost-effective to go their separate ways and duplicate functionality in multiple bounded contexts.
 

@@ -26,6 +26,6 @@ Let's say that in some business domains, the term policy has multiple meanings i
 [[ubiquitous language]] demands a single meaning for each term so "policy" should be modeled explicitly using two terms **regulatory rule** and **insurance contract**.
 
 #### synonymous terms
-two terms cannot be used interchangeably in a [[ubiquitous language]]. for example, many systems use the term **user** however a careful examination of the domain experts' lingo may reveal that user and other terms are used interchangeably for example user, visitor, and account.
+Two terms cannot be used interchangeably in a [[ubiquitous language]]. for example, many systems use the term **user** however, a careful examination of the domain experts' lingo may reveal that user and other terms are used interchangeably for example user, visitor, and account.
 synonymous terms can seem harmless at first however in most cases they contain different concepts in this example both visitor and account technically refer to the system's user however in most systems unregistered and registered users represent different roles and have different behaviours. for example, the "visitors" data is used mainly for analysis purposes whereas "accounts" actually use the system and its functionality 
 so it is preferable to use each term explicitly in its specific context. Understanding the difference between the terms in use allows for building simpler and clearer models and implementations of the business domain entities.

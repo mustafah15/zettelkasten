@@ -3,7 +3,7 @@ tags:
   - book-notes
   - ddd
 related: "[[building boundaries with bounded context]]"
-type: literature
+type: permanent
 ---
 ### Ownership boundaries 
 In software projects, we can leverage model boundaries aka bounded contexts for the peaceful coexistence of teams. the division of work between teams is another strategic decision that can be made using the bounded context pattern.

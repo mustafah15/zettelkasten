@@ -1,6 +1,7 @@
 ---
 tags:
   - system-design
+  - hexagonal-architecture
 type: permanent
 parent: "[[Hexagonal Architecture Explained]]"
 ---

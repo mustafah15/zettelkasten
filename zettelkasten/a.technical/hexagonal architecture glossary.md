@@ -14,12 +14,14 @@ The wider system includes adapters and immediately connected technology such as 
 
 - [[Hexagonal Architecture Port]]
 
-- [[Hexagonal Architecture **Adapter**]]
+- [[hexagonal architecture adapter]]
 
 - [[Hexagonal Architecture Actor]]
 
 - [[Hexagonal Architecture Interactor]]
 
 - [[Hexagonal Architecture Interface]]
+- 
+- [[hexagonal architecture application core or system]]
+- 
 
-- [[Hexagonal Architecture Application, Core or System]]
