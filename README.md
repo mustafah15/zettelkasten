@@ -1,6 +1,7 @@
 # Mustafa's Technical zettelkästen (notes)
 
-You can view those notes on https://mhussain.dev by the help of [quartz](quartz.jzhao.xyz)
+## THIS REPO IS NO LONGER UPDATED
+
 
 This is my technical [obsidian.md](https://obsidian.md) graph feel free to copy, edit or fork.
 
